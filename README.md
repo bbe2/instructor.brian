@@ -3,5 +3,5 @@
 southern.new.hampshire.university
 b.hogan@snhu.edu
 
-### **=>12.15.2022 - finalizing syllabus so please check back**
+### **=>12.19.2022 - finalizing syllabus and materials so please check back**
 
