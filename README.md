@@ -2,7 +2,7 @@
 
 **Links/Branches**  
 • >_7.py.pillars______  
-==> <my custom coding course correcting gaps in existing training materials transforming shy new learners into coders>
+==> my custom coding course correcting gaps in current training literature, effectively transforming shy new learners into coders  
 • it.226.spring.2023_https://github.com/bbe2/university_instruction/tree/it.226.spring.2023  
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
 
