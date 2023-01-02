@@ -2,9 +2,9 @@
 ### please advise of broken links 
 
 **Links/Branches**  
-it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022
+>_7.py.pillars______  
 it.226.spring.2023__https://github.com/bbe2/university_instruction/tree/it.226.spring.2023  
->_7.py.pillars______
+it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
 
 **Inspiration**
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.” ->Nuclear Physicist Hans Bethe  
