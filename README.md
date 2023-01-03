@@ -5,7 +5,7 @@ i.	github - class source essentials
 • syllabus: https://github.com/bbe2/professor/blob/it.226.spring.2023/x.syllabus.it.226.spring.2023.pdf  
 
 ii.	google sheets - all work assigned and turned in here  
-• https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit?usp=sharing  
+• https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0
 
 iii.	slack - reach out to work with teams when swarming  
 • https://join.slack.com/t/slack-rvm1186/shared_invite/zt-1m8veb239-hrW7CKiAode_cHIQfW_46A  
