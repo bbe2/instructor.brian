@@ -5,6 +5,7 @@
 i.	github
 	class source essentials
 	https://github.com/bbe2/professor/tree/it.226.spring.2023
+syllabus: https://github.com/bbe2/professor/blob/it.226.spring.2023/x.syllabus.it.226.spring.2023.pdf
 
 ii.	google sheets
 	3 total: assignments, QA, and wordsmithy
