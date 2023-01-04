@@ -1,5 +1,10 @@
 #### it.226.spring.2023 - Comm. in STEM Professions
 
+Audio_Files: <only valid for school email>
+wk0.d1: https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETZjVfM21S9Lu2Uglzq7DPcBfIS2sgUSYcQPBnvCZ6BWSQ?e=q13yuF
+
+
+
 i.	github - class source essentials  
 • https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • syllabus: https://github.com/bbe2/professor/blob/it.226.spring.2023/x.syllabus.it.226.spring.2023.pdf  
