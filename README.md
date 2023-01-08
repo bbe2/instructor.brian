@@ -1,6 +1,6 @@
 #### it.226.spring.2023 - Comm. in STEM Professions
 
-Audio_Files: <only valid for school email>  
+Class audio files - valid for snhu email only as on school onedrive   
 • 0.d1  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETZjVfM21S9Lu2Uglzq7DPcBfIS2sgUSYcQPBnvCZ6BWSQ?e=q13yuF  
 • 0.d2  
