@@ -1,6 +1,6 @@
 #### it.226.spring.2023 - Comm. in STEM Professions
 
-Class audio files - valid for snhu email only as on school onedrive   
+Class audio files - valid for snhu email only as on school onedrive     
 • 0.d1  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETZjVfM21S9Lu2Uglzq7DPcBfIS2sgUSYcQPBnvCZ6BWSQ?e=q13yuF  
 • 0.d2  
@@ -16,7 +16,7 @@ github / syllabus
 • https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • syllabus at bottom titled: x.syllabus.it.226.spring.2023.pdf  
  
-google sheets
+google sheets  
 https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 • assign.submit: weekly tasks, link to tasks, and paste your completed work  
 • thread.QA: post questions for instructor to answer and class thread discussions   
