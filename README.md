@@ -2,8 +2,10 @@
 
 **Links/Branches**  
 • it.226.spring.2023_https://github.com/bbe2/university_instruction/tree/it.226.spring.2023  
- • it. (pending instructional design assignment)    
+• it. (pending instructional design assignment)    
+ 
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
+ 
 • >_7.py.pillars______  
 ==> custom coding course correcting gaps in training literature on data transformation skilling
  
