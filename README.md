@@ -1,13 +1,11 @@
 #### it.226.spring.2023 - Comm. in STEM Professions
 
-Class audio files - valid for snhu email only as on school onedrive     
+Class audio files - onedrive snhu email only  
 • 0.d1  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETZjVfM21S9Lu2Uglzq7DPcBfIS2sgUSYcQPBnvCZ6BWSQ?e=q13yuF  
 • 0.d2  
 https://snhu-my.sharepoint.com/:u:/r/personal/b_hogan_snhu_edu/Documents/it.226_voicenotes/wk0.d2.it.226.01062023.mp3?csf=1&web=1&e=ea1rVY  
 
-
-it.226.writers!  
 ### key decisions  
 • anything you need to write or do will be in bright space  
 • anything you need to read is listed in google.sheets assign.submit  
