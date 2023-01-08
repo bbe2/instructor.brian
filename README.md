@@ -7,16 +7,16 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETZjVfM21S9Lu2Ugl
 https://snhu-my.sharepoint.com/:u:/r/personal/b_hogan_snhu_edu/Documents/it.226_voicenotes/wk0.d2.it.226.01062023.mp3?csf=1&web=1&e=ea1rVY  
 
 
-it.226.writers! 
-**key decisions**  
+it.226.writers!  
+### key decisions  
 • anything you need to write or do will be in bright space  
 • anything you need to read is listed in google.sheets assign.submit  
 
-github / syllabus  
+### github / syllabus  
 • https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • syllabus at bottom titled: x.syllabus.it.226.spring.2023.pdf  
  
-google sheets  
+### google sheets  
 https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 • assign.submit: weekly tasks, link to tasks, and paste your completed work  
 • thread.QA: post questions for instructor to answer and class thread discussions   
