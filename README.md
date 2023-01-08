@@ -1,11 +1,12 @@
 #### master links to university courses<please advise of broken links>  
 
 **Links/Branches**  
-• >_7.py.pillars______  
-==> custom coding course correcting gaps in current training literature; transform novice and shy learners into coders  
+• it. <pending instructional design assignment>
 • it.226.spring.2023_https://github.com/bbe2/university_instruction/tree/it.226.spring.2023  
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
-
+• >_7.py.pillars______  
+==> custom coding course correcting gaps in current training literature; transform novice and shy learners into coders  
+ 
 **Inspiration**
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
 ->Nuclear Physicist Hans Bethe  
