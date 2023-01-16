@@ -7,10 +7,6 @@ https://snhu-my.sharepoint.com/:u:/r/personal/b_hogan_snhu_edu/Documents/it.226_
 • wk1 - d1/d2 (1/11, 1/13)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETAnSoIV1ZxHmT0GzYmnIN8BLiRB3zvlVig3sEAlm5XZQQ?e=C0qNdi  
 
-### key decisions  
-• anything you need to write or do will be in bright space  
-• anything you need to read is listed in google.sheets assign.submit  
-
 ### github / syllabus  
 • https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • syllabus at bottom titled: x.syllabus.it.226.spring.2023.pdf  
