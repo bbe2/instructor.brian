@@ -16,10 +16,10 @@ https://snhu-my.sharepoint.com/:u:/r/personal/b_hogan_snhu_edu/Documents/it.226_
 
 ### google sheets  
 https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
-• assign___weekly tasks and links
-• submit___paste special text your complete works
+• assign___weekly tasks and links  
+• submit___paste special text your complete works  
 • QA: post questions instructor questions  
 • words.wordbook: answers to wordbooks  
 • smushy: post random words and sayings which will print out as a big jam board end semester  
-• words.syllables: polysyllabic index to improve writing prowess
+• words.syllables: polysyllabic index to improve writing prowess  
 • admin: don't use !  
