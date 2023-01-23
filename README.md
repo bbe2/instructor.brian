@@ -23,3 +23,7 @@ https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhX
 • smushy: post random words and sayings which will print out as a big jam board end semester  
 • words.syllables: polysyllabic index to improve writing prowess  
 • admin: don't use !  
+
+
+**tools and software**
+https://azureforeducation.microsoft.com/devtools  
