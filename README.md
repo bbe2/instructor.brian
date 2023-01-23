@@ -27,3 +27,4 @@ https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhX
 
 **tools and software**
 https://azureforeducation.microsoft.com/devtools  
+how to:  https://snhu.service-now.com/sp?id=kb_article_view&table=kb_knowledge&sys_kb_id=038d960487c619944b622fc5dabb3558  
