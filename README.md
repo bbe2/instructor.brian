@@ -1,4 +1,4 @@
-#### it.226.spring.2023 - Comm. in STEM Professions
+#### it.226.spring.2023 - Communication in STEM Professions  
 #### syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
 
 **AUDIO x Class - Onedrive via snhu email only**  
