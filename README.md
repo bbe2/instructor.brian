@@ -9,6 +9,9 @@
 
 ![hal](https://user-images.githubusercontent.com/59778456/214678743-db47b171-78a6-4797-8995-6b6b41a0bf52.png)
 
+![chatgpt1](https://user-images.githubusercontent.com/59778456/215865472-a2cf7b3c-a984-4e93-93ee-d3e09408d757.JPG)
+
+![chatgpt2](https://user-images.githubusercontent.com/59778456/215865481-1a268bd5-b081-469a-826a-97cd218f9f95.JPG)
 
 ---------------------
 **Inspiration**
@@ -16,7 +19,7 @@
 ->Nuclear Physicist Hans Bethe  
  
 Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA  
-
-b.hogan@snhu.edu, BS, CSS, MS | Adjunct Faculty | Computer Science   
-School of Engineering, Technology, and Aeronautics, Phone: 603-567-4589   
-Southern New Hampshire University, 2500 North River Road, Manchester, NH 03106  
+Brian Hogan, BS, CSS, MS | Adjunct Faculty | Computer Science   
+School of Engineering, Technology, and Aeronautics at Southern New Hampshire University 
+2500 North River Road, Manchester, NH 03106 | 603-567-4589   
+b.hogan@snhu.edu | in | https://github.com/bbe2/portfolio
