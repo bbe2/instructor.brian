@@ -1,3 +1,6 @@
+![job fair](https://user-images.githubusercontent.com/59778456/216172796-cd628797-e794-446d-b3a9-c2f6516f88dc.JPG)
+
+
 #### it.226.spring.2023 - Communication in STEM Professions  
 #### syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
 
