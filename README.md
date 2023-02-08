@@ -20,8 +20,9 @@ https://snhu-my.sharepoint.com/:u:/r/personal/b_hogan_snhu_edu/Documents/it.226_
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZ1r3tXVb1xLtvuyTuI0HzwBUzU6nhFJL8ZDrMuNcx3YVw?e=YGSyvX  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EYxFKmH0PORFiTowQbp4t_gBKWR8C1HKL3a-rTDQymC3Zw?e=OfojcH  
 • wk4 - d1/d2 (2.1, 2.3)
-
-• wk5 - d1/d2 (2.8, 2.10)
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZNml3cGNEZGqPNDe1taF10BqwRaBLP8cdp7nfsh1ZmsQg?e=TSvLOm  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZKtlRqkJWREhxaDlxuczQQB4dOIJ0-XLkX2lcvcT26HYQ?e=F7SkEs  
+• wk5 - d1/d2 (2.8, 2.10)  
 
 ![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191597-fb66e490-bd1b-4ab4-b0aa-6cbae42dae48.JPG)
 
