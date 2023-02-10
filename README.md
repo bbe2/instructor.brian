@@ -6,10 +6,7 @@
 • >_7.py.pillars______custom data transformation skilling course correcting literature gaps  
  
 # ChatGPT - Have you realized the significance yet?  
-
-![hal](https://user-images.githubusercontent.com/59778456/214678743-db47b171-78a6-4797-8995-6b6b41a0bf52.png)
-
-![hal9000](https://user-images.githubusercontent.com/59778456/218208993-9a32d265-61b8-4dc8-adea-971cf7b5fcdd.png)
+![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
 
 
 ---------------------
