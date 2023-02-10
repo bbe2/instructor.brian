@@ -9,9 +9,8 @@
 
 ![hal](https://user-images.githubusercontent.com/59778456/214678743-db47b171-78a6-4797-8995-6b6b41a0bf52.png)
 
-![chatgpt1](https://user-images.githubusercontent.com/59778456/215865472-a2cf7b3c-a984-4e93-93ee-d3e09408d757.JPG)
+![hal9000](https://user-images.githubusercontent.com/59778456/218208993-9a32d265-61b8-4dc8-adea-971cf7b5fcdd.png)
 
-![chatgpt2](https://user-images.githubusercontent.com/59778456/215865481-1a268bd5-b081-469a-826a-97cd218f9f95.JPG)
 
 ---------------------
 **Inspiration**
