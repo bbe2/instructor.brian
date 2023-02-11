@@ -1,11 +1,12 @@
+#### it.226.spring.2023 - Communication in STEM Professions  
+#### syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
 course.spreadsheet: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 
-Curious.class.learnings
+Curious.class.learnings  
 • Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
 
 
-#### it.226.spring.2023 - Communication in STEM Professions  
-#### syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
+
 
 **AUDIO x Class - Onedrive via snhu email only**  
 • wk0 - d1/d2 (1.6,1.8)  
