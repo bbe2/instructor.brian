@@ -1,6 +1,7 @@
-#### it.226.spring.2023 - Communication in STEM Professions  
-#### syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
-course.spreadsheet: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
+https://theskylive.com/c2022a2-info #super space resource  
+**it.226.spring.2023** - Communication in STEM Professions  
+syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
+workspace: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 
 Curious.class.learnings  
 • Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
