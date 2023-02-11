@@ -5,8 +5,7 @@ course.spreadsheet: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDb
 Curious.class.learnings  
 • Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
 
-
-
+![dilbert 1](https://user-images.githubusercontent.com/59778456/218276652-9cf71400-eac6-4ddb-b8e1-239b0eff610e.JPG)  
 
 **AUDIO x Class - Onedrive via snhu email only**  
 • wk0 - d1/d2 (1.6,1.8)  
