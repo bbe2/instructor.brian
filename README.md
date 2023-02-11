@@ -26,10 +26,13 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZNml3cGNEZGqPNDe
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZKtlRqkJWREhxaDlxuczQQB4dOIJ0-XLkX2lcvcT26HYQ?e=F7SkEs  
 • wk5 - d1/d2 (2.8, 2.10)  
 
-![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191597-fb66e490-bd1b-4ab4-b0aa-6cbae42dae48.JPG)
+
+![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
+
+![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191597-fb66e490-bd1b-4ab4-b0aa-6cbae42dae48.JPG)  
 
 
-### Class assignment and submit google sheets  
+### class workbook  
 https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 • assign_________weekly tasks and links  
 • submit_________paste special text your complete works  
