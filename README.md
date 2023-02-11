@@ -1,6 +1,7 @@
 course.spreadsheet: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 
-![job fair](https://user-images.githubusercontent.com/59778456/216172796-cd628797-e794-446d-b3a9-c2f6516f88dc.JPG)
+Curious.class.learnings
+• Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
 
 
 #### it.226.spring.2023 - Communication in STEM Professions  
