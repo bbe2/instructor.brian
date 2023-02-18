@@ -2,11 +2,11 @@ https://theskylive.com/c2022a2-info #super space resource
 
 #### master links to university courses<please advise of broken links>  
 
-**Links/Branches**  
+**university courses**    
 • it.226.spring.2023__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
 
-#### **courses built to address training gap needs**  
+**python training**    
 • >_7.py.pillars______https://github.com/bbe2/professor/tree/7.py.pillars  
  
 # ___________ChatGPT  
