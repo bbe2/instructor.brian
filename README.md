@@ -5,7 +5,7 @@ https://theskylive.com/c2022a2-info #super space resource
 **Links/Branches**  
 • it.226.spring.2023__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
-• >_7.py.pillars______custom data transformation skilling course correcting literature gaps  
+• >_7.py.pillars______data transformations, with iterators, conditionals, and function skilling   
  
 # ___________ChatGPT  
 **Have you realized its significance?**  
