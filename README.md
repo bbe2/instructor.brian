@@ -5,19 +5,19 @@ https://github.com/bbe2/professor/tree/it.226.spring.2023
 https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 
 **abstraction**  
-"A heavy dependence on abstraction, a peculiar use of the present tense, a habitual evocation of parallel structure, a tendency to place feelings in syntactic positions of agency, a trick of underplaying causal words: any of these patterns of expression, when repeated with unusual frequency, is the sign of a habit of meaning, and thus of a persistent way of sorting out the phenomena of experience."
+• writing technique providing a tangential view of a situation -b.hogan definition(of sorts)  
+• habitual evocation of parallel structure  
+• a tendency to place feelings in syntactic positions of agency  
+• a trick of underplaying causal words: any of these patterns of expression, when repeated with unusual frequency, is the sign of a habit of meaning, and thus of a persistent way of sorting out the phenomena of experience.  
 
-...almost beyond the power of language to describe  
-...a sentence begins by raising rather than answering questions  
-...As the sentence progresses, some of its demands are satisfied, others deferred, others complicated, and mean while new ones are created. But with the end of the sentence comes a kind of balance which results from something having been said.  
-
--virginia.tufte.grammar.as.syntax.p7  
+• ...almost beyond the power of language to describe  
+• ...a sentence begins by raising rather than answering questions  
+• ...As the sentence progresses, some of its demands are satisfied, others deferred, others complicated, and mean while new ones are created. But with the end of the sentence comes a kind of balance which results from something having been said.  
 
 abtraction example:  
 "the little black desk at the window was black, rivaling the blackness of this fire escape, those rails dipped in asphalt, a heavy cosemetic coat of black, raills equidistant but appearcing according to the rules of perspective. - suall bellow, Herzog, p.128 <tufte.p.156>  
 
-Curious.class.learnings  
-• Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
+-virginia.tufte.grammar.as.syntax.p7  
 
 ![dilbert 1](https://user-images.githubusercontent.com/59778456/218276652-9cf71400-eac6-4ddb-b8e1-239b0eff610e.JPG)  
 
@@ -48,7 +48,8 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WB
 • wk8 - d1/d2 (3.01, 3.03)  
 • wk9 - d1/d2 (3.08, 3.10)  
   
-
+• Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
+  
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
 
 ![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191597-fb66e490-bd1b-4ab4-b0aa-6cbae42dae48.JPG)  
