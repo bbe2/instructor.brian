@@ -8,8 +8,7 @@ https://theskylive.com/c2022a2-info #super space resource
 **B: python training**    
 • >_7.py.pillars______https://github.com/bbe2/professor/tree/7.py.pillars  
  
-# ___________ChatGPT  
-**Have you realized its significance?**  
+### ___ChatGPT -- **Have you realized its significance?**  
  
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
 
