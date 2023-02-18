@@ -1,6 +1,8 @@
 **it.226.spring.2023** - Communication in STEM Professions  
-syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
-workspace: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
+
+syllabus \ cloud.workspace  
+https://github.com/bbe2/professor/tree/it.226.spring.2023  
+https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
 
 **abstraction**  
 "A heavy dependence on abstraction, a peculiar use of the present tense, a habitual evocation of parallel structure, a tendency to place feelings in syntactic positions of agency, a trick of underplaying causal words: any of these patterns of expression, when repeated with unusual frequency, is the sign of a habit of meaning, and thus of a persistent way of sorting out the phenomena of experience."
