@@ -7,7 +7,8 @@ https://theskylive.com/c2022a2-info #super space resource
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
 • >_7.py.pillars______custom data transformation skilling course correcting literature gaps  
  
-# ChatGPT - Have you realized the significance yet?  
+# _______________________ChatGPT
+## Have you realized the significance yet?  
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
 
 
