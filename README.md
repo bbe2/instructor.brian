@@ -1,7 +1,13 @@
-https://theskylive.com/c2022a2-info #super space resource  
 **it.226.spring.2023** - Communication in STEM Professions  
 syllabus https://github.com/bbe2/professor/tree/it.226.spring.2023  
 workspace: https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
+
+**abstraction** virginia.tufte.grammar.as.syntax.p7  
+"A heavy dependence on abstraction, a peculiar use of the present tense, a habitual evocation of parallel structure, a tendency to place feelings in syntactic positions of agency, a trick of underplaying causal words: any of these patterns of expression, when repeated with unusual frequency, is the sign of a habit of meaning, and thus of a persistent way of sorting out the phenomena of experience."
+
+"But beyond persuasion and self-expression, emotion makes a third entrance into prose, in a way that Ohmann finds "almost beyond the power of language to describe." He suggests that a sentence begins by raising rather than answering questions, and that the incomplete utterance sets up demands for completion. "These demands for completion of a sequence are of course subverbal; they are the vaguest sort of dissatisfaction with suspended thought, with a rational process not properly concluded.  
+
+==> As the sentence progresses, some of its demands are satisfied, others deferred, others complicated, and meanwhile new ones are created. But with the end of the sentence comes a kind of balance which results from something having been said." <Ohmann.p.405> <==  
 
 Curious.class.learnings  
 • Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
@@ -29,6 +35,8 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WB
 2.10 is a video <working on reducing size>  
 • wk6 - d1/d2 (2.15, 2.17)  
   
+ d2 = school study day  
+ 
 • wk7 - d1/d2 (2.22, 2.24)  
 • wk8 - d1/d2 (3.01, 3.03)  
 • wk9 - d1/d2 (3.08, 3.10)  
@@ -50,3 +58,6 @@ https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhX
 **tools and software**
 https://azureforeducation.microsoft.com/devtools  
 how to:  https://snhu.service-now.com/sp?id=kb_article_view&table=kb_knowledge&sys_kb_id=038d960487c619944b622fc5dabb3558  
+
+**misc neat and interesting**  
+https://theskylive.com/c2022a2-info #super space resource  
