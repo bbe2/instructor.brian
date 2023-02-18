@@ -7,12 +7,13 @@ https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhX
 **abstraction**  
 "A heavy dependence on abstraction, a peculiar use of the present tense, a habitual evocation of parallel structure, a tendency to place feelings in syntactic positions of agency, a trick of underplaying causal words: any of these patterns of expression, when repeated with unusual frequency, is the sign of a habit of meaning, and thus of a persistent way of sorting out the phenomena of experience."
 
-"But beyond persuasion and self-expression, emotion makes a third entrance into prose, in a way that Ohmann finds "almost beyond the power of language to describe." He suggests that a sentence begins by raising rather than answering questions, and that the incomplete utterance sets up demands for completion. "These demands for completion of a sequence are of course subverbal; they are the vaguest sort of dissatisfaction with suspended thought, with a rational process not properly concluded.  
+...almost beyond the power of language to describe  
+...a sentence begins by raising rather than answering questions  
+...As the sentence progresses, some of its demands are satisfied, others deferred, others complicated, and mean while new ones are created. But with the end of the sentence comes a kind of balance which results from something having been said.  
 
-==> As the sentence progresses, some of its demands are satisfied, others deferred, others complicated, and meanwhile new ones are created. But with the end of the sentence comes a kind of balance which results from something having been said." <Ohmann.p.405> <==  
-virginia.tufte.grammar.as.syntax.p7  
+-virginia.tufte.grammar.as.syntax.p7  
 
-Example:  
+abtraction example:  
 "the little black desk at the window was black, rivaling the blackness of this fire escape, those rails dipped in asphalt, a heavy cosemetic coat of black, raills equidistant but appearcing according to the rules of perspective. - suall bellow, Herzog, p.128 <tufte.p.156>  
 
 Curious.class.learnings  
