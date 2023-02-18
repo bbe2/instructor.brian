@@ -19,8 +19,6 @@ abtraction example:
 
 -virginia.tufte.grammar.as.syntax.p7  
 
-![dilbert 1](https://user-images.githubusercontent.com/59778456/218276652-9cf71400-eac6-4ddb-b8e1-239b0eff610e.JPG)  
-
 **AUDIO x Class - Onedrive via snhu email only**  
 • wk0 - d1/d2 (1.6,1.8)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ETZjVfM21S9Lu2Uglzq7DPcBfIS2sgUSYcQPBnvCZ6BWSQ?e=q13yuF  
