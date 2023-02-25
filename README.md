@@ -2,7 +2,8 @@
 
 syllabus \ cloud.workspace  
 https://github.com/bbe2/professor/tree/it.226.spring.2023  
-https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
+(midterm.to.final.google.sheets)  
+https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
 
 **abstraction**  
 • writing technique providing a tangential view of a situation -b.hogan definition(of sorts)  
@@ -39,14 +40,14 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZKtlRqkJWREhxaDl
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WBXG5fXkBJTpIaO8_Q268ZB5yMcOYtA?e=9cFVso  
 2.10 is a video <working on reducing size>  
 • wk6 - d1/d2 (2.15, 2.17)  
-  
  d2 = school study day  
- 
-• wk7 - d1/d2 (2.22, 2.24)  
+• wk7 - d1/d2 (2.22, 2.24)    
+=> no recordings as done as jams and brian sick 02.24  
+
+
 • wk8 - d1/d2 (3.01, 3.03)  
 • wk9 - d1/d2 (3.08, 3.10)  
-  
-• Dilbert and agile processes (Locker.Ch.4): https://www.agitma.nl/dilbert-saves-the-agile-day/  
+
   
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
 
@@ -67,3 +68,6 @@ how to:  https://snhu.service-now.com/sp?id=kb_article_view&table=kb_knowledge&s
 
 **misc neat and interesting**  
 https://theskylive.com/c2022a2-info #super space resource  
+
+(midterm.to.final.google.sheets)  
+https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
