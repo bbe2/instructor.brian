@@ -43,9 +43,9 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WB
  d2 = school study day  
 • wk7 - d1/d2 (2.22, 2.24)    
 => no recordings as done as jams and brian sick 02.24  
-
-
 • wk8 - d1/d2 (3.01, 3.03)  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EUT6_a3xRlxLqVwVydutmPABP79b4FY4S71KFk6HKCtqzg?e=t0bHHD  
+
 • wk9 - d1/d2 (3.08, 3.10)  
 
   
