@@ -45,7 +45,7 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WB
 => no recordings as done as jams and brian sick 02.24  
 • wk8 - d1/d2 (3.01, 3.03)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EUT6_a3xRlxLqVwVydutmPABP79b4FY4S71KFk6HKCtqzg?e=t0bHHD  
-
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EYxFKmH0PORFiTowQbp4t_gBdYqXpo88V3HaPimB3cgc-w?e=i6XnB9  
 • wk9 - d1/d2 (3.08, 3.10)  
 
   
