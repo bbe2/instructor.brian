@@ -6,7 +6,9 @@
  https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >_7.py.pillars______https://github.com/bbe2/professor/tree/7.py.pillars  
 • Technical Writing with ChatGPT (new)			March 2023  
-Two of my students used ChatGPT to pass exams last semester. Neither delivered work in their voice. Applying NLP training from linguistic expert Dr. Nancy McCracken, the course instructs on the principals, mechanics, and Python code with ChatGPT to  
+Two of my students used ChatGPT to pass classes, and neither material was in their voice.  
+This course is about taking ownership of your authentic voice in this new AI paradigm shift.  
+It builds on training from retired AI linguistic expert Dr. Nancy McCracken, including the principles, mechanics, and using Python code with ChatGPT REST-API. Training includes,   
 a)	Assess metrics representing originality discourse (authentic self).  
 b)	Upscale information exchange quality with polysyllabic trees by ontology.  
 c) Learn expegesis techniques.  
