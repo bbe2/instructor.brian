@@ -2,22 +2,17 @@
 • it.226.spring.2023__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
 
-**B: E-Learning courses** at ICARUS-AI 
+**B: ICARUS-AI E-Learning**   
+ https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >_7.py.pillars______https://github.com/bbe2/professor/tree/7.py.pillars  
 • Technical Writing with ChatGPT (new)			March 2023  
- https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-
-
-### ___ChatGPT -- **Have you realized its significance?**  
-Two of my students used ChatGPT to pass exams last semester. Neither delivered work in their voice. Applying NLP training from linguistic expert Dr. Nancy McCracken, the course instructs on the principals, mechanics, and Python code with ChatGPT to 
+Two of my students used ChatGPT to pass exams last semester. Neither delivered work in their voice. Applying NLP training from linguistic expert Dr. Nancy McCracken, the course instructs on the principals, mechanics, and Python code with ChatGPT to  
 a)	Assess metrics representing originality discourse (authentic self).  
-b)	Upscale information exchange quality by applying polysyllabic trees by ontological interest and learning expegesis techniques.  
+b)	Upscale information exchange quality with polysyllabic trees by ontology.  
+c) Learn expegesis techniques.  
 c)	Deepen one’s love of language and self expression of situations.  
 
-
-
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)
-
 
 ### ___ChatGPT == HAL9000 ~ 5 years 
 -- **Have you realized its significance?**  
