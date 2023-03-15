@@ -1,10 +1,13 @@
-#### **university courses taught and.or instructional design**  
-• it.226.spring.2023__https://github.com/bbe2/professor/tree/it.226.spring.2023  
-• it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
+### Pending update here once optimized on ICARUS-AI  
 
 #### **courses built to address training gap needs**  
 • >_7.py.pillars______https://github.com/bbe2/professor/tree/7.py.pillars  
  
+
+
+
+
+
 
 
 
