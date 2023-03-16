@@ -1,4 +1,12 @@
-**it.226.spring.2023** - Communication in STEM Professions  
+**A) University courses**    
+• it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
+• it.304.systems.design.an.analysis______https://github.com/bbe2/IT.304.Fall.2022  
+**B) ICARUS-AI E-Learning**   
+ https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >_7_.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
+• 
+
+## **it.226.spring.2023** - Communication in STEM Professions  
 
 syllabus \ cloud.workspace  
 https://github.com/bbe2/professor/tree/it.226.spring.2023  
