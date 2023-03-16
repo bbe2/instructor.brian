@@ -1,18 +1,14 @@
 ### Pending update here once optimized on ICARUS-AI  
-• 
-• optimizing on platform then will update here  
-• 
+A) University courses  
+• it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
+• it.304.systems.design.an.analysis_____https://github.com/bbe2/professor/tree/it.304.systems.design  
+• professor.home________________________https://github.com/bbe2/professor  
 
-
-A: University courses  
-• it.226.spring.2023__https://github.com/bbe2/professor/tree/it.226.spring.2023  
-• it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
-
-B: ICARUS-AI E-Learning  
-https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
-• Technical Writing with ChatGPT_______(new) March 2023  
-
+B) ICARUS-AI E-Learning  
+• e-learnign.platform_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
+b.hogan@snhu.edu  
+# it.226 - Technical Communication in STEM Professions  
 
  
 
