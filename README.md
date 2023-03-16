@@ -1,17 +1,16 @@
-**A) University courses**    
+A) University courses  
 • it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.systems.design.an.analysis______https://github.com/bbe2/IT.304.Fall.2022  
-**B) ICARUS-AI E-Learning**   
- https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7_.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
-• 
+• professor.home________________________https://github.com/bbe2/professor  
+B) ICARUS-AI E-Learning  
+• e-learnign.platform_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
+b.hogan@snhu.edu  
+# it.226 - Technical Communication in STEM Professions  
 
-## **it.226.spring.2023** - Communication in STEM Professions  
+syllabus
+cloud.sheets__https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
 
-syllabus \ cloud.workspace  
-https://github.com/bbe2/professor/tree/it.226.spring.2023  
-(midterm.to.final.google.sheets)  
-https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
 
 **abstraction**  
 • writing technique providing a tangential view of a situation -b.hogan definition(of sorts)  
