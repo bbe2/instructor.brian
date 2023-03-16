@@ -1,7 +1,8 @@
 A) University courses  
 • it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
-• it.304.systems.design.an.analysis______https://github.com/bbe2/IT.304.Fall.2022  
+• it.304.systems.design.an.analysis_____https://github.com/bbe2/professor/tree/it.304.systems.design  
 • professor.home________________________https://github.com/bbe2/professor  
+
 B) ICARUS-AI E-Learning  
 • e-learnign.platform_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
