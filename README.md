@@ -1,15 +1,16 @@
+b.hogan@snhu.edu  
 **A: University courses**    
 • it.226.spring.2023__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.fall.2022____https://github.com/bbe2/IT.304.Fall.2022  
 
 **B: ICARUS-AI E-Learning**   
  https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
+• >_7_.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
 • Technical Writing with ChatGPT________(new)			March 2023  
 >Two students used ChatGPT to pass classes but not in their voice.  
->> This course is about taking ownership of your authentic voice in this new AI paradigm shift.  
->> It builds on training from retired linguistic expert Dr. McCracken.  
->> Including principles, mechanics, and Python with ChatGPT REST-API to  
+>> Take ownership of your voice in the new AI writing paradigm shift.  
+>> Builds on training from retired linguistic expert Dr. McCracken.  
+>> Includes principles, mechanics, and Python with ChatGPT REST-API to  
 a) Assess metrics representing originality discourse (authentic self).  
 b) Sharpen information exchange quality with polysyllabics by ontology.  
 c) Train and apply appropriate epexegetical techniques.  
@@ -29,7 +30,5 @@ c) Have fun and deepen one’s love of language and self-expression.
 ->Nuclear Physicist Hans Bethe  
  
 Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA  
-Brian Hogan, BS, CSS, MS | Adjunct Faculty | Computer Science   
-School of Engineering, Technology, and Aeronautics at Southern New Hampshire University 
-2500 North River Road, Manchester, NH 03106 | 603-567-4589   
-b.hogan@snhu.edu | in | https://github.com/bbe2/portfolio
+
+
