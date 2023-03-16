@@ -11,10 +11,10 @@ b.hogan@snhu.edu
 >> Take ownership of your voice in the new AI writing paradigm shift.  
 >> Builds on training from retired linguistic expert Dr. McCracken.  
 >> Includes principles, mechanics, and Python with ChatGPT REST-API to  
-a) Assess metrics representing originality discourse (authentic self).  
-b) Sharpen information exchange quality with polysyllabics by ontology.  
-c) Train and apply appropriate epexegetical techniques.  
-c) Have fun and deepen one’s love of language and self-expression.  
+1) Assess metrics representing originality discourse (authentic self).  
+2) Sharpen information exchange quality with polysyllabics by ontology.  
+3) Train and apply appropriate epexegetical techniques.  
+4) Have fun and deepen one’s love of language and self-expression.  
 
 
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)
