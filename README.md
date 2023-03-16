@@ -10,7 +10,7 @@ A: University courses
 
 B: ICARUS-AI E-Learning  
 https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >7.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
+• >_7.py.pillars________________________https://github.com/bbe2/professor/tree/7.py.pillars  
 • Technical Writing with ChatGPT_______(new) March 2023  
 
 
@@ -19,6 +19,7 @@ https://icarus-ai.enki.tech/teacher-profile/brian-hogan/
 
 
 
+![indexing](https://user-images.githubusercontent.com/59778456/225663333-9f61f355-bf15-48b0-8aa5-1eb0a4864340.PNG)
 
 
 b.hogan@snhu.edu, BS, CSS, MS | Adjunct Faculty | Computer Science   
