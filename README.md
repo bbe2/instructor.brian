@@ -4,8 +4,10 @@
 • professor.home________________________https://github.com/bbe2/professor   
 
 ### **B) ICARUS-AI E-Learning**  
-• e-learnign.platform_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
+• e-learnign.PROFILE_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+
+• >.7.Pillars.of.Python_________________https://github.com/bbe2/professor/tree/7.py.pillars  
+• >.Technical.Writing.w.ChatGPT___________(**NEW**)			March 2023  
 
 > • Technical Writing with ChatGPT__________(**NEW**)			March 2023  
 > Two students used ChatGPT to pass classes but not in their voice.  
