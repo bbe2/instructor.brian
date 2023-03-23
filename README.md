@@ -46,18 +46,18 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZNml3cGNEZGqPNDe
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EZKtlRqkJWREhxaDlxuczQQB4dOIJ0-XLkX2lcvcT26HYQ?e=F7SkEs  
 • wk5 - d1/d2 (2.8, 2.10)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WBXG5fXkBJTpIaO8_Q268ZB5yMcOYtA?e=9cFVso  
-2.10 is a video <working on reducing size>  
+2.10 video class, no audio   
 • wk6 - d1/d2 (2.15, 2.17)  
- d2 = school study day  
+ __d2 = school study day  
 • wk7 - d1/d2 (2.22, 2.24)    
-=> no recordings as done as jams and brian sick 02.24  
+___no recordings as done as jams and brian sick 02.24  
 • wk8 - d1/d2 (3.01, 3.03)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EUT6_a3xRlxLqVwVydutmPABP79b4FY4S71KFk6HKCtqzg?e=t0bHHD  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EYxFKmH0PORFiTowQbp4t_gBdYqXpo88V3HaPimB3cgc-w?e=i6XnB9  
-• wk9 - d1/d2 (3.08, 3.10)  
-https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVhyJl1j-zVDh-jzA2INEsEB3qQDTcioAUMXtxd-EyEJBA?e=6tvIzn  
-d2 = JAM, no audio  
-• wk11 - d1/d2 (3.22, 3.24)  
+• wk9 - d1/d2 (3.08, 3.10)   
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVhyJl1j-zVDh-jzA2INEsEB3qQDTcioAUMXtxd-EyEJBA?e=6tvIzn   
+___d2 = JAM, no audio   
+• wk11 - d1/d2 (3.22, 3.24)   
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EQKZP1mTdLNLo39s-9FWvBwBjPZ-pxFPYSNs7mOMiOqPsA?e=XZXfES  
 
 • wk12 - d1/d2 (3.29, 3.31)  
