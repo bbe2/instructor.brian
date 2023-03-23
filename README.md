@@ -55,10 +55,10 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WB
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EUT6_a3xRlxLqVwVydutmPABP79b4FY4S71KFk6HKCtqzg?e=t0bHHD  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EYxFKmH0PORFiTowQbp4t_gBdYqXpo88V3HaPimB3cgc-w?e=i6XnB9  
 • wk9 - d1/d2 (3.08, 3.10)  
-
-d2 = JAM, no audio
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVhyJl1j-zVDh-jzA2INEsEB3qQDTcioAUMXtxd-EyEJBA?e=6tvIzn  
+d2 = JAM, no audio  
 • wk11 - d1/d2 (3.22, 3.24)  
-https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EQKZP1mTdLNLo39s-9FWvBwBjPZ-pxFPYSNs7mOMiOqPsA?e=XZXfES
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EQKZP1mTdLNLo39s-9FWvBwBjPZ-pxFPYSNs7mOMiOqPsA?e=XZXfES  
 
 • wk12 - d1/d2 (3.29, 3.31)  
 
