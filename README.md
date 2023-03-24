@@ -20,6 +20,16 @@ c) Train and apply appropriate epexegetical techniques.
 d) Have fun and deepen one’s love of language and self-expression.  
 e) epexegetic sesquipeds and polysyllabastic substitution are you new friends!  
 
+
+
+[brian.hogan.cv.pdf](https://github.com/bbe2/professor/files/11057651/brian.hogan.cv.pdf)
+
+[b.hogan.teach.philosphy.pdf](https://github.com/bbe2/professor/files/11057652/b.hogan.teach.philosphy.pdf)
+
+
+![teaching statement](https://user-images.githubusercontent.com/59778456/227400710-fee3c769-0a1e-43a8-b98d-bc77a931adfc.PNG)
+
+
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)
 
 ### ChatGPT == HAL9000 ~ 5 years 
