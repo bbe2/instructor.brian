@@ -1,14 +1,11 @@
 A) University courses  
-• it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.systems.design.an.analysis_____https://github.com/bbe2/IT.304.Fall.2022  
-• professor.home________________________https://github.com/bbe2/professor   
+• professor.home______________________https://github.com/bbe2/professor   
+B) ICARUS-AI E-Learning______________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >_7.Pillars.of.Python_______________https://github.com/bbe2/professor/tree/7.py.pillars  
 
-B) ICARUS-AI E-Learning  
-• e-learnign.platform_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
-b.hogan@snhu.edu  
 # it.226 - Technical Communication in STEM Professions  
-
+b.hogan@snhu.edu  
 syllabus
 cloud.sheets__https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
 
