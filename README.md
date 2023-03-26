@@ -1,11 +1,9 @@
 ### **A) University courses**  
-• it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
+• it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.systems.design.an.analysis_____https://github.com/bbe2/IT.304.Fall.2022  
 • professor.home________________________https://github.com/bbe2/professor   
 
-### **B) ICARUS-AI E-Learning**  
-• e-learnign.PROFILE_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-
+### **B) ICARUS-AI E-Learning**___https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >.7.Pillars.of.Python_________________https://github.com/bbe2/professor/tree/7.py.pillars  
 • >.Technical.Writing.w.ChatGPT___________(**NEW**)			March 2023  
 
