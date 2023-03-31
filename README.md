@@ -58,8 +58,10 @@ ___d2 = JAM, no audio
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EQKZP1mTdLNLo39s-9FWvBwBjPZ-pxFPYSNs7mOMiOqPsA?e=XZXfES  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Eb9o7DxihWRHuKP7U7ZmF1MBRlV-TZ5GMpnp5mTS7xnj2g?e=hbscvN  
 • wk12 - d1/d2 (3.29, 3.31)  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EaStH0bcleZMksj9y8J-6SYBlWn29-h8OXerySp1aqaKRQ?e=Zn3FQ1  
 
-• wk12 - d1/d2 (4.05, 4.07)  
+
+• wk13 - d1/d2 (4.05, 4.07)  
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
 
 ![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191597-fb66e490-bd1b-4ab4-b0aa-6cbae42dae48.JPG)  
