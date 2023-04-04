@@ -59,7 +59,7 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EQKZP1mTdLNLo39s-
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Eb9o7DxihWRHuKP7U7ZmF1MBRlV-TZ5GMpnp5mTS7xnj2g?e=hbscvN  
 • wk12 - d1/d2 (3.29, 3.31)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EaStH0bcleZMksj9y8J-6SYBlWn29-h8OXerySp1aqaKRQ?e=Zn3FQ1  
-
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVoC6jeH_m1Mvd1gqbu515ABp-lU37AThJ3MKP2WoZ-67Q?e=oA8aoP  
 
 • wk13 - d1/d2 (4.05, 4.07)  
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
