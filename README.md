@@ -1,4 +1,4 @@
-### Pending update here once optimized on ICARUS-AI  
+### Pending update here once optimized on ICARUS-AI  april 2023
 A) University courses  
 • it.226.technical.communication.w.AI__https://github.com/bbe2/professor/tree/it.226.spring.2023  
 • it.304.systems.design.an.analysis_____https://github.com/bbe2/IT.304.Fall.2022  
