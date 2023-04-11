@@ -46,8 +46,10 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVXookQcrE9OsV1WB
 2.10 video class, no audio   
 • wk6 - d1/d2 (2.15, 2.17)  
  ____->no audio, study day  
+ 
 • wk7 - d1/d2 (2.22, 2.24)    
  ____->no audio, online JAM + brian sick 02.24  
+ 
 • wk8 - d1/d2 (3.01, 3.03)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EUT6_a3xRlxLqVwVydutmPABP79b4FY4S71KFk6HKCtqzg?e=t0bHHD  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EYxFKmH0PORFiTowQbp4t_gBdYqXpo88V3HaPimB3cgc-w?e=i6XnB9  
