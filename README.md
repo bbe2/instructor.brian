@@ -75,12 +75,12 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ed9mFr1-83NBv5Tu8
 
 ### class workbook  
 https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
-• assign_________weekly tasks and links  
-• submit_________paste special text your complete works  
-• syllable.tree__compendium of words collected  
-• words.wordbook_answers to wordbooks  
-• tools__________collection of helpful text sites  
-• smushy_________posterboard of random words; to print as a jam board  
+• inspire_____array of writers  
+• assign_______weekly tasks and links   
+• submit_______paste completed works  
+• attend_______class attendance  
+• poly.tree____compendium of words collected  
+• poly.score___start means to calc complexity  
 
 **tools and software**  
 https://azureforeducation.microsoft.com/devtools  
