@@ -73,21 +73,11 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ed9mFr1-83NBv5Tu8
 
 ![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191597-fb66e490-bd1b-4ab4-b0aa-6cbae42dae48.JPG)  
 
-### class workbook  
-https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhXNiM/edit#gid=0  
+**(midterm.to.final.google.sheets)**  
+https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
 • inspire_____array of writers  
 • assign_______weekly tasks and links   
 • submit_______paste completed works  
 • attend_______class attendance  
 • poly.tree____compendium of words collected  
 • poly.score___start means to calc complexity  
-
-**tools and software**  
-https://azureforeducation.microsoft.com/devtools  
-how to:  https://snhu.service-now.com/sp?id=kb_article_view&table=kb_knowledge&sys_kb_id=038d960487c619944b622fc5dabb3558  
-
-**misc neat and interesting**  
-https://theskylive.com/c2022a2-info #super space resource  
-
-(midterm.to.final.google.sheets)  
-https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
