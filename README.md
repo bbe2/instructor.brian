@@ -62,8 +62,10 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EaStH0bcleZMksj9y
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVoC6jeH_m1Mvd1gqbu515ABp-lU37AThJ3MKP2WoZ-67Q?e=oA8aoP  
 • wk13 - d1/d2 (4.05, 4.07)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ed9mFr1-83NBv5Tu8wmHQwYBi_6PktU0aRPfdJp3wXKMkQ?e=ioixle  
-
+<d2.helped with the AWS jam>  
 • wk14 - d1/d2 (4.12, 4.14)  
+
+• wk15 - d1/d2 (4.19, 4.21)  
 
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
 
@@ -78,7 +80,7 @@ https://docs.google.com/spreadsheets/d/1JSOqCnIxbHnG4gzJXWDbRi-Fji9OE4aYwEYvNLhX
 • tools__________collection of helpful text sites  
 • smushy_________posterboard of random words; to print as a jam board  
 
-**tools and software**
+**tools and software**  
 https://azureforeducation.microsoft.com/devtools  
 how to:  https://snhu.service-now.com/sp?id=kb_article_view&table=kb_knowledge&sys_kb_id=038d960487c619944b622fc5dabb3558  
 
