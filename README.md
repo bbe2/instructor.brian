@@ -1,4 +1,4 @@
-> Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
+> Designer of applied organic structures and code to facilitate active learning with interactive learning structures.  
 >> single corpus of focus, that is a comprehensive learning resource and not whiz-bang .ppts, page shuffling, dissconnection, and disassembled outcomes  
 >>> Thank you for learning about my substance. ~brianh  
 
