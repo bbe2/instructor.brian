@@ -68,6 +68,8 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ed9mFr1-83NBv5Tu8
 • wk14 - d1/d2 (4.12, 4.14)  
 
 • wk15 - d1/d2 (4.19, 4.21)  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ee9zXfS3KLlKnzrl8Iv5M04BG0ok_H6EG8hxMett3JaAwA?e=gSbp0I  
+<no.wk15.d2>  
 
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
 
