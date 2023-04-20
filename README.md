@@ -66,7 +66,8 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EVoC6jeH_m1Mvd1gq
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ed9mFr1-83NBv5Tu8wmHQwYBi_6PktU0aRPfdJp3wXKMkQ?e=ioixle  
 <d2.helped with the AWS jam>  
 • wk14 - d1/d2 (4.12, 4.14)  
-
+<no.wk14.d1>  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ERvpJzrkTWtPlKdZMBzl7VMBV-2K4Y2KC-q8UCDVC_Zdgg?e=cc1qxo  
 • wk15 - d1/d2 (4.19, 4.21)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ee9zXfS3KLlKnzrl8Iv5M04BG0ok_H6EG8hxMett3JaAwA?e=gSbp0I  
 <no.wk15.d2>  
