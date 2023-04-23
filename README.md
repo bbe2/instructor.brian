@@ -6,9 +6,9 @@ B) ICARUS-AI E-Learning______________https://icarus-ai.enki.tech/teacher-profile
 
 # it.226 - Technical Communication in STEM Professions  
 b.hogan@snhu.edu  
-syllabus
-cloud.sheets__https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing  
-
+syllabus  
+shared.workspace  
+https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing   
 
 **abstraction**  
 • writing technique providing a tangential view of a situation -b.hogan definition(of sorts)  
