@@ -1,7 +1,6 @@
-A) University courses  
 • it.304.systems.design.an.analysis_____https://github.com/bbe2/IT.304.Fall.2022  
 • professor.home______________________https://github.com/bbe2/professor   
-B) ICARUS-AI E-Learning______________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• ICARUS-AI E-Learning______________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >_7.Pillars.of.Python_______________https://github.com/bbe2/professor/tree/7.py.pillars  
 
 # it.226 - Technical Communication in STEM Professions  
