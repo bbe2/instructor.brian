@@ -1,29 +1,26 @@
-• it.304.systems.design.an.analysis____________https://github.com/bbe2/IT.304.Fall.2022  
-• ICARUS-AI E-Learning________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7.Pillars.of.Python_________________________https://github.com/bbe2/professor/tree/7.py.pillars  
-• >_7.Pillars.of.Technical.Writing.w.ChatGPT__https://github.com/bbe2/professor/tree/7.py.pillars  
-
-• professor.home______________________https://github.com/bbe2/professor  
-
-# it.226 - Technical Communication in STEM Professions, b.hogan@snhu.edu  
+#### it.226 - Technical Communication in STEM Professions, b.hogan@snhu.edu  
 syllabus:  
 active.learning.workspace:  
 https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing   
 
-**abstraction**  
+**what is abstraction by Dr. Virginia Tufte**  
 • writing technique providing a tangential view of a situation -b.hogan definition(of sorts)  
 • habitual evocation of parallel structure  
 • a tendency to place feelings in syntactic positions of agency  
 • a trick of underplaying causal words: any of these patterns of expression, when repeated with unusual frequency, is the sign of a habit of meaning, and thus of a persistent way of sorting out the phenomena of experience.  
-
 • ...almost beyond the power of language to describe  
 • ...a sentence begins by raising rather than answering questions  
 • ...As the sentence progresses, some of its demands are satisfied, others deferred, others complicated, and mean while new ones are created. But with the end of the sentence comes a kind of balance which results from something having been said.  
-
-abtraction example:  
+**example**    
 "the little black desk at the window was black, rivaling the blackness of this fire escape, those rails dipped in asphalt, a heavy cosemetic coat of black, raills equidistant but appearcing according to the rules of perspective. - suall bellow, Herzog, p.128 <tufte.p.156>  
 
--virginia.tufte.grammar.as.syntax.p7  
+-virginia.tufte.grammar.as.syntax.p7, 1971  
+
+• it.304.systems.design.an.analysis____________https://github.com/bbe2/IT.304.Fall.2022  
+• ICARUS-AI E-Learning________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >_7.Pillars.of.Python_________________________https://github.com/bbe2/professor/tree/7.py.pillars  
+• >_7.Pillars.of.Technical.Writing.w.ChatGPT__https://github.com/bbe2/professor/tree/7.py.pillars  
+• professor.home______________________https://github.com/bbe2/professor  
 
 **AUDIO x Class - Onedrive via snhu email only**  
 • wk0 - d1/d2 (1.6,1.8)  
