@@ -1,7 +1,9 @@
-• it.304.systems.design.an.analysis_____https://github.com/bbe2/IT.304.Fall.2022  
-• professor.home______________________https://github.com/bbe2/professor   
-• ICARUS-AI E-Learning______________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >_7.Pillars.of.Python_______________https://github.com/bbe2/professor/tree/7.py.pillars  
+• it.304.systems.design.an.analysis____________https://github.com/bbe2/IT.304.Fall.2022  
+• ICARUS-AI E-Learning________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >_7.Pillars.of.Python_________________________https://github.com/bbe2/professor/tree/7.py.pillars  
+• >_7.Pillars.of.Technical.Writing.w.ChatGPT__https://github.com/bbe2/professor/tree/7.py.pillars  
+
+• professor.home______________________https://github.com/bbe2/professor  
 
 # it.226 - Technical Communication in STEM Professions  
 b.hogan@snhu.edu  
