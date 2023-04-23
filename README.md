@@ -5,10 +5,9 @@
 
 • professor.home______________________https://github.com/bbe2/professor  
 
-# it.226 - Technical Communication in STEM Professions  
-b.hogan@snhu.edu  
-syllabus  
-shared.workspace  
+# it.226 - Technical Communication in STEM Professions, b.hogan@snhu.edu  
+syllabus:  
+active.learning.workspace:  
 https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing   
 
 **abstraction**  
