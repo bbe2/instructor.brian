@@ -67,7 +67,8 @@ https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ed9mFr1-83NBv5Tu8
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ERvpJzrkTWtPlKdZMBzl7VMBV-2K4Y2KC-q8UCDVC_Zdgg?e=cc1qxo  
 • wk15 - d1/d2 (4.19, 4.21)  
 https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/Ee9zXfS3KLlKnzrl8Iv5M04BG0ok_H6EG8hxMett3JaAwA?e=gSbp0I  
-<no.wk15.d2>  
+<chatGPT basic how to w scientific words>  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EannKyd1ADZOhZMw3FAGbbUBB9b_RA7LA3wDmNzm2Z3XbQ?e=X7BOra  
 
 ![myview chatgpt](https://user-images.githubusercontent.com/59778456/218282582-211540a3-20a8-4a36-affe-a8efdef64b97.JPG)  
 
