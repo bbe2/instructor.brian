@@ -9,18 +9,20 @@
 ### **B) ICARUS-AI E-Learning**
 • teacher profile => https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >.7.Pillars.of.Python==========>https://github.com/bbe2/professor/tree/7.py.pillars  
-• >.Technical.Writing.w.ChatGPT===> (in dev)  
+• >.7.Pillars.of.Tech.Writing.w.GPT.3  ===> (in dev)  
 
-> • Technical Writing with ChatGPT__________(March 2023  - new)
+> • Technical Writing with ChatGPT__________(March 2023  - new)  
 > Two students used ChatGPT to pass classes but not in their voice.  
 >> Take ownership of your voice in the new AI writing paradigm shift.  
 >> Builds on training from retired linguistic expert Dr. McCracken.  
->> Includes principles, mechanics, and Python with ChatGPT REST-API to  
+>> Includes principles, mechanics, and Python with ChatGPT REST-API  
 a) Assess metrics representing originality discourse (authentic self).  
 b) Sharpen information exchange quality with polysyllabics by ontology.  
-c) Train and apply appropriate epexegetical techniques.  
-d) Have fun and deepen one’s love of language and self-expression.  
+c) Train and apply appropriate epexegetical techniques.   
 e) epexegetic sesquipeds and polysyllabastic substitution are you new friends!  
+
+
+![chat gpt](https://user-images.githubusercontent.com/59778456/235020914-e6ef0861-d897-46f6-8451-44e32a0964e3.jpeg)  
 
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11175216/brian.hogan.cv.d.pdf)  
