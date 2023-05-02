@@ -1,7 +1,7 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 > Designer of applied organic structures and code to facilitate active and interactive learning structures.  
-> a single corpus of focus; comprehensive learning resource NOT whiz-bang .ppts, shuffling, and disassembled outcomes  
+> a single corpus of focus; a comprehensive learning resource NOT .ppts or disassembled outcomes  
 >> welcome to my substance ~brianh  
 
 ### **University courses**  
