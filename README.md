@@ -1,15 +1,15 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 > Designer of applied organic structures and code to facilitate active and interactive learning structures.  
->> a single corpus of focus; comprehensive learning resource NOT whiz-bang .ppts, shuffling, and disassembled outcomes  
->>> welcome to my substance ~brianh  
+> a single corpus of focus; comprehensive learning resource NOT whiz-bang .ppts, shuffling, and disassembled outcomes  
+>> welcome to my substance ~brianh  
 
 ### **University courses**  
 • it.226.technical.communication.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.systems.design.an.analysis______https://github.com/bbe2/IT.304.Fall.2022  
 • teacher profile_________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >.7.Pillars.Python______________________https://github.com/bbe2/professor/tree/7.pillars.py  
-• >.7.Pillars.tech.write.w.GPT.3(in dev)_https://github.com/bbe2/professor/tree/7.pillars.py  
+• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
 > Two students used ChatGPT to pass classes but not in their voice.  
 >> Take ownership of your voice in the new AI writing paradigm shift.  
 >> Builds on training from retired linguistic expert Dr. McCracken.  
