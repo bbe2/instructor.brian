@@ -34,7 +34,9 @@ e) epexegetic sesquipeds and polysyllabastic substitution are you new friends!
 • [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/professor/files/11175217/brian.hogan.teach.philosophy.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11175219/brian.hogan.statement.on.diversity.pdf)  
 • [b.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11175222/b.hogan.statement.scholarly.activities.pdf)  
+
 ---------------------
+
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
 ->Nuclear Physicist Hans Bethe  Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
 
