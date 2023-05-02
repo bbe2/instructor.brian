@@ -27,6 +27,8 @@ e) epexegetic sesquipeds and polysyllabastic substitution are you new friends!
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
 
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
+![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)  
+
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11175216/brian.hogan.cv.d.pdf)  
 • [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/professor/files/11175217/brian.hogan.teach.philosophy.pdf)  
