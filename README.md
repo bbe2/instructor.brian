@@ -2,7 +2,7 @@
 
 > Designer of applied organic structures and code to facilitate active/interactive learning structures.  
 > a single corpus of focus; a comprehensive learning resource NOT .ppts or disassembled outcomes.  
->> focus building university computer scientist adaptable and sustainable skills.  
+>> goal: enabling adaptability and sustainabilty in unviersity student computer scientist students.  
 >> appreciate evaluating my substance ~brianh  
 
 ### **University courses**  
