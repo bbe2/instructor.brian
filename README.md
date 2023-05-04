@@ -1,9 +1,9 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-> Designer of applied organic structures and code to facilitate active/interactive learning structures.  
-> a single corpus of focus; a comprehensive learning resource NOT .ppts or disassembled outcomes.  
->> goal: enabling adaptability and sustainabilty in unviersity student computer scientist students.  
->> appreciate evaluating my substance ~brianh  
+Designer of applied organic structures and code to facilitate active/interactive learning structures.  
+**goal:** enabling adaptability and sustainabilty in unviersity student computer scientist students.  
+
+-thank you for evaluating my substance to irencially serve in your computer science department. ~brian  
 
 ### **University courses**  
 • it.226.technical.communication.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
