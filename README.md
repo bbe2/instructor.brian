@@ -6,20 +6,15 @@ Designer of applied organic structures and code to facilitate active/interactive
 -thank you for evaluating my substance to irencially serve in your computer science department. ~brian  
 
 ### **University courses**  
+• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
+=> building templates and methods to dramatically upskill information exchange.
+=> also engineering prompts to faciliate effective automated grading  
+
+
 • it.226.technical.communication.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.systems.design.an.analysis______https://github.com/bbe2/IT.304.Fall.2022  
 • teacher profile_________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >.7.Pillars.Python______________________https://github.com/bbe2/professor/tree/7.pillars.py  
-• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
-> Two students used ChatGPT to pass classes but not in their voice.  
->> Take ownership of your voice in the new AI writing paradigm shift.  
->> Builds on training from retired linguistic expert Dr. McCracken.  
->> Includes principles, mechanics, and Python with ChatGPT REST-API  
-a) Assess metrics representing originality discourse (authentic self).  
-b) Sharpen information exchange quality with polysyllabics by ontology.  
-c) Train and apply appropriate epexegetical techniques.   
-e) epexegetic sesquipeds and polysyllabastic substitution are you new friends!  
-
 
 ![chat gpt](https://user-images.githubusercontent.com/59778456/235020914-e6ef0861-d897-46f6-8451-44e32a0964e3.jpeg)  
 !images.githubusercontent.com/59778456/227400710-fee3c769-0a1e-43a8-b98d-bc77a931adfc.PNG)
