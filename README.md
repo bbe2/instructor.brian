@@ -25,10 +25,11 @@ Designer of applied organic structures and code to facilitate active/interactive
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
 ![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)  
 
-• [brian.hogan.cv.pdf](https://github.com/bbe2/professor/files/11437284/brian.hogan.cv.pdf)  
+• [brian.hogan.cv.pdf](https://github.com/bbe2/professor/files/11437325/brian.hogan.cv.pdf)  
+• [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
 • [brian.hogan.statement.scholarly.research.pdf](https://github.com/bbe2/professor/files/11437286/brian.hogan.statement.scholarly.research.pdf)  
-• [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
+
 
 ---------------------
 
