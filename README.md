@@ -29,6 +29,7 @@ Designer of applied organic structures and code to facilitate active/interactive
 • [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
 • [brian.hogan.statement.scholarly.research.pdf](https://github.com/bbe2/professor/files/11437286/brian.hogan.statement.scholarly.research.pdf)  
+• [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11437569/brian.hogan.portfolio.links.pdf)
 
 
 ---------------------
