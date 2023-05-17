@@ -19,8 +19,9 @@ Designer of applied organic structures and code to facilitate active/interactive
 ![chat gpt](https://user-images.githubusercontent.com/59778456/235020914-e6ef0861-d897-46f6-8451-44e32a0964e3.jpeg)  
 !images.githubusercontent.com/59778456/227400710-fee3c769-0a1e-43a8-b98d-bc77a931adfc.PNG)
 
+![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)
 ![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)  
-![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)  
+![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
 
 • [brian.hogan.cv.pdf](https://github.com/bbe2/professor/files/11437325/brian.hogan.cv.pdf)  
@@ -36,5 +37,5 @@ Designer of applied organic structures and code to facilitate active/interactive
 ->Nuclear Physicist Hans Bethe  Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
 
 
-### ChatGPT == HAL9000 ~ 5 years ?   
+### I'm sorry Dave, you know I can't do that 
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
