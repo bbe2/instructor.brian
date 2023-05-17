@@ -6,16 +6,13 @@ Designer of applied organic structures and code to facilitate active/interactive
 -thank you for evaluating my substance to irencially serve in your computer science department. ~brian  
 
 ### **University courses**  
-• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
-=> building templates and methods to dramatically upskill information exchange.
-=> also engineering prompts to faciliate effective automated grading  
-
-
 • ct144.intermediate.C++ (2023.summer.1)  
 • it.226.tech.comm.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.system.design.analysis______https://github.com/bbe2/IT.304.Fall.2022  
 • teacher profile_________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >.7.Pillars.Python______________________https://github.com/bbe2/professor/tree/7.pillars.py  
+• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
+=> upskill information exchange for young computer scientists
 
 ![chat gpt](https://user-images.githubusercontent.com/59778456/235020914-e6ef0861-d897-46f6-8451-44e32a0964e3.jpeg)  
 !images.githubusercontent.com/59778456/227400710-fee3c769-0a1e-43a8-b98d-bc77a931adfc.PNG)
@@ -28,11 +25,10 @@ Designer of applied organic structures and code to facilitate active/interactive
 • [brian.hogan.cv.pdf](https://github.com/bbe2/professor/files/11437325/brian.hogan.cv.pdf)  
 • [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
-• [brian.hogan.statement.scholarly.research.pdf](https://github.com/bbe2/professor/files/11437286/brian.hogan.statement.scholarly.research.pdf)  
-• [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11437569/brian.hogan.portfolio.links.pdf)
+• [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
+• [b.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11502611/b.hogan.portfolio.links.pdf)  
 
-
----------------------
+---------------------  
 
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
 ->Nuclear Physicist Hans Bethe  Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
