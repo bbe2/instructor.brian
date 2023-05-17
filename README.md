@@ -5,16 +5,13 @@ models.
 Thank you for learning about my substance. ~brianh  
 
 ### **University courses**  
-• ct144.intermediate.C++ (2023.summer.1)  
-• it.226.tech.comm.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
-• it.304.system.design.analysis______https://github.com/bbe2/IT.304.Fall.2022  
-• teacher profile_________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >.7.Pillars.Python______________________https://github.com/bbe2/professor/tree/7.pillars.py  
+• ct144.intermediate.C++________ (2023.summer.1)  
+• it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
+• it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
+• teacher profile__________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
+• >.7.Pillars.Python_______________https://github.com/bbe2/professor/tree/7.pillars.py  
 • >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
-=> upskill information exchange for young computer scientists
-
-![chat gpt](https://user-images.githubusercontent.com/59778456/235020914-e6ef0861-d897-46f6-8451-44e32a0964e3.jpeg)  
-!images.githubusercontent.com/59778456/227400710-fee3c769-0a1e-43a8-b98d-bc77a931adfc.PNG)
+=> upskill information exchange for young computer scientists  
 
 ![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)
 ![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)  
