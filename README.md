@@ -1,9 +1,8 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-Designer of applied organic structures and code to facilitate active/interactive learning structures.  
-**goal:** enable university student computer scientists with adaptability and sustainabilty in an era of feasible AI replacement.  
-
--thank you for evaluating my substance to irencially serve in your computer science department. ~brian  
+Instructor of computer science and designer of interactive learning based on organic 
+models.  
+Thank you for learning about my substance. ~brianh  
 
 ### **University courses**  
 • ct144.intermediate.C++ (2023.summer.1)  
