@@ -11,8 +11,9 @@ Designer of applied organic structures and code to facilitate active/interactive
 => also engineering prompts to faciliate effective automated grading  
 
 
-• it.226.technical.communication.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
-• it.304.systems.design.an.analysis______https://github.com/bbe2/IT.304.Fall.2022  
+• ct144.intermediate.C++ (summer.1)
+• it.226.tech.comm.w.AI___https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
+• it.304.system.design.analysis______https://github.com/bbe2/IT.304.Fall.2022  
 • teacher profile_________________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >.7.Pillars.Python______________________https://github.com/bbe2/professor/tree/7.pillars.py  
 
