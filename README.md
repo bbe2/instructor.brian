@@ -18,7 +18,7 @@ Thank you for learning about my substance. ~brianh
 ![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)
 ![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
 
-• [brian.hogan.cv.pdf](https://github.com/bbe2/professor/files/11437325/brian.hogan.cv.pdf)  
+• [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
 • [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
 • [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
