@@ -1,6 +1,7 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)
+![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
+
 
 Instructor of computer science and designer of interactive learning based on organic 
 models.  
@@ -15,10 +16,11 @@ Thank you for learning about my substance. ~brianh
 • >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
 => upskill information exchange for young computer scientists  
 
+05.22.23
+![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)  
 ![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)
 ![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)  
-![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)
-![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
+![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
 • [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
