@@ -2,7 +2,8 @@
 
 # CT144 - Intermediate C++, Summer I  
 `Franklin Technical Institute`  
-< prof.brian > <bhogan@franklincummings.edu >< you may have my cell, just ask 🧑‍🚀 >  
+< prof.brian >  
+bhogan@franklincummings.edu > 🧑‍🚀 
 
 
 **`google.workspace:`**  
