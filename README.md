@@ -6,9 +6,7 @@ Thank you for learning about my information substance. ~bri
 
 ### **University courses**  
 summer.2023  
-• ct144.intermediate.C++________(https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)  
-
-
+• ct144.intermediate.C++________https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B  
 • cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu  
 • it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
