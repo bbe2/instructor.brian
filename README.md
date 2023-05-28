@@ -3,7 +3,7 @@
 # CT144 - Intermediate C++, Summer I  
 `Franklin Technical Institute`  
 < prof.brian >  
-bhogan@franklincummings.edu > 🧑‍🚀 
+bhogan@franklincummings.edu > 🧑‍🚀  
 https://github.com/bbe2/professor  
 
 **`google.workspace:`**  
