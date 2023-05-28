@@ -9,7 +9,8 @@ Thank you for learning about my substance. ~brianh
 
 ### **University courses**  
 • ct144.intermediate.C++________ (2023.summer.1)  
-• cosc.526.introduction.to.data.mining____
+spring.2023
+• cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu
 • it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
 • teacher profile__________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
