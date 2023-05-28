@@ -4,7 +4,7 @@
 `Franklin Technical Institute`  
 < prof.brian >  
 bhogan@franklincummings.edu > 🧑‍🚀 
-
+https://github.com/bbe2/professor  
 
 **`google.workspace:`**  
 - https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing  
@@ -15,8 +15,6 @@ bhogan@franklincummings.edu > 🧑‍🚀
 - code.JAMs << we're busy festooning >>  
 - ques.answer.JAMs  
 - tips, tricks, solutions   
-
-
 
 
 
