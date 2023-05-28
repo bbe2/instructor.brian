@@ -33,7 +33,9 @@ summer.2023
 ---------------------  
 
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
-->Nuclear Physicist Hans Bethe  Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
+->Nuclear Physicist Hans Bethe  
+
+Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
 
 
 ### I'm sorry Dave, you know I can't do that 
