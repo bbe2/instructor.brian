@@ -6,6 +6,7 @@ Thank you for learning about my information substance. ~bri
 ![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
 
 ### **University courses**  
+summer.2023 
 • ct144.intermediate.C++________ (2023.summer.1)  
 spring.2023
 • cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu
