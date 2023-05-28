@@ -1,4 +1,4 @@
-#### **`google.workspace:`** 
+#### **`google.workspace`** 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 # CT144 - Intermediate C++, Summer I  
