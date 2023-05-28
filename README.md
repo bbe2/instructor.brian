@@ -1,19 +1,20 @@
-#### **`google.workspace`** 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 # CT144 - Intermediate C++, Summer I  
 `Franklin Technical Institute`  
 < prof.brian > <bhogan@franklincummings.edu >< you may have my cell, just ask 🧑‍🚀 >  
 
+
 **`google.workspace:`**  
+- https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing  
 > class corpus w NEAT stuff like:  
-- cool training videos << bro code  >>
+- cool training videos << bro code  >>  
 - code snippets  << searchable >>  
-- C++.definitions << pilfered from space >>
+- C++.definitions << pilfered from space >>  
 - code.JAMs << we're busy festooning >>  
 - ques.answer.JAMs  
 - tips, tricks, solutions   
-- https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing
+
 
 
 
