@@ -7,6 +7,8 @@ Thank you for learning about my information substance. ~bri
 ### **University courses**  
 summer.2023  
 • ct144.intermediate.C++________https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B  
+
+
 • cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu  
 • it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
@@ -19,6 +21,7 @@ summer.2023
 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)  
 ![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)  
 ![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)  
+05.02.23  
 ![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
