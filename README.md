@@ -1,4 +1,4 @@
- Instructor of computer science and designer of interactive learning based on organic 
+Instructor of computer science and designer of interactive learning based on organic 
 models.  
 Thank you for learning about my substance. ~brianh  
 
@@ -15,8 +15,6 @@ Thank you for learning about my substance. ~brianh
 => upskill information exchange for young computer scientists  
 
 
-
-![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
 
 
 
