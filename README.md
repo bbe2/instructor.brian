@@ -1,5 +1,5 @@
-- Instructor of computer science and designer of interactive learning structures derrived from melittologic models.  
-- Thank you for learning about my information substance. ~brianh  
+Computer science instructor and designer of interactive learning structures derived from melittologic models.  
+Thank you for learning about my information substance. ~bri  
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
