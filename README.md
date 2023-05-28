@@ -1,11 +1,5 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
-
-Instructor of computer science and designer of interactive learning based on organic 
-models.  
-Thank you for learning about my substance. ~brianh  
-
 ### **University courses**  
 • ct144.intermediate.C++________ (2023.summer.1)  
 • cosc.526.introduction.to.data.mining____
@@ -15,6 +9,15 @@ Thank you for learning about my substance. ~brianh
 • >.7.Pillars.Python_______________https://github.com/bbe2/professor/tree/7.pillars.py  
 • >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
 => upskill information exchange for young computer scientists  
+
+
+
+![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
+
+Instructor of computer science and designer of interactive learning based on organic 
+models.  
+Thank you for learning about my substance. ~brianh  
+
 
 
 
