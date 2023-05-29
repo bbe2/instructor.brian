@@ -8,21 +8,25 @@ https://github.com/bbe2/professor
 
 **`google.workspace:`**  
 https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing  
-- class corpus for collaborative learning  
-- cool training videos: [c++.bro.code](https://www.youtube.com/watch?v=-TkoO8Z07hI)  
-- code snippets  << searchable >>  
-- C++.definitions << pilfered from space >>  
-- code.JAMs << we're busy festooning >>  
-- ques.answer.JAMs  
-- tips, tricks, solutions   
+• class corpus for collaborative learning  
+• cool training videos: [c++.bro.code](https://www.youtube.com/watch?v=-TkoO8Z07hI)  
+• code snippets  << searchable >>  
+• C++.definitions << yes all of them >>  
+• code.and.Answer.JAMs   
+• tips, tricks, solutions   
 
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/256868b1-4b0a-483d-ae19-9d6bb4812371)  
 https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s  
 
-![c](https://github.com/bbe2/professor/assets/59778456/b2d52e93-cf27-49cf-aed8-530c0a68868c)
+`quality textbooks`  
+• [C++ Primer, 5th.ed. s.Lippman, j.Lajoie, b.Moo ](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=2OK9CR6L8YRMN&keywords=c%2B%2B+lippman&qid=1685327155&sprefix=c%2B%2B+lippman%2Caps%2C120&sr=8-1)  
+• • [exercise.answers.to.C++.Primer](https://github.com/fsaadatmand/Cpp-Primer)  
 
-`software install`
-[visual.studio0](https://visualstudio.microsoft.com/downloads/)
+`software`  
+• vis.studio gets many training thumbs as code train support    
+• [visual.studio0](https://visualstudio.microsoft.com/downloads/)  
+• [colab](https://colab.research.google.com/)  - love bc expand collapse  
 
 
-![ti-30](https://github.com/bbe2/professor/assets/59778456/ca89effc-9d4b-4e95-af04-f3655ebb6461)
+![ti-30](https://github.com/bbe2/professor/assets/59778456/ca89effc-9d4b-4e95-af04-f3655ebb6461)  
+![c](https://github.com/bbe2/professor/assets/59778456/b2d52e93-cf27-49cf-aed8-530c0a68868c)  
