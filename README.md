@@ -25,6 +25,8 @@ https://github.com/bbe2/professor
 [b.Ng.howTo.build.career.AI.pdf](https://github.com/bbe2/professor/files/11587064/b.Ng.howTo.build.career.AI.pdf)  
 
 
+![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
+
 
 ![g plamers penguins](https://github.com/bbe2/professor/assets/59778456/9916fa79-5f60-41fa-ad3e-e04fd0435930)
 
