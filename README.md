@@ -16,11 +16,10 @@ https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWA
 - ques.answer.JAMs  
 - tips, tricks, solutions   
 
+![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/256868b1-4b0a-483d-ae19-9d6bb4812371)  
+https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s  
+
+![c](https://github.com/bbe2/professor/assets/59778456/b2d52e93-cf27-49cf-aed8-530c0a68868c)
 
 
-
-
-
----------------------  
-### I'm sorry Dave, you know I can't do that 
-![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
+![ti-30](https://github.com/bbe2/professor/assets/59778456/ca89effc-9d4b-4e95-af04-f3655ebb6461)
