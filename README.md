@@ -14,7 +14,8 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 `university.course.history`  
 • [it.226.tech.comm.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
 • [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)  
-• [teacher profile](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)   
+
+• [ICARUS.AI}(https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
 • [>.7.Pillars.Python](https://github.com/bbe2/professor/tree/7.pillars.py)  
 • [>.7.Pillars.tech.write.w.GPT.3.in dev](https://github.com/bbe2/professor/tree/7.pillars.py)  
 => upskill information exchange for young computer scientists  
