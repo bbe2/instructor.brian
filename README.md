@@ -1,9 +1,8 @@
 Computer science instructor and designer of interactive learning structures derived from melittologic models.  
 Thank you for learning about my information substance. ~bri  
 
-### **`current.university.courses`**  
+**`current.university.courses`**  
 < prof.brian, bhogan@franklincummings.edu > 🧑‍🚀  
-
 
 `summer.2023`  
 • [CT144 - Intermediate C++, Summer I, Franklin Technical Institute](course.git](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
