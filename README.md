@@ -1,15 +1,19 @@
 Computer science instructor and designer of interactive learning structures derived from melittologic models.  
 Thank you for learning about my information substance. ~bri  
-![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-### **University courses**  
+### **`current.university.courses`**  
+
 summer.2023  
 • ct144.intermediate.C++________https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B  
+` CT144 - Intermediate C++, Summer I, Franklin Technical Institute`  
+< prof.brian, bhogan@franklincummings.edu > 🧑‍🚀  
+
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a)  
 https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s  
 
 
 • cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu  
+**`university.course.history`**  
 • it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
 • it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
 • teacher profile__________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
@@ -19,11 +23,13 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
-• [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
 • [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
 • [b.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11502611/b.hogan.portfolio.links.pdf)  
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
+
+[brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
+![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 05.22.23  
 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)  
