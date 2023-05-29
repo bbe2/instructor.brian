@@ -7,7 +7,7 @@ bhogan@franklincummings.edu > 🧑‍🚀
 https://github.com/bbe2/professor  
 
 **`google.workspace:`**  
-- https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing  
+https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing  
 > class corpus for collaborative learning  
 - cool training videos << bro code  >>  
 - code snippets  << searchable >>  
