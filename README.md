@@ -14,6 +14,8 @@ https://github.com/bbe2/professor
 • • advanced practitioner skilling, including theory, clustering,   
 • • •  classification, recommender systems, and a complete PySpark outfitting.   
 
+[b.Andrew.Ng.machine.learning.yearning.pdf](https://github.com/bbe2/professor/files/11587063/b.Andrew.Ng.machine.learning.yearning.pdf)  
+[b.Ng.howTo.build.career.AI.pdf](https://github.com/bbe2/professor/files/11587064/b.Ng.howTo.build.career.AI.pdf)  
 
 • [r.M.0.syllabus.cosc.526.pdf](https://github.com/bbe2/professor/files/11587027/r.M.0.syllabus.cosc.526.pdf)  
 • [reference.library.COSC.526.pdf](https://github.com/bbe2/professor/files/11587014/reference.library.COSC.526.pdf)  `prof.brian favorite`  
