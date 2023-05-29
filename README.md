@@ -2,23 +2,22 @@ Computer science instructor and designer of interactive learning structures deri
 Thank you for learning about my information substance. ~bri  
 
 ### **`current.university.courses`**  
-
-summer.2023  
-• ct144.intermediate.C++________https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B  
-` CT144 - Intermediate C++, Summer I, Franklin Technical Institute`  
 < prof.brian, bhogan@franklincummings.edu > 🧑‍🚀  
+
+
+`summer.2023`  
+• [CT144 - Intermediate C++, Summer I, Franklin Technical Institute](course.git](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
+• [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)  
 
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a)  
 https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s  
 
-
-• cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu  
-**`university.course.history`**  
-• it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
-• it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
-• teacher profile__________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >.7.Pillars.Python_______________https://github.com/bbe2/professor/tree/7.pillars.py  
-• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
+`university.course.history`  
+• [it.226.tech.comm.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
+• [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)  
+• [teacher profile](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)   
+• [>.7.Pillars.Python](https://github.com/bbe2/professor/tree/7.pillars.py)  
+• [>.7.Pillars.tech.write.w.GPT.3.in dev](https://github.com/bbe2/professor/tree/7.pillars.py)  
 => upskill information exchange for young computer scientists  
 
 
