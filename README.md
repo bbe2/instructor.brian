@@ -16,11 +16,10 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 • [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)  
 
 `ICARUS.ai`  
-• [ICARUS.AI](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
+• [my.profile](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
 • [>.7.Pillars.Python](https://github.com/bbe2/professor/tree/7.pillars.py)  
 • [>.7.Pillars.tech.write.w.GPT.3.in dev](https://github.com/bbe2/professor/tree/7.pillars.py)  
 => upskill information exchange for young computer scientists  
-
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
 • [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
