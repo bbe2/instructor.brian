@@ -44,6 +44,7 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 
 Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
 
+![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
 
 ### I'm sorry Dave, you know I can't do that 
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
