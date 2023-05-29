@@ -1,25 +1,26 @@
-Instructor of computer science and designer of interactive learning based on organic 
-models.  
-Thank you for learning about my substance. ~brianh  
+![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG) 
+## **`cosc.526`**  
+### Introduction to Data Mining, Summer.I ,2023
+University of Tenessee at Knoxville  
+`by prof.brian, b.hogan@snhu.edu 🧑‍🚀 ` 
+https://github.com/bbe2/professor  
 
-### **University courses**  
-• ct144.intermediate.C++________ (2023.summer.1)   
-• cosc.526.introduction.to.data.mining____
-• it.226.tech.comm.w.AI__________https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai  
-• it.304.system.design.analysis___https://github.com/bbe2/IT.304.Fall.2022  
-• teacher profile__________________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
-• >.7.Pillars.Python_______________https://github.com/bbe2/professor/tree/7.pillars.py  
-• >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
-=> upskill information exchange for young computer scientists  
+client: Noodle, New York, NY, 03/23 – 06/23  
+`goal` - re-engineer and draft 10-module data mining course with 
+advanced practitioner skilling, including theory, clustering, 
+classification, recommender systems, and a complete PySpark outfitting.  
 
 
 
 
 
+[r.M.0.syllabus.cosc.526.pdf](https://github.com/bbe2/professor/files/11587027/r.M.0.syllabus.cosc.526.pdf)
+
+[reference.library.COSC.526.pdf](https://github.com/bbe2/professor/files/11587014/reference.library.COSC.526.pdf)
+[reference.resources.cosc.526.pdf](https://github.com/bbe2/professor/files/11587029/reference.resources.cosc.526.pdf)
 
 
-
+---------------------  
 ### I'm sorry Dave, you know I can't do that 
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
