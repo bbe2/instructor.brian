@@ -2,14 +2,11 @@ Computer science instructor and designer of interactive learning structures deri
 Thank you for learning about my information substance. ~bri  
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
-
 ### **University courses**  
 summer.2023  
 • ct144.intermediate.C++________https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B  
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a)  
 https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s  
-
 
 
 • cosc.526.introduction.to.data.mining____https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu  
@@ -20,12 +17,8 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 • >.7.Pillars.tech.write.w.GPT.3(in dev)__https://github.com/bbe2/professor/tree/7.pillars.py  
 => upskill information exchange for young computer scientists  
 
-05.22.23  
-![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)  
-![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)  
-![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)  
-05.02.23  
-![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
+![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)
+![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
 • [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
@@ -33,8 +26,15 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 • [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
 • [b.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11502611/b.hogan.portfolio.links.pdf)  
 
----------------------  
 
+05.22.23  
+![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)  
+![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)  
+![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)  
+05.02.23  
+![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)  
+
+----------- 
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
 ->Nuclear Physicist Hans Bethe  
 
