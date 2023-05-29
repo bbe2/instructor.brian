@@ -26,5 +26,6 @@ https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s
 • [colab](https://colab.research.google.com/)  - love bc expand collapse  
 
 
+![g x ray](https://github.com/bbe2/professor/assets/59778456/9533a9da-fcb9-4be3-ab36-7a636b9a1e2c)
 ![ti-30](https://github.com/bbe2/professor/assets/59778456/ca89effc-9d4b-4e95-af04-f3655ebb6461)  
 ![c](https://github.com/bbe2/professor/assets/59778456/b2d52e93-cf27-49cf-aed8-530c0a68868c)  
