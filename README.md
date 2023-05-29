@@ -8,7 +8,7 @@ https://github.com/bbe2/professor
 
 **`class.corpus.workspace`**  
 • [workspace](https://docs.google.com/spreadsheets/d/1yvSCChm9HSFhOtPDABvlDyOzxb3FDaMtERb0FTWAtVU/edit?usp=sharing)  
-• cool training videos: [c++.bro.code](https://www.youtube.com/watch?v=-TkoO8Z07hI)  
+• [c++.Great.train.w.bro.code](https://www.youtube.com/watch?v=-TkoO8Z07hI)  
 • searchable snippets, tricsks, tips   
 • C++.definition.reference.library  
 • code.an.Answer.JAMs   
