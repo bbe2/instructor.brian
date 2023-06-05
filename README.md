@@ -1,10 +1,8 @@
-To Whom it May Concern,
-- I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication.  
-- In my classroom, I prioritize every student by promoting interactive learning and establishing a supportive environment to realize their potential. I am resolute in evidencing their skill pillars for a sustainable and resilient career. Each student has the substance to succeed and the ability to thrive. I serve as their firetender.    
-- I'm also passionate about studying organic models of adaptability, such as melittologic and the common octopus. Unique models and creatures connect us to our higher consciousness and grow our outlook. Best brian  
 
-
-
+Instructor of undergraduate and graduate courses  
+- C++, Python programming, data mining, systems design/analysis, and STEM technical communication.  
+- I'm resolute in evidencing each student's skill pillars towards sustainable and resilient career.   
+- Unique and curious creatures help us conenct to our higher consciousness and grow our outlook.  
 
 `2023`  
 built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)  
@@ -32,6 +30,7 @@ built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https
 [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
 [b.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11502611/b.hogan.portfolio.links.pdf)  
 [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11657221/brian.hogan.portfolio.links.pdf)
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
 
 ![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
