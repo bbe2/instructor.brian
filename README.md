@@ -30,7 +30,7 @@ built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https
 [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
 [b.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11502611/b.hogan.portfolio.links.pdf)  
 [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11657221/brian.hogan.portfolio.links.pdf)
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11657221/brian.hogan.portfolio.links.pdf)  
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
 
 ![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
