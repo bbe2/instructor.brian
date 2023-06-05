@@ -16,7 +16,7 @@ Instructor of undergraduate and graduate courses
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones' info exchange  
 
-=>portfolio  
+=>portfolio[`home`](https://github.com/bbe2/portfolio)  
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
