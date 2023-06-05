@@ -14,7 +14,7 @@ built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https
 `ICARUS.ai`  
 • [`my.profile`](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
 • [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
-• [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py),attempt to dramatically upskill information exhange  
+• [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones info exchange  
 
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
