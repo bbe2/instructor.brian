@@ -14,7 +14,7 @@ Instructor of undergraduate and graduate courses
 `ICARUS.ai`  
 [`my.profile`](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
-[`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones info exchange  
+[`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones' info exchange  
 
 =>portfolio  
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
