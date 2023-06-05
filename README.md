@@ -16,6 +16,7 @@ Instructor of undergraduate and graduate courses
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones info exchange  
 
+=>portfolio  
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
@@ -24,19 +25,22 @@ Instructor of undergraduate and graduate courses
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit) 
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
-[brian.hogan.cv.d.pdf](https://github.com/bbe2/professor/files/11502827/brian.hogan.cv.d.pdf)  
-[brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/professor/files/11437285/brian.hogan.statement.on.diversity.pdf)  
-[brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/professor/files/11502613/brian.hogan.statement.scholarly.activities.pdf)  
-[b.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11502611/b.hogan.portfolio.links.pdf)  
-[brian.hogan.teaching.statement.pdf](https://github.com/bbe2/professor/files/11437287/brian.hogan.teaching.statement.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/professor/files/11658038/brian.hogan.portfolio.links.pdf)
+
+=>[`brian.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)  
+[`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
+[`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
+[`brian.hogan.committment.to.diversity.statement.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
+[`brian.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11655574/brian.hogan.research.interests.pdf)  
+[`brian.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf)  
+[`brian.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
+[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/portfolio/files/11658054/brian.hogan.portfolio.links.pdf)  
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
 
 
 ![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
 
-05.29.23
-![g gramarly 05 29 23](https://github.com/bbe2/professor/assets/59778456/fda0f1d9-38f9-4eab-8c2d-f822bb721744)
+06.05.23
+05.29.23![g gramarly 05 29 23](https://github.com/bbe2/professor/assets/59778456/fda0f1d9-38f9-4eab-8c2d-f822bb721744)
 05.22.23 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)
 ![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)
 ![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)
