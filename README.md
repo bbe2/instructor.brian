@@ -12,10 +12,9 @@ built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
 
 `ICARUS.ai`  
-• [my.profile](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
-• [>.7.Pillars.Python](https://github.com/bbe2/professor/tree/7.pillars.py)  
-• [>.7.Pillars.tech.write.w.GPT.3.in dev](https://github.com/bbe2/professor/tree/7.pillars.py)  
-=> upskill information exchange for young computer scientists  
+• [`my.profile`](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
+• [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
+• [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py),attempt to dramatically upskill information exhange  
 
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
@@ -48,7 +47,7 @@ built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
 ->Nuclear Physicist Hans Bethe  
 
-Feynman interview on …why  https://www.youtube.com/watch?v=36GT2zI8lVA   
+[`Feynman.why`](https://www.youtube.com/watch?v=36GT2zI8lVA)  
 
 
 ### I'm sorry Dave, you know I can't do that 
