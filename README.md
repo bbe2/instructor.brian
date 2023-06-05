@@ -6,7 +6,7 @@ Thank you for learning about my information substance. ~bri
 
 `summer.2023`  
 • [ct.144.Intermediate.C++, Summer I @Franklin Technical Institute](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
-• [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)  
+• [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu), course builder for www.utk.edu   
 
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a)  
 https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s  
