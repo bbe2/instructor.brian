@@ -5,7 +5,7 @@ Instructor of undergraduate and graduate courses
 - Unique and curious creatures help us conenct to our higher consciousness and grow our outlook.  
 
 `2023`  
-built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)  
+[`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) ,via noodle for utk.edu  
 [`ct.144.Intermediate.C++, Summer I @Franklin Technical Institute`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
 [`it.226.tech.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
