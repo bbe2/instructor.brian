@@ -39,7 +39,7 @@ Instructor of undergraduate and graduate courses
 
 ![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
 
-06.05.23
+06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
 05.29.23![g gramarly 05 29 23](https://github.com/bbe2/professor/assets/59778456/fda0f1d9-38f9-4eab-8c2d-f822bb721744)
 05.22.23 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)
 ![g gram 05 17 23](https://github.com/bbe2/professor/assets/59778456/46f93955-8512-4340-b844-7114aba34dea)
