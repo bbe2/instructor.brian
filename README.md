@@ -1,8 +1,10 @@
-Computer science instructor and designer of interactive learning structures derived from melittologic models.  
-Thank you for learning about my information substance. ~bri  
+To Whom it May Concern,
+- I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication.  
+- In my classroom, I prioritize every student by promoting interactive learning and establishing a supportive environment to realize their potential. I am resolute in evidencing their skill pillars for a sustainable and resilient career. Each student has the substance to succeed and the ability to thrive. I serve as their firetender.    
+- I'm also passionate about studying organic models of adaptability, such as melittologic and the common octopus. Unique models and creatures connect us to our higher consciousness and grow our outlook. Best brian  
 
-**`current.university.courses`**  
-< prof.brian, bhogan@franklincummings.edu > 🧑‍🚀  
+
+
 
 `2023`  
 built for www.utk.edu via noodle, [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)  
