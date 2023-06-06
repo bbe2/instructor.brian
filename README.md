@@ -1,8 +1,12 @@
 
-Instructor of undergraduate and graduate courses  
-- C++, Python programming, data mining, systems design/analysis, and STEM technical communication.  
-- I'm resolute in evidencing each student's skill pillars towards sustainable and resilient career.   
-- Unique and curious creatures help us conenct to our higher consciousness and grow our outlook.  
+Instructor of undergraduate and graduate courses in  
+- C++, Python, data mining, systems design/analysis, and technical communication.
+
+In my classroom, I prioritize every student by promoting interactive learning and establishing a supportive environment to unlock their potential. I am resolute in evidencing their pillars of skills to form career sustainability. Each student possesses the substance to succeed, and I provide information repository methods and information assembly methods leading to a quality library facilitating grit and resilience in computer science.
+
+Computer science, like many organic models, is adaptable. I’m passionate about studying how melittologic (bees) and arachnids adapt regarding vision, collaboration, and structure. These systems inspire design by illustrating critical endpoints like sustenance fulfillment, monitoring one's territory, and cleaning house. I incorporate these concepts into lectures and interactive materials to help expand student neuroplasticity.
+
+
 
 `2023`  
 [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) via noodle for www.utk.edu  
