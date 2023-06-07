@@ -14,18 +14,13 @@ https://github.com/bbe2/professor
 • • advanced practitioner skilling, including theory, clustering,   
 • • •  classification, recommender systems, and a complete PySpark outfitting.   
 
-• [r.M.0.syllabus.cosc.526.pdf](https://github.com/bbe2/professor/files/11587027/r.M.0.syllabus.cosc.526.pdf)  
-• [reference.library.COSC.526.pdf](https://github.com/bbe2/professor/files/11587014/reference.library.COSC.526.pdf)  `prof.brian favorite`  
-• [reference.resources.cosc.526.pdf](https://github.com/bbe2/professor/files/11587029/reference.resources.cosc.526.pdf)  
-
+[syllabus.intro.data.mine.cosc.five.two.six.pdf](https://github.com/bbe2/professor/files/11680899/syllabus.intro.data.mine.cosc.five.two.six.pdf)
+[reference.library.COSC.526.pdf](https://github.com/bbe2/professor/files/11587014/reference.library.COSC.526.pdf)
 
 `docs from the kindness of Andrew Ng`   
 ![andrew Ng DeepMind](https://github.com/bbe2/professor/assets/59778456/95b141f8-48cc-4482-be90-eb86456172c2)  
 [b.Andrew.Ng.machine.learning.yearning.pdf](https://github.com/bbe2/professor/files/11587063/b.Andrew.Ng.machine.learning.yearning.pdf)  
 [b.Ng.howTo.build.career.AI.pdf](https://github.com/bbe2/professor/files/11587064/b.Ng.howTo.build.career.AI.pdf)  
-
-
-![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 
 ![g plamers penguins](https://github.com/bbe2/professor/assets/59778456/9916fa79-5f60-41fa-ad3e-e04fd0435930)
@@ -38,6 +33,7 @@ https://github.com/bbe2/professor
 ![g isoloation forest](https://github.com/bbe2/professor/assets/59778456/e29df8e5-d828-423b-8e4c-abb613c99a8b)
 ![g kmeans](https://github.com/bbe2/professor/assets/59778456/ecfb79ae-be2d-415b-9f6d-df4529cd3a23)
 ![g pca](https://github.com/bbe2/professor/assets/59778456/76d5a632-2aec-4420-a0e0-1029d682e668)
-
 ![galaxy 02 17 23](https://github.com/bbe2/professor/assets/59778456/84f7cd04-7bbc-4d2c-8323-3c656ac35e89)
 
+
+![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
