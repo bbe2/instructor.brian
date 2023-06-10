@@ -1,4 +1,12 @@
 #### it.226 - Technical Communication in STEM Professions, b.hogan@snhu.edu  
+
+### Abstraction
+![g abstraction this is not a pipe](https://github.com/bbe2/professor/assets/59778456/84ba0d67-a126-4565-b43d-0c154c7f0c20)
+### Ceci n' est pas une pipe  ~ This is not a pipe  
+Abstraction is the work of assigning meaning to raw information, words, and thoughts that are between an object and its representation.  
+- abstraction assists with heightening your awareness of a situation in an effort to describe and manage items more effectively.  
+- if ideas come from the air and higher consciousness work towards developing new mechanisms of awareness to write about a situation, capture events more meaningfully, and maybe understand see or hear something in front of you.  
+
 syllabus:  
 active.learning.workspace:  
 https://docs.google.com/spreadsheets/d/1m3G8PiTNPZTr2gMa4COlJ_jI8EyNFIT3AdF2anxpoqs/edit?usp=sharing   
