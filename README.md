@@ -37,3 +37,4 @@ https://github.com/bbe2/professor
 
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
+![beetie](https://github.com/bbe2/professor/assets/59778456/f0dac6c6-247b-4594-a55f-18c62b365709)
