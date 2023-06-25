@@ -20,7 +20,7 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones' info exchange  
 
-=>portfolio[`home`](https://github.com/bbe2/portfolio)  
+[`home.portfolio.home`](https://github.com/bbe2/portfolio)  [`home.prof.brian`](https://github.com/bbe2/professor.brian)   
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
