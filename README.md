@@ -1,13 +1,10 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-## **`cosc.f~i~v~e-t-w-o-s.i.x`**  
-### Introduction to Data Mining, Summer.I ,2023
+### Introduction to Data Mining, Summer.I ,2023  
 University of Tenessee at Knoxville  
 client: Noodle, New York, NY, 03/23 – 06/23  
-
 `by prof.brian, b.hogan@snhu.edu 🧑‍🚀 `  
-https://github.com/bbe2/professor  
-
+https://github.com/bbe2/professor.brian    
 
 `goal`  
 • re-engineer and draft 10-module data mining course with   
