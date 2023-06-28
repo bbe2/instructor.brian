@@ -31,6 +31,7 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
+`instructor.brian.fact.sheets`   
 =>[`brian.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)  
 [`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
 [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
