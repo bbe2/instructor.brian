@@ -52,15 +52,9 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)
 06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
 05.22.23 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)
-![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)
-05.02.23
-![g grammarly 94](https://user-images.githubusercontent.com/59778456/235565287-e355ca42-bb45-4417-a30f-dcee45f84bc5.jpg)
-![93 grammarly](https://user-images.githubusercontent.com/59778456/225014381-d60a46db-2e43-4f31-a58e-6e238bf13e81.PNG)
-
 ----------- 
 “There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
 ->Nuclear Physicist Hans Bethe  
-
 [`Feynman.why`](https://www.youtube.com/watch?v=36GT2zI8lVA)  
 
 
