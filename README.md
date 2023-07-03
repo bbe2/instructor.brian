@@ -1,12 +1,5 @@
-
 Instructor of undergraduate and graduate courses in  
-- C++, Python, data mining, systems design/analysis, and technical communication.
-
-In my classroom, I prioritize every student by promoting interactive learning and establishing a supportive environment to unlock their potential. I am resolute in evidencing their pillars of skills to form career sustainability. Each student possesses the substance to succeed, and I provide information repository methods and information assembly methods leading to a quality library facilitating grit and resilience in computer science.
-
-Computer science, like many organic models, is adaptable. I’m passionate about studying how melittologic (bees) and arachnids adapt regarding vision, collaboration, and structure. These systems inspire design by illustrating critical endpoints like sustenance fulfillment, monitoring one's territory, and cleaning house. I incorporate these concepts into lectures and interactive materials to help expand student neuroplasticity.
-
-
+I'm an experienced instructor of undergraduate and graduate courses in C++, Python, data mining, systems design/analysis, and technical communication. My teaching approach prioritizes interactive learning and creates a supportive environment to unlock students' potential. I believe in equipping them with the skills sustainable employment by fostering grit and resilience pillars. My passion lies in studying the adaptability of melittology and arachnids, focusing on vision, collaboration, and structure. I integrate these concepts across lectures and materials to enhance student neuroplasticity by encouraging to search and notice God's wonders.  
 
 `2023`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
@@ -22,7 +15,8 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 [`>.7.Pillars.tech.write.w.GPT.3.in dev`](https://github.com/bbe2/professor/tree/7.pillars.py), upskill young ones' info exchange  
 
-[`home.portfolio.home`](https://github.com/bbe2/portfolio)  [`home.prof.brian`](https://github.com/bbe2/professor.brian)   
+=>portfolio.links<==  
+[`home.portfolio`](https://github.com/bbe2/portfolio) =! [`home.prof.brian`](https://github.com/bbe2/professor.brian)   
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
 [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
@@ -34,14 +28,11 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 `instructor.brian.fact.sheets`   
-=>[`brian.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)  
-[`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
-[`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
-[`brian.hogan.committment.to.diversity.statement.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
-[`brian.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11655574/brian.hogan.research.interests.pdf)  
-[`brian.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf)  
-[`brian.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
-[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/professor/files/11659836/brian.hogan.portfolio.links.pdf)  
+=>[`b.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)<=   
+[`b.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf) [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
+[`b.hogan.commit.to.diversity.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
+[`b.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11655574/brian.hogan.research.interests.pdf) [`b.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf) 
+ [`b.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf) [`b.hogan.portfolio.links.pdf`](https://github.com/bbe2/professor/files/11659836/brian.hogan.portfolio.links.pdf)  
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
 
@@ -52,11 +43,6 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)
 06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
 05.22.23 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)
------------ 
-“There are two types of genius. Ordinary geniuses do great things, but they leave you room to believe you could do the same if only you worked hard enough.  Then there are magicians, and you can have no idea how they do it. Feynman was a magician.”  
-->Nuclear Physicist Hans Bethe  
-[`Feynman.why`](https://www.youtube.com/watch?v=36GT2zI8lVA)  
-
 
 ### I'm sorry Dave, you know I can't do that 
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
