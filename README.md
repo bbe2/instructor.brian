@@ -45,9 +45,11 @@ Computer science, like many organic models, is adaptable. I’m passionate about
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
 
-
 ![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
 
+## what's probability using same number of unique words 2 months in a row?  
+07.03.23![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
+![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)
 06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
 05.22.23 ![g gram 05 22 23](https://github.com/bbe2/professor/assets/59778456/0becb7f8-1233-4133-b659-b55ca7e67208)
 ![g grammarly 05 08 23](https://github.com/bbe2/professor/assets/59778456/4eeccd40-dc85-4b97-bf6a-b033047f8d39)
