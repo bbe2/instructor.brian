@@ -45,4 +45,6 @@ Instructor of undergraduate and graduate courses in
 06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
 
 ### I'm sorry Dave, you know I can't do that 
-![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)![g x ray](https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
+![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)![g x ray]
+
+(https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
