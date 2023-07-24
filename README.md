@@ -1,7 +1,8 @@
 Instructor of undergraduate and graduate courses in  
-- I'm an experienced instructor of undergraduate and graduate courses in C++, Python, data mining, systems design/analysis, and technical communication.
-- My teaching approach prioritizes interactive learning and creates a supportive environment to unlock students' potential. I believe in equipping them with the skills sustainable employment by fostering grit and resilience pillars.
-- My passion lies in studying the adaptability of melittology and arachnids, focusing on vision, collaboration, and structure. I integrate these concepts across lectures and materials to enhance student neuroplasticity by encouraging to search and notice God's wonders.  
+- I am an experienced instructor of undergraduate and graduate courses, specializing in C++, Python, data mining, systems design/analysis, and technical communication.
+- My teaching approach revolves around interactive learning, fostering a supportive environment that helps unlock students' potential. I believe in equipping them with sustainable employment skills by nurturing grit and resilience.
+- My passion lies in studying the adaptability of melittology and arachnids, with a focus on vision, collaboration, and structure. These concepts are seamlessly integrated into my lectures and materials to enhance students' neuroplasticity.
+- I avidly build windchimes and gongers.
 
 `2023`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
