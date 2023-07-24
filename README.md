@@ -34,5 +34,3 @@ https://github.com/bbe2/professor.brian
 
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
-
-![beetie 2](https://github.com/bbe2/professor/assets/59778456/67a834c1-2d90-4e22-baf1-ec3eac7f73ba)
