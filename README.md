@@ -37,7 +37,9 @@ Instructor of undergraduate and graduate courses in
 [`b.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf) [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
 [`b.hogan.commit.to.diversity.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
 [`b.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11655574/brian.hogan.research.interests.pdf) [`b.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf) 
- [`b.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf) [`b.hogan.portfolio.links.pdf`](https://github.com/bbe2/professor/files/11659836/brian.hogan.portfolio.links.pdf)  
+ [`b.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
+ 
+[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/professor.full.brain/files/12363691/brian.hogan.portfolio.links.pdf)  
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
 ![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)  
