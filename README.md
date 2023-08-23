@@ -1,11 +1,4 @@
-Instructor of undergraduate and graduate courses in  
-- I'm an experienced instructor of undergraduate and graduate courses in C++, Python, data mining, systems design/analysis, and technical communication.
-- My teaching approach prioritizes interactive learning and creates a supportive environment to unlock students' potential. I believe in equipping them with the skills sustainable employment by fostering grit and resilience pillars.
-- My passion lies in studying the adaptability of melittology and arachnids, focusing on vision, collaboration, and structure. I integrate these concepts across lectures and materials to enhance student neuroplasticity by encouraging to search and notice God's wonders.  
-- I am an experienced instructor of undergraduate and graduate courses, specializing in C++, Python, data mining, systems design/analysis, and technical communication.
-- My teaching approach revolves around interactive learning, fostering a supportive environment that helps unlock students' potential. I believe in equipping them with sustainable employment skills by nurturing grit and resilience.
-- My passion lies in studying the adaptability of melittology and arachnids, with a focus on vision, collaboration, and structure. These concepts are seamlessly integrated into my lectures and materials to enhance students' neuroplasticity.
-- I avidly build windchimes and gongers.
+
 
 `2023`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
@@ -15,10 +8,6 @@ Instructor of undergraduate and graduate courses in
 `2022`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
-
-`ICARUS.ai`  
-[`my.profile`](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
-[`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 
 `portfolio.links`
 [`home.portfolio`](https://github.com/bbe2/portfolio) =! [`home.prof.brian`](https://github.com/bbe2/professor.brian)   
@@ -41,16 +30,3 @@ Instructor of undergraduate and graduate courses in
  
 [`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/professor.full.brain/files/12363691/brian.hogan.portfolio.links.pdf)  
 
-![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
-![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)  
-
-
-## what's probability using same number of unique words 2 months in a row?  
-07.03.23![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
-![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)
-06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
-
-### I'm sorry Dave, you know I can't do that 
-![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)![g x ray]
-
-(https://github.com/bbe2/professor/assets/59778456/9b14833f-938c-4dcb-90a2-48a4821dfd59)  
