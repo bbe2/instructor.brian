@@ -1,17 +1,20 @@
 Instructor of undergraduate and graduate courses in  
 - I'm an experienced instructor of undergraduate and graduate courses in C++, Python, data mining, systems design/analysis, and technical communication.
 - My teaching approach prioritizes interactive learning and creates a supportive environment to unlock students' potential. I believe in equipping them with the skills sustainable employment by fostering grit and resilience pillars.
-- My passion lies in studying the adaptability of melittology and arachnids, focusing on vision, collaboration, and structure. I integrate these concepts across lectures and materials to enhance student neuroplasticity by encouraging to search and notice God's wonders.  
-- I am an experienced instructor of undergraduate and graduate courses, specializing in C++, Python, data mining, systems design/analysis, and technical communication.
-- My teaching approach revolves around interactive learning, fostering a supportive environment that helps unlock students' potential. I believe in equipping them with sustainable employment skills by nurturing grit and resilience.
-- My passion lies in studying the adaptability of melittology and arachnids, with a focus on vision, collaboration, and structure. These concepts are seamlessly integrated into my lectures and materials to enhance students' neuroplasticity.
-- I avidly build windchimes and gongers.
+- I study the adaptability of melittology and arachnids, focusing on vision, collaboration, and structure adaptions and use parallellism to draw inference to systems thinking and computer processing.  
 
 `2023`  
-[`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
+Clark University 
+- `MSCS.3050.software.engineering <fall.2023>` 
+- `MSCS.3070.survey.of.systems.and.programming.languages <fall.2023>`
+
+SNHU  
+- `it.304.system.design.analysis <fall.2023>`  
+
 [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) via noodle for www.utk.edu  
 [`ct.144.Intermediate.C++, Summer I @Franklin Technical Institute`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
 [`it.226.tech.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
+
 `2022`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
