@@ -12,11 +12,10 @@ this message posted 08.22.23 @ 9:28:17pm
 [`it.226.tech.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
 `2022`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
-![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
+
 
 `portfolio.links`
 [`home.portfolio`](https://github.com/bbe2/portfolio) =! [`home.professor.full.brain`](https://github.com/bbe2/professor.brian)   
-[`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`]
 
 `fact.sheets`   
 =>[`b.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)<=   
