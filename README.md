@@ -15,7 +15,7 @@ this message posted 08.22.23 @ 9:28:17pm
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
 
 `portfolio.links`
-[`home.portfolio`](https://github.com/bbe2/portfolio) =! [`home.prof.brian`](https://github.com/bbe2/professor.brian)   
+[`home.portfolio`](https://github.com/bbe2/portfolio) =! [`home.professor.full.brain`](https://github.com/bbe2/professor.brian)   
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`]
 
 `fact.sheets`   
