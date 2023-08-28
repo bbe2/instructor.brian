@@ -5,7 +5,7 @@ Instructor of undergraduate and graduate courses in
 
 `2023`  
 Clark University 
-- `MSCS.3050.software.engineering <fall.2023>` 
+- [`MSCS.3050.software.engineering <fall.2023>`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)
 - `MSCS.3070.survey.of.systems.and.programming.languages <fall.2023>`
 
 SNHU  
