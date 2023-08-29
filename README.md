@@ -42,7 +42,8 @@ SNHU
 [`b.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11655574/brian.hogan.research.interests.pdf) [`b.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf) 
  [`b.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
  
-[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/professor.full.brain/files/12363691/brian.hogan.portfolio.links.pdf)  
+([`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/instructor.brian/files/12466386/brian.hogan.portfolio.links.pdf)
+
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
 ![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)  
