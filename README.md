@@ -9,7 +9,7 @@ Clark University
 - [`MSCS.3070.survey.of.systems.and.programming.languages`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)
 
 SNHU  
-- `it.304.system.design.analysis <fall.2023>`  
+- [`it.304.system.design.analysis <fall.2023>`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)
 
 [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) via noodle for www.utk.edu  
 [`ct.144.Intermediate.C++, Summer I @Franklin Technical Institute`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
