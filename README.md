@@ -5,5 +5,10 @@ rock the grok ~instructor.brian
 
 [`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/instructor.brian/files/12466386/brian.hogan.portfolio.links.pdf)  
 
-
 ## Week.1  
+- `python.essentials.reference =>` [zion.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
+- `textbook =>` https://snhu-my.sharepoint.com/:b:/g/personal/b_hogan_snhu_edu/ETDB9WfsQGVJpGAeU1lbFJABaT_OTAImEnKlCSRn5uOfaA?e=mBCKKl  
+
+
+ 
+
