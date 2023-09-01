@@ -22,7 +22,7 @@ Clark University & Southern New Hampshire University
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 
 `portfolio.links`
-[`home.portfolio`](https://github.com/bbe2/portfolio) =! [`home.prof.brian`](https://github.com/bbe2/professor.brian)   
+[`home.portfolio`](https://github.com/bbe2/portfolio.brian) =! [`home.prof.brian`](https://github.com/bbe2/instructor.brian)   
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
 [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
