@@ -26,7 +26,7 @@ Clark University & Southern New Hampshire University
 `instructor.home.page #=>` [`home.prof.brian`](https://github.com/bbe2/instructor.brian)   
 
 `direct.page.links #=>` 
-[`university.courses`](https://github.com/bbe2/professor) [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)   
+[`university.courses`](https://github.com/bbe2/professor)
 [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
