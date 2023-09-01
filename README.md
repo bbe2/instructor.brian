@@ -4,11 +4,9 @@ Instructor of undergraduate and graduate courses in
 - I study the adaptability of melittology and arachnids, focusing on vision, collaboration, and structure adaptions and use parallellism to draw inference to systems thinking and computer processing.  
 
 `2023`  
-Clark University 
+Clark University & Southern New Hampshire University
 - [`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)
 - [`MSCS.3070.survey.of.systems.and.programming.languages`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)
-
-SNHU  
 - [`it.304.system.design.analysis <fall.2023>`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)
 
 [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) via noodle for www.utk.edu  
