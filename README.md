@@ -21,14 +21,16 @@ Clark University & Southern New Hampshire University
 [`my.profile`](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 
-`portfolio.links`
-[`home.portfolio`](https://github.com/bbe2/portfolio.brian) =! [`home.prof.brian`](https://github.com/bbe2/instructor.brian)   
-[`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
+`portfolio.links #=>`
+[`home.portfolio`](https://github.com/bbe2/portfolio.brian) [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio) [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+`instructor.home.page #=>` [`home.prof.brian`](https://github.com/bbe2/instructor.brian)   
+
+`direct.page.links #=>` 
+[`university.courses`](https://github.com/bbe2/professor) [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)   
+[`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
-[`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
-[`multimedia.styleguide`](https://github.com/bbe2/portfolio/tree/multimedia_styleguide)  
-[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio) [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
