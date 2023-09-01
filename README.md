@@ -7,7 +7,7 @@ A) University courses
 B) ICARUS-AI E-Learning  
 • e-learnign.platform_____________https://icarus-ai.enki.tech/teacher-profile/brian-hogan/  
 • >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
-b.hogan@snhu.edu  
+
 # data.transformations   
 
  
