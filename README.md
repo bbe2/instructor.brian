@@ -4,6 +4,9 @@
 [zion.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
 audio links to SNHU sharedrive  
 
+Dr. Ng
+- opportunities in AI 2023 => https://www.youtube.com/watch?v=5p248yoa3oE
+- 
 
 ## Week.1  
 [it.304.re-engineering.paradigms.pdf](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
