@@ -2,16 +2,16 @@
 
 [syllabus.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)  
 [zion.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
-audio links to SNHU sharedrive  
 
-Learning Moments valuable to your future  
-[Dr. Ng - DeepLearning.AI opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE)  
+**Learning Moments valuable to your future**  
+[`Dr. Ng - DeepLearning.AI opportunities in AI 2023`](https://www.youtube.com/watch?v=5p248yoa3oE)  
 
 
 ## Week.1  
 [it.304.re-engineering.paradigms.pdf](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
 
-Audio  
+
+Audio SNHU sharedrive link  
 08.30.23.day.1  
 __=>  https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ESTlitFr8wZMriRoUIg5LUQBGmolCt4KVBuGVxoHu8PK9w?e=yjQa2E  
 09.01.23.day.2  
@@ -19,6 +19,8 @@ __=>  https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EdLrrSoUKzh
 
 
 ## Week.2  
+"codebook'
+
 
 Audio  
 09.06.23.day.1  
