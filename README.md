@@ -1,13 +1,17 @@
 
 ![festooning](https://github.com/bbe2/instructor.brian/assets/59778456/52834799-fe5e-49ab-80fc-24191da1224d)
 
-# Week.1  
-- [`syllabus.it.304.fall.2023.pdf`](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)  
-- [`it.304.re-engineering.paradigms.pdf`](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
+- [syllabus.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)
+- all audio links to SNHU sharedrive
 
+
+# Week.1  
+- [it.304.re-engineering.paradigms.pdf](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
+
+Audio
 - 08.30.23.day.1 ->
 - 09..23.day.1 ->
-- 
+  
 ## Week.2
 - [zion.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf) 
 
