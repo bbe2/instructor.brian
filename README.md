@@ -13,9 +13,9 @@
 
 Audio SNHU sharedrive link  
 08.30.23.day.1  
-__=>  https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ESTlitFr8wZMriRoUIg5LUQBGmolCt4KVBuGVxoHu8PK9w?e=yjQa2E  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ESTlitFr8wZMriRoUIg5LUQBGmolCt4KVBuGVxoHu8PK9w?e=yjQa2E  
 09.01.23.day.2  
-__=>  https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EdLrrSoUKzhAkhN2qORwtHYBGoJWKza_TMIV942_M0l6VQ?e=uLdedq  
+https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EdLrrSoUKzhAkhN2qORwtHYBGoJWKza_TMIV942_M0l6VQ?e=uLdedq  
 
 
 ## Week.2  
