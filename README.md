@@ -27,13 +27,16 @@ Clark University & Southern New Hampshire University
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
-
-## `direct.page.links`  
 [`university.courses`](https://github.com/bbe2/professor)  
 [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
 [`code`](https://github.com/bbe2/portfolio/tree/code)  
 [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
+
+
+## `fact.sheets`  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12493888/a.brian.hogan.cv.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12529454/brian.hogan.portfolio.links.pdf)  
 
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) 
@@ -62,8 +65,7 @@ Clark University & Southern New Hampshire University
 
 ## what's probability using same number of unique words 2 months in a row?  
 07.03.23![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
-![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)
-06.05.23![g grammarly 06 05 23](https://github.com/bbe2/professor/assets/59778456/316810b7-95a8-41fd-9ad1-ba041b1aabd3)
+![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
 
 ### I'm sorry Dave, you know I can't do that 
 ![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
