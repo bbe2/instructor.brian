@@ -29,10 +29,6 @@ Clark University & Southern New Hampshire University
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
 
-## ICARUS.ai  
-[`my.profile`](https://icarus-ai.enki.tech/teacher-profile/brian-hogan)  
-[`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
-
 ## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
