@@ -63,6 +63,3 @@ Clark University & Southern New Hampshire University
 ## Probability two months in a row same percentage of unique words?
 07.03.23=> ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
 06.01.23=> ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
-
-### I'm sorry Dave, you know I can't do that 
-![hal9000](https://user-images.githubusercontent.com/59778456/218209079-232d8f04-bb9a-4843-a6a1-d8cdf25a19fd.png)
