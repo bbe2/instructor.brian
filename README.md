@@ -43,6 +43,7 @@ Clark University & Southern New Hampshire University
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12493888/a.brian.hogan.cv.pdf)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12466386/brian.hogan.portfolio.links.pdf)  
 
+
 [`b.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
 [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
 [`b.hogan.commit.to.diversity.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
