@@ -47,9 +47,4 @@
 
 
 
-
-![g JPL lab](https://github.com/bbe2/instructor.brian/assets/59778456/0a999b9c-e3c3-40f7-9b09-0d91b4df0537)  
-
-![g small android dream](https://github.com/bbe2/instructor.brian/assets/59778456/966e1306-7a87-4a83-b66b-07b7728c3fde)
-
-
+![blackhole](https://github.com/bbe2/instructor.brian/assets/59778456/5b0376a6-b2c3-4147-8501-594fc4de5f33)
