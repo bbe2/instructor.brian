@@ -34,7 +34,7 @@ Clark University & Southern New Hampshire University
 [`>.7.Pillars.Python`](https://github.com/bbe2/professor/tree/7.pillars.py)  
 
 ## portfolio  
-[`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
+[`home.portfolio`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering.simulation`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
