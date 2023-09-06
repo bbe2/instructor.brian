@@ -1,15 +1,15 @@
-Currently, I engage in foundational work in machine and assembly language, transitioning from LC-3 to C++ (based on the Patt/Patel approach). My focus spans theoretical system design, its practical re-engineering, and STEM technical communication. In Spring 2023, I had the honor of authoring a data mining course for www.utk.edu.
+Currently, I engage in foundational work in machine and assembly language, transitioning from LC-3 to C++ (based on the Patt/Patel approach). My focus spans theoretical system design, its practical re-engineering, and STEM technical communication. In Spring 2023, I had the honor of authoring a data mining course for www.utk.edu.  
 
-My pedagogical approach prioritizes active learning, utilizing bespoke interactive frameworks through Google Sheets, Github, and Colab. Like bee festooning or forming chains to repair and branch, students similarly festoon in collaborative JAM sessions, connecting ideas and aiming for tangible career readiness from day one.
+My pedagogical approach prioritizes active learning, utilizing bespoke interactive frameworks through Google Sheets, Github, and Colab. Like bee festooning or forming chains to repair and branch, students similarly festoon in collaborative JAM sessions, connecting ideas and aiming for tangible career readiness from day one.  
 
-Central to my teaching philosophy is the new.REAL paradigm, an embodiment of the Lacanian real. Education is a performative act, lived and crafted, not just passively consumed. Drawing from Arthur Kroker's concept of 'body drift' — the blend of humanity with technology — and Foucault's active knowledge structures, this paradigm challenges traditional passive learning. Students don't merely absorb; they actively shape, create, and immerse themselves, echoing Baudrillard's simulacrum, where education isn't just symbolic but a tangible, actionable commodity. This paradigm aims to showcase their immediate skills and value. 
+Central to my teaching philosophy is the new.REAL paradigm, an embodiment of the Lacanian real. Education is a performative act, lived and crafted, not just passively consumed. Drawing from Arthur Kroker's concept of 'body drift' — the blend of humanity with technology — and Foucault's active knowledge structures, this paradigm challenges traditional passive learning. Students don't merely absorb; they actively shape, create, and immerse themselves, echoing Baudrillard's simulacrum, where education isn't just symbolic but a tangible, actionable commodity. This paradigm aims to showcase their immediate skills and value.   
 
-To augment classroom learning, I use GPT APIs to,
-A.	Summarize the audio lecture and lecture notes.
-B.	Identify and synthesize disparities between audio lectures and lecture notes.
-C.	Email outcomes and then aggregate all media into a central repository.
-D.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers. 
-E.	#=> This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.
+To augment classroom learning, I use GPT APIs to,  
+A.	Summarize the audio lecture and lecture notes.  
+B.	Identify and synthesize disparities between audio lectures and lecture notes.  
+C.	Email outcomes and then aggregate all media into a central repository.  
+D.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers.   
+E.	#=> This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.  
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12493888/a.brian.hogan.cv.pdf)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)  
