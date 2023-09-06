@@ -8,9 +8,8 @@ Patt and Patel's Introduction to Computing Systems provides a comprehensive over
 
 This course's skills and insights are directly relevant to today's computational landscape to excel in coding, system design, and computational analysis. Whether streamlining data processes for research, crafting efficient algorithms for businesses, or assessing the suitability of new programming languages, this curriculum provides a tested foundation based on 20 years of academic delivery. It aims to foster an adaptive mindset that helps you discern deeper issues when surveying systems. In short, this intellectual journey is a strategic investment providing a baseline toward a sustainable career in computing.  
 
-~instructor.brian  
-[instructor.home.page=](https://github.com/bbe2/instructor.brian)  
-
+Thank you for your time!  ~instructor.brian  
+[instructor.home.page](https://github.com/bbe2/instructor.brian)  
 
 
 ![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)  
