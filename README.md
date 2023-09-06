@@ -36,7 +36,7 @@ Clark University & Southern New Hampshire University
 ## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
-[`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`portfolio.industrial.reengineering.simulation`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
 [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
 [`code`](https://github.com/bbe2/portfolio/tree/code)  
@@ -48,6 +48,7 @@ Clark University & Southern New Hampshire University
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
+## fact.sheet    
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
 [b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
 [b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
@@ -60,6 +61,8 @@ Clark University & Southern New Hampshire University
 ![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)  
 
 
-## Probability two months in a row same percentage of unique words?
+## Probability back to back months same % unique words?  
 07.03.23=> ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
 06.01.23=> ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
+[=> Dr. Stanton great at this](https://scholar.google.com/citations?hl=en&user=0UPnd6oAAAAJ)  
+[reasoning with data - bayesian using R](https://www.amazon.com/Reasoning-Data-Introduction-Traditional-Statistics/dp/1462530265/ref=sr_1_1?crid=30HT063V488UM&keywords=stanton+statistics&qid=1694036862&sprefix=stanton+statistic%2Caps%2C125&sr=8-1)
