@@ -41,7 +41,6 @@ Clark University & Southern New Hampshire University
 
 ## `fact.sheets`   
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12493888/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12466386/brian.hogan.portfolio.links.pdf)  
 
 
 [`b.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
