@@ -45,6 +45,7 @@ Clark University & Southern New Hampshire University
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 ## fact.sheet    
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12552187/brian.hogan.portfolio.links.pdf)  
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
 [b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
 [b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
