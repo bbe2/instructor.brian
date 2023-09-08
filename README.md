@@ -9,7 +9,7 @@ A.	Summarize the audio lecture and lecture notes.
 B.	Identify and synthesize disparities between audio lectures and lecture notes.  
 C.	Email outcomes and then aggregate all media into a central repository.  
 D.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers.   
-E.	#=> This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.  
+# => This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.  
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12530562/a.brian.hogan.cv.pdf)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)  
