@@ -12,4 +12,8 @@ Thank you for your time!  ~instructor.brian
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 
 
-![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)  
+- ![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)   
+- [software.3.of.3__Patt_IntrotoComputing_3e_Sample Assignments.pdf](https://github.com/bbe2/instructor.brian/files/12571012/software.3.of.3__Patt_IntrotoComputing_3e_Sample.Assignments.pdf)  
+- [software.2.of.3__Patt_IntrotoComputing_3e_Guide to Using LC3Tools.pdf](https://github.com/bbe2/instructor.brian/files/12571011/software.2.of.3__Patt_IntrotoComputing_3e_Guide.to.Using.LC3Tools.pdf)  
+- [software.1.of.3__Patt_IntrotoComputing_3e_Downloading and Installing.pdf](https://github.com/bbe2/instructor.brian/files/12571010/software.1.of.3__Patt_IntrotoComputing_3e_Downloading.and.Installing.pdf)  
+
