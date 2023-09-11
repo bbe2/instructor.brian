@@ -25,4 +25,10 @@ Thank you for your time!  ~instructor.brian
 
 ![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)   
 
+## Week.1  
+[book.text.ch.01.Patt.Patel.IntrotoComputing_3e_Ch001.pdf](https://github.com/bbe2/instructor.brian/files/12571148/book.text.ch.01.Patt.Patel.IntrotoComputing_3e_Ch001.pdf)  
+[book.text.ch.02.Patt.Patel.IntrotoComputing_3e_Ch002.pdf](https://github.com/bbe2/instructor.brian/files/12571149/book.text.ch.02.Patt.Patel.IntrotoComputing_3e_Ch002.pdf)   
+
+## Week.2  
+[book.text.ch.03.Patt.Patel.IntrotoComputing_3e_Ch003.pdf](https://github.com/bbe2/instructor.brian/files/12571151/book.text.ch.03.Patt.Patel.IntrotoComputing_3e_Ch003.pdf)  
 
