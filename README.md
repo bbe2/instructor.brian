@@ -3,6 +3,10 @@
 - [software.2.of.3__Patt_IntrotoComputing_3e_Guide to Using LC3Tools.pdf](https://github.com/bbe2/instructor.brian/files/12571011/software.2.of.3__Patt_IntrotoComputing_3e_Guide.to.Using.LC3Tools.pdf)  
 - [software.3.of.3__Patt_IntrotoComputing_3e_Sample Assignments.pdf](https://github.com/bbe2/instructor.brian/files/12571012/software.3.of.3__Patt_IntrotoComputing_3e_Sample.Assignments.pdf)  
 
+Textbook -> McGrawHill quality course resources  
+- [Introduction to Computing Systems Information Center: (mheducation.com)](https://highered.mheducation.com/sites/1260150534/information_center_view0/)  
+- https://highered.mheducation.com/sites/1260150534/information_center_view0/  
+
 # Welcome to MSCS.3070 Survey of Systems and Programming Languages  
 
 Welcome, welcome! In our digitized world, a deep understanding of computing systems offers a distinct advantage in numerous fields. By enrolling in this course, you're developing hardware and software computer skills highly valued by peers, researchers, academics, and businesses. 
