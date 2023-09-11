@@ -1,4 +1,5 @@
-[syllabus.MCSC.3070.instructor.hogan.08.28.23.pdf](https://github.com/bbe2/instructor.brian/files/12458189/syllabus.MCSC.3070.instructor.hogan.08.28.23.pdf)  
+[syllabus.MCSC.3070.instructor.hogan.08.28.23.pdf](https://github.com/bbe2/instructor.brian/files/12571278/syllabus.MCSC.3070.instructor.hogan.08.28.23.pdf)  
+
 - [software.1.of.3__Patt_IntrotoComputing_3e_Downloading and Installing.pdf](https://github.com/bbe2/instructor.brian/files/12571010/software.1.of.3__Patt_IntrotoComputing_3e_Downloading.and.Installing.pdf)
 - [software.2.of.3__Patt_IntrotoComputing_3e_Guide to Using LC3Tools.pdf](https://github.com/bbe2/instructor.brian/files/12571011/software.2.of.3__Patt_IntrotoComputing_3e_Guide.to.Using.LC3Tools.pdf)  
 - [software.3.of.3__Patt_IntrotoComputing_3e_Sample Assignments.pdf](https://github.com/bbe2/instructor.brian/files/12571012/software.3.of.3__Patt_IntrotoComputing_3e_Sample.Assignments.pdf)  
