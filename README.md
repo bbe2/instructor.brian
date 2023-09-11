@@ -13,4 +13,12 @@ Course knowledge and skills are imperative for the modern software ecosystem, an
 Thank you for your time!  ~instructor.brian  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 
-![g clark 3050 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/8b55b9b6-fcb6-41b5-b372-4919d588a931)
+![g clark 3050 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/8b55b9b6-fcb6-41b5-b372-4919d588a931)  
+## Week.1  
+[book.text.ch.01.pressman.pdf](https://github.com/bbe2/instructor.brian/files/12579799/book.text.ch.01.pressman.pdf)  
+
+
+## Week.2  
+[book.text.ch.02.pressman.pdf](https://github.com/bbe2/instructor.brian/files/12579802/book.text.ch.02.pressman.pdf)  
+
+#==> rest moved to internal class onedrive
