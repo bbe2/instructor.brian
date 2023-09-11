@@ -1,4 +1,4 @@
-[syllabus.MCSC.3070.instructor.hogan.08.28.23.pdf](https://github.com/bbe2/instructor.brian/files/12571278/syllabus.MCSC.3070.instructor.hogan.08.28.23.pdf)  
+[syllabus.MCSC.3070.instructor.hogan.09.06.23.pdf](https://github.com/bbe2/instructor.brian/files/12571395/syllabus.MCSC.3070.instructor.hogan.09.06.23.pdf)  
 
 - [software.1.of.3__Patt_IntrotoComputing_3e_Downloading and Installing.pdf](https://github.com/bbe2/instructor.brian/files/12571010/software.1.of.3__Patt_IntrotoComputing_3e_Downloading.and.Installing.pdf)
 - [software.2.of.3__Patt_IntrotoComputing_3e_Guide to Using LC3Tools.pdf](https://github.com/bbe2/instructor.brian/files/12571011/software.2.of.3__Patt_IntrotoComputing_3e_Guide.to.Using.LC3Tools.pdf)  
@@ -24,7 +24,7 @@ This course's skills and insights are directly relevant to today's computational
 Thank you for your time!  ~instructor.brian  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 
-![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)   
+
 
 ## Week.1  
 [book.text.ch.01.Patt.Patel.IntrotoComputing_3e_Ch001.pdf](https://github.com/bbe2/instructor.brian/files/12571148/book.text.ch.01.Patt.Patel.IntrotoComputing_3e_Ch001.pdf)  
