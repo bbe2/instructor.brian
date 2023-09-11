@@ -10,5 +10,7 @@ Dr. Roger S. Pressman's seminal text, "Software Engineering: A Practitioner's Ap
 
 Course knowledge and skills are imperative for the modern software ecosystem, and this work prepares students for advanced system design, project management, and quality assurance roles. With a curriculum informed by industry best practices and rigorous academic insights, students are educated and instilled with a problem-solving acumen crucial for future endeavors in software engineering. In summary, this course represents a significant academic investment to help ensure your competence as a leader in the software engineering domain.  
 
+Thank you for your time!  ~instructor.brian  
+[instructor.home.page](https://github.com/bbe2/instructor.brian)  
 
 ![g clark 3050 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/8b55b9b6-fcb6-41b5-b372-4919d588a931)
