@@ -1,6 +1,6 @@
 MSCS3050: Software Engineering  
 MSCS3050-05-F23, Course.CRN.22761  
-[syllabus.MCSC.3050.instructor.hogan.08.28.23.pdf](https://github.com/bbe2/instructor.brian/files/12571322/syllabus.MCSC.3050.instructor.hogan.08.28.23.pdf)  
+[syllabus.MCSC.3050.instructor.hogan.09.06.23.pdf](https://github.com/bbe2/instructor.brian/files/12571387/syllabus.MCSC.3050.instructor.hogan.09.06.23.pdf)  
 
 # Welcome!  
 
