@@ -12,7 +12,7 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 # => This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.  
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12530562/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12580643/brian.hogan.portfolio.links.pdf)  
 
 ## Fall 2023  
 Clark University & Southern New Hampshire University  
