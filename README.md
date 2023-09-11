@@ -3,9 +3,14 @@
 - [software.2.of.3__Patt_IntrotoComputing_3e_Guide to Using LC3Tools.pdf](https://github.com/bbe2/instructor.brian/files/12571011/software.2.of.3__Patt_IntrotoComputing_3e_Guide.to.Using.LC3Tools.pdf)  
 - [software.3.of.3__Patt_IntrotoComputing_3e_Sample Assignments.pdf](https://github.com/bbe2/instructor.brian/files/12571012/software.3.of.3__Patt_IntrotoComputing_3e_Sample.Assignments.pdf)  
 
-Textbook -> McGrawHill quality course resources  
-- [Introduction to Computing Systems Information Center: (mheducation.com)](https://highered.mheducation.com/sites/1260150534/information_center_view0/)  
-- https://highered.mheducation.com/sites/1260150534/information_center_view0/  
+### Textbook
+Required Textbook & McGrawHill quality course resources  
+Patt, Y. N., & Patel, S. J. (2020). Introduction to Computing Systems: From Bits and Gates to C and Beyond. (3 ed.) McGraw-Hill Higher Education.
+[ISBN10:1260150534](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.htm)
+
+
+[Introduction to Computing Systems Information Center: (mheducation.com)](https://highered.mheducation.com/sites/1260150534/information_center_view0/)  
+=> full address -> https://highered.mheducation.com/sites/1260150534/information_center_view0/  
 
 # Welcome to MSCS.3070 Survey of Systems and Programming Languages  
 
@@ -18,7 +23,6 @@ This course's skills and insights are directly relevant to today's computational
 Thank you for your time!  ~instructor.brian  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 
-
-- ![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)   
+![g clark 3070 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/df3b4b9c-c1f5-4b73-ac52-51bab4bd50b7)   
 
 
