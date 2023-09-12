@@ -18,14 +18,14 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 
 ## Fall 2023  
 Clark University & Southern New Hampshire University  
-[`MSCS.3050.software.engineering - clarkU`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering)  
-[`MSCS.3070.survey.of.systems.and.programming.languages - clarkU`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)  
-[`it.304.system.design.analysis - snhu`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)  
+[`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering)->clarku  
+[`MSCS.3070.survey.of.systems.and.programming.languages`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarku  
+[`it.304.system.design.analysis`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu    
 
 ## Spring 2023  
-[`cosc.526.introduction.to.data.mining - contract for nooodle for utk.edu`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)  
-[`ct.144.Intermediate.C++, Summer I @Franklin Technical Institute`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
-[`it.226.technical.communication.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
+[`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->via noodle for utk.edu  
+[`ct.144.Intermediate.C++.Summer.I`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->ben.franklin.institute  
+[`it.226.technical.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)->snhu  
 
 ## 2022  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
