@@ -17,7 +17,6 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12580653/brian.hogan.portfolio.links.pdf)  
 
 ## Fall 2023  
-Clark University & Southern New Hampshire University  
 [`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering)->clarku  
 [`MSCS.3070.survey.of.systems.and.programming.languages`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarku  
 [`it.304.system.design.analysis`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu    
