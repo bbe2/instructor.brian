@@ -1,3 +1,5 @@
+[instructor.home.page](https://github.com/bbe2/instructor.brian)  
+
 Currently, I engage in foundational work in machine and assembly language, transitioning from LC-3 to C++ (based on the Patt/Patel approach). My focus spans theoretical system design, its practical re-engineering, and STEM technical communication. In Spring 2023, I had the honor of authoring a data mining course for www.utk.edu.  
 
 My pedagogical approach prioritizes active learning, utilizing bespoke interactive frameworks through Google Sheets, Github, and Colab. Like bee festooning or forming chains to repair and branch, students similarly festoon in collaborative JAM sessions, connecting ideas and aiming for tangible career readiness from day one.  
