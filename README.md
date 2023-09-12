@@ -3,8 +3,8 @@
 ### Introduction to Data Mining, Summer.I ,2023  
 University of Tenessee at Knoxville  
 client: Noodle, New York, NY, 03/23 – 06/23  
-`by prof.brian, b.hogan@snhu.edu 🧑‍🚀 `  
-https://github.com/bbe2/professor.brian    
+`by instructor.brian, bhogan@clarku.edu 🧑‍🚀 `  
+  
 
 `goal`  
 • re-engineer and draft 10-module data mining course with   
@@ -42,6 +42,3 @@ https://github.com/bbe2/professor.brian
 ![g kmeans](https://github.com/bbe2/professor/assets/59778456/ecfb79ae-be2d-415b-9f6d-df4529cd3a23)
 ![g pca](https://github.com/bbe2/professor/assets/59778456/76d5a632-2aec-4420-a0e0-1029d682e668)
 ![galaxy 02 17 23](https://github.com/bbe2/professor/assets/59778456/84f7cd04-7bbc-4d2c-8323-3c656ac35e89)
-
-
-![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
