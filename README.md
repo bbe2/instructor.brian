@@ -6,14 +6,9 @@ client: Noodle, New York, NY, 03/23 – 06/23
 `by instructor.brian, bhogan@clarku.edu 🧑‍🚀 `  
   
 
-`goal`  
-• re-engineer and draft 10-module data mining course with   
-• • advanced practitioner skilling, including theory, clustering,   
-• • •  classification, recommender systems, and a complete PySpark outfitting.   
 
-[syllabus.intro.data.mine.cosc.five.two.six.pdf](https://github.com/bbe2/professor/files/11680899/syllabus.intro.data.mine.cosc.five.two.six.pdf)
-[reference.library.COSC.526.pdf](https://github.com/bbe2/professor/files/11587014/reference.library.COSC.526.pdf)
 
+![g topic by module](https://github.com/bbe2/instructor.brian/assets/59778456/f44893de-3a7c-4f26-8afa-d3605dd91c8f)
 
 
 `docs from the kindness of Andrew Ng`   
@@ -21,17 +16,17 @@ client: Noodle, New York, NY, 03/23 – 06/23
 [b.Andrew.Ng.machine.learning.yearning.pdf](https://github.com/bbe2/professor/files/11587063/b.Andrew.Ng.machine.learning.yearning.pdf)  
 [b.Ng.howTo.build.career.AI.pdf](https://github.com/bbe2/professor/files/11587064/b.Ng.howTo.build.career.AI.pdf)  
 
+
 `2023`  
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
 [`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) via noodle for www.utk.edu  
 [`ct.144.Intermediate.C++, Summer I @Franklin Technical Institute`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)   
 [`it.226.tech.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)  
-`2022`  
-[`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
-![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
+
 
 
 ![g plamers penguins](https://github.com/bbe2/professor/assets/59778456/9916fa79-5f60-41fa-ad3e-e04fd0435930)
+
 
 ![g iris](https://github.com/bbe2/professor/assets/59778456/97d8e1f8-bb70-4b54-bfd1-c8b879b9d6bd)
 ![g iris data](https://github.com/bbe2/professor/assets/59778456/0b3e8c74-19b5-4767-9ffb-c8e098733e0e)
