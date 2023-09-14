@@ -21,7 +21,7 @@ by [instructor.brian.email](bhogan@clarku.edu) 🧑‍🚀
 ![g landing page](https://github.com/cosc-526/cosc.526.home.page/assets/133147275/b7d8fb79-5a5e-4e23-a0ad-a3e4b4af8ad9)  
 ![g landing page](https://github.com/cosc-526/cosc.526.home.page/assets/133147275/cce139e0-0f57-4343-b6a5-31d69aed1002)  
 
-## Algorithms  
+## Algorithmic 
 ![g plamers penguins](https://github.com/bbe2/professor/assets/59778456/9916fa79-5f60-41fa-ad3e-e04fd0435930)  
 ![g iris](https://github.com/bbe2/professor/assets/59778456/97d8e1f8-bb70-4b54-bfd1-c8b879b9d6bd)  
 ![g iris data](https://github.com/bbe2/professor/assets/59778456/0b3e8c74-19b5-4767-9ffb-c8e098733e0e)  
