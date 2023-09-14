@@ -1,18 +1,16 @@
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-### Introduction to Data Mining, Summer.I ,2023  
-University of Tenessee at Knoxville  
-client: Noodle, New York, NY, 03/23 – 06/23  
-`by instructor.brian, bhogan@clarku.edu 🧑‍🚀 `  
+## Introduction to Data Mining, Summer.I ,2023  
+client, University of Tenessee at Knoxville  
+manager, Noodle, New York, NY, 03/23 – 08/23  
+by [instructor.brian.email](bhogan@clarku.edu) 🧑‍🚀    
   
-
-
 ## Introduction to Data.M.i.n.i.n.g.  
-- [`syllabus.intro.data.mine.cosc.five.two.six.pdf`](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)
+[syllabus.intro.data.mine.cosc.five.two.six.pdf](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)  
 
 ### Tools 
-- [`reference.library.python.cheatsheet.pdf`](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)  
-- [`reference.library.Python.functions.pdf`](https://github.com/cosc-526/home.page/files/11682628/reference.library.py.functions.pdf)  
+- [reference.library.python.cheatsheet.pdf](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)  
+- [reference.library.Python.functions.pdf](https://github.com/cosc-526/home.page/files/11682628/reference.library.py.functions.pdf)  
 - [how.To.algorithm.Assess.fit.super.unsuper.pdf](https://github.com/cosc-526/home.page/files/11960910/how.To.algorithm.Assess.fit.super.unsuper.pdf)   
 - [how.To.algorithm.preprocess.by.type.pdf](https://github.com/cosc-526/home.page/files/11960919/how.To.algorithm.preprocess.by.type.pdf)  
 - [how.To.preprocess.by.algorithm.super.Unsuper.pdf](https://github.com/cosc-526/home.page/files/11960968/how.To.preprocess.by.algorithm.super.Unsuper.pdf)  
