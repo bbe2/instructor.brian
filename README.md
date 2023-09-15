@@ -8,7 +8,7 @@
 [`multimedia.styleguide`](https://github.com/bbe2/portfolio/tree/multimedia_styleguide)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
-[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )  
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 ![dilbert 1](https://user-images.githubusercontent.com/59778456/218276652-9cf71400-eac6-4ddb-b8e1-239b0eff610e.JPG)  
