@@ -17,18 +17,18 @@ Thank you for visiting and let me know if can help. best instructor.brian, bhoga
 
 
 ```
-I equip students with immediate, tangible
-skills and preparedness to exceed employer
+I equip students with immediate, tangible  
+skills and preparedness to exceed employer  
 expectations on day 1. 
 
-Currently, I instruct foundational compute from
-machine and assembly with LC-3 via patt/patel to C++.
-My expertise spans theoretical system design,
-practical re-engineering, data transformation,
-essential programming, and STEM communication.
-I'm grateful for my quality master's in data
-science that upskilled my ability to author
-graduate courses like COSC-526 data mining with Spark.
+Currently, I instruct foundational compute from  
+machine and assembly with LC-3 via patt/patel to C++.  
+My expertise spans theoretical system design,  
+practical re-engineering, data transformation,  
+essential programming, and STEM communication.  
+I'm grateful for my quality master's in data  
+science that upskilled my ability to author  
+graduate courses like COSC-526 data mining with Spark.  
 
 An active learning pedagogy complements my
 instruction by leveraging Colab, Google Sheets,
