@@ -14,6 +14,7 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 #=> My work centers on furthering accessibility and recall mnemonics. 
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12614491/a.brian.hogan.cv.pdf)
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12614606/brian.hogan.portfolio.links.pdf)
 
 
 ## Fall 2023  
