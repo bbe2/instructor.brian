@@ -13,7 +13,7 @@ C.	Email outcomes and then aggregate all media into a central repository.
 D.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers.   
 #=> My work centers on furthering accessibility and recall mnemonics. 
 
-
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12614647/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12614623/a.brian.hogan.cv.pdf)  
 
 ## Fall 2023  
