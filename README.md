@@ -1,5 +1,7 @@
 ## university.instruction  
-Thank you for visiting and let me know if can help. best instructor.brian, bhogan@clarku.edu  
+Thank you for visiting and let me know if can help. best instructor.brian
+bhogan@clarku.edu   
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf) [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12615161/brian.hogan.portfolio.links.pdf)  
 
 ## Fall 2023  
 [`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering) ->clarku  
@@ -75,8 +77,7 @@ e) Facilitate upskilling and recall mnemonics
 >> Thomas Jefferson to James Madison  
 >>> Jun 20th, 1787
 >>> 
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf)  
+
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
