@@ -1,20 +1,5 @@
-[instructor.home.page](https://github.com/bbe2/instructor.brian)  
-
-As an instructor, I cover foundational computing from machine and assembly with LC-3 via [patt/patel](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html) to C++. My expertise also spans theoretical system design, practical re-engineering, data transformation and programming constructs, and STEM communication, complemented by my data science training and course authorship, like COSC-526 data mining with Spark.
-
-I employ an active learning pedagogy, leveraging tools like Colab, G Sheets, and Github. Taking inspiration from bee festooning, students collaborate in JAMs, linking concepts and tackling challenges, like analyzing a physical book's word count within an hour. My aim? Equip students with immediate, tangible skills for preparedness during **`unREAL`** talent and task replacement.
-
-An embodiment of a Lacanian real, a [Krokeresque](https://books.google.com/books?hl=en&lr=&id=kihLEAAAQBAJ&oi=fnd&pg=PP1&dq=kroker+technology+of+the+new+real&ots=ToOQ2Gin0M&sig=UcVo6hKR9ytEUls5MYfygvG8cVQ#v=onepage&q=kroker%20technology%20of%20the%20new%20real&f=false) **`new.REAL`** is central to my teaching paradigm. Education is a performative act, lived and crafted, not just passively consumed. The paradigm challenges traditional passive learning and draws on Arthur Kroker's concept of body drift, i.e., a blend of humanity with technology and Foucault's active knowledge structures. Students don't absorb but actively shape, create, and immerse themselves where education isn't symbolic but a tangible, actionable commodity echoing Baudrillard's simulacrum. Efforts showcase immediate skills and the use of abstraction to discern situational mechanics. 
-
-To augment classroom learning, I use GPT APIs to,  
-A.	Summarize the audio lecture and lecture notes.  
-B.	Identify and synthesize disparities between audio lectures and lecture notes.  
-C.	Email outcomes and then aggregate all media into a central repository.  
-D.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers.   
-#=> My work centers on furthering accessibility and recall mnemonics. 
-
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12614647/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12614623/a.brian.hogan.cv.pdf)  
+## university.instruction  
+Thank you for visiting and let me know if can help. best instructor.brian, bhogan@clarku.edu  
 
 ## Fall 2023  
 [`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering)->clarku  
@@ -30,10 +15,72 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 [`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022)  
 ![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
 
+
+```
+I equip students with immediate, tangible
+skills and preparedness to exceed employer
+expectations on day 1. 
+
+Currently, I instruct foundational compute from
+machine and assembly with LC-3 via patt/patel to C++.
+My expertise spans theoretical system design,
+practical re-engineering, data transformation,
+essential programming, and STEM communication.
+I'm grateful for my quality master's in data
+science that upskilled my ability to author
+graduate courses like COSC-526 data mining with Spark.
+
+An active learning pedagogy complements my
+instruction by leveraging Colab, Google Sheets,
+and Github. Drawing inspiration from
+bee festooning, students collaborate in weekly
+JAMs, linking root concepts for effective task
+decomposition like being handed a book and
+having an hour to create tables of all chapters
+and words for text and machine learning.
+
+An embodiment of a Lacanian real, a Krokeresque
+new.REAL is central to my teaching paradigm.
+Education is a performative act, lived and crafted,
+not passively consumed. This paradigm challenges
+passive learning and draws on Arthur Kroker's
+concept of body drift, i.e., a blend of humanity
+with technology and Foucault's active knowledge
+structures. Students don't absorb but actively
+shape, create, and immerse themselves. Education
+isn't a symbolic un.REAL but a tangible,
+actionable commodity echoing Baudrillard's simulacra.
+The new.REAL demands deeper requiring use of
+abstraction and ontological formation skilling.
+
+Augment student learning and engagement is furthered
+ using generative pretrained transformers that
+a) Convert lecture audio to text and integrate
+=> into class corpus.
+b) Use GPT tech to synthesize disparities, including
+=> lecture notes and textbooks.
+c) Email disparity index and aggregate media
+=> into a central repository.  
+d) Feed repository into a course specific AI agent,
+=> further supporting student tasks.
+e) Facilitate upskilling and recall mnemonics
+=> while experiencing a new.REAL of our social fabric.
+
+```
+
 ## portfolio  
-[`home.portfolio`](https://github.com/bbe2/portfolio)  
+
+### jeffersonian reengineering essentials   
+> The whole and patch should be commensurate.  
+>> Thomas Jefferson to James Madison  
+>>> Jun 20th, 1787
+>>> 
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf)  
+
+[`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
-[`portfolio.industrial.reengineering.simulation`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
 [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
 [`code`](https://github.com/bbe2/portfolio/tree/code)  
@@ -41,6 +88,7 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )  
+[`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
