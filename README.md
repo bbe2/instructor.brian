@@ -10,7 +10,7 @@
 - [how.To.good.Spark.mechanics.and.databricks.pdf](https://github.com/cosc-526/home.page/files/11960986/how.To.good.Spark.mechanics.and.databricks.pdf)
 
 
-[`M8 Interviewing tools`][cheat.Interview.prep.for.AI.ML.NLP.a.prasad.pdf](https://github.com/cosc-526/home.page/files/12152880/cheat.Interview.prep.for.AI.ML.NLP.a.prasad.pdf)
+[M8 Interviewing tools`][cheat.Interview.prep.for.AI.ML.NLP.a.prasad.pdf](https://github.com/cosc-526/home.page/files/12152880/cheat.Interview.prep.for.AI.ML.NLP.a.prasad.pdf)
 
 
 
