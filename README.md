@@ -1,5 +1,5 @@
 ## Introduction to Data.M.i.n.i.n.g.  
-- [`syllabus.intro.data.mine.cosc.five.two.six.pdf`](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)  
+[`syllabus.intro.data.mine.cosc.five.two.six.pdf`](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)  
 
 Tools  
 - [`reference.library.python.all.objects.loops.iterators.and.more.pdf`](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)  
