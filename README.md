@@ -1,6 +1,6 @@
 ## university.instruction  
 Thank you for visiting and let me know if can help. best instructor.[brian](bhogan@clarku.edu)   
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12691179/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12691262/brian.hogan.portfolio.links.pdf)  
 [a.b.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12655691/a.b.brian.hogan.cv.pdf)  
 
 ## Fall 2023  
@@ -19,54 +19,52 @@ Thank you for visiting and let me know if can help. best instructor.[brian](bhog
 
 
 ```
-I equip students with immediate, tangible  
-skills and preparedness to exceed employer  
-expectations on day 1. 
+Hello! I focus on equipping students
+with system and data skills and expert
+coding abilities for information synthesis.
 
-Currently, I instruct foundational compute from  
-machine and assembly with LC-3 via patt/patel to C++.  
-My expertise spans theoretical system design,  
-practical re-engineering, data transformation,  
-essential programming, and STEM communication.  
-I'm grateful for my quality master's in data  
-science that upskilled my ability to author  
-graduate courses like COSC-526 data mining with Spark.  
+At present, I instruct foundational computer
+science topics, ranging from machine and
+assembly to C++ via  patt/patel. My expertise
+spans theoretical system design, practical
+re-engineering, data transformation in Python
+and R, STEM communication, and curriculum
+development. I'm grateful for my quality
+master's in applied data science which enhanced
+my ability to develop quality graduate courses like
+COSC-526 Data Mining with Spark, at www.utk.edu.
 
-An active learning pedagogy complements my
-instruction by leveraging Colab, Google Sheets,
-and Github. Drawing inspiration from
-bee festooning, students collaborate in weekly
-JAMs, linking root concepts for effective task
-decomposition like being handed a book and
-having an hour to create tables of all chapters
-and words for text and machine learning.
+My teaching philosophy emphasizes active
+learning through tools like Colab, Google
+Sheets, and Github. Students engage in weekly
+JAMs, connecting fundamental concepts, such
+as converting physical books into Python
+data objects. I provide codebooks in every
+class to expose students to algorithms,
+statistical analysis, and machine learning,
+similar to work performed in the Coursera
+module  Get Started with Python in Google’s
+advanced data analytics course.
 
-An embodiment of a Lacanian real, a Krokeresque
-new.REAL is central to my teaching paradigm.
-Education is a performative act, lived and crafted,
-not passively consumed. This paradigm challenges
-passive learning and draws on Arthur Kroker's
-concept of body drift, i.e., a blend of humanity
-with technology and Foucault's active knowledge
-structures. Students don't absorb but actively
-shape, create, and immerse themselves. Education
-isn't a symbolic un.REAL but a tangible,
-actionable commodity echoing Baudrillard's simulacra.
-The new.REAL demands deeper requiring use of
-abstraction and ontological formation skilling.
+I transform course materials into interactive
+workspaces, integrating theory, methods, and
+programming into workable learning objects and
+codebooks. Students actively reshape information
+into actionable Baudrillard commodities, preparing
+them for relationships with generative pretrained
+transformer (GPT) bots and AI agents focused on the
+ontological formation and advanced solving.
+The Krokeresque new.REAL may lead to unprecedented
+job elimination through the democratization of GPT.
+To facilitate upskilling and recall mnemonics,
+my teaching infrastructure includes
 
-Augment student learning and engagement is furthered
- using generative pretrained transformers that
-a) Convert lecture audio to text and integrate
-=> into class corpus.
-b) Use GPT tech to synthesize disparities, including
-=> lecture notes and textbooks.
-c) Email disparity index and aggregate media
-=> into a central repository.  
-d) Feed repository into a course specific AI agent,
-=> further supporting student tasks.
-e) Facilitate upskilling and recall mnemonics
-=> while experiencing a new.REAL of our social fabric.
+a)	Converting lecture audio to text and integrating it into the class corpus.
+b)	Employing GPT tech to synthesize disparities, including lecture notes and textbooks.
+c)	Emailing the disparity index and aggregating media into a central repository.
+d)	Feeding the repository into a course-specific AI agent, further supporting student tasks.
+e)	Facilitating upskilling and recall mnemonics while immersing students in the tech/social fabric of a new.REAL 
+
 
 ```
 
