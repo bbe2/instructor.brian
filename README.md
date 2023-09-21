@@ -1,7 +1,7 @@
 ## university.instruction  
 Thank you for visiting and let me know if can help. best instructor.brian  
 bhogan@clarku.edu   
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12655692/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12691153/brian.hogan.portfolio.links.pdf)
 [a.b.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12655691/a.b.brian.hogan.cv.pdf)  
 
 ## Fall 2023  
