@@ -79,7 +79,6 @@ e) Facilitate upskilling and recall mnemonics
 >>> Jun 20th, 1787
 >>> 
 
-
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
