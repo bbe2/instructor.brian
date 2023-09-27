@@ -1,7 +1,9 @@
 ## university.instruction  
 Thank you for visiting and let me know if can help. best instructor.[brian](bhogan@clarku.edu)   
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12691262/brian.hogan.portfolio.links.pdf)  
-[a.b.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12655691/a.b.brian.hogan.cv.pdf)  
+[b.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12733817/b.brian.hogan.cv.pdf)
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12733820/brian.hogan.portfolio.links.pdf)
+
 
 ## Fall 2023  
 [`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering) ->clarku  
