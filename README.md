@@ -11,8 +11,8 @@ Thank you for visiting and let me know if can help. best instructor.[brian](bhog
 [`it.304.system.design.analysis`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023) ->snhu    
 
 ## Spring 2023  
-[`cosc.526.introduction.to.data.mining`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) ->via noodle for utk.edu  
-[`ct.144.Intermediate.C++.Summer.I`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B) ->ben.franklin.institute  
+[`cosc.526.introduction.to.data.mining.with.spark`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) ->via noodle for utk.edu  
+[`ct.144.intermediate.C++.Summer.I`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B) ->ben.franklin.institute  
 [`it.226.technical.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai) ->snhu  
 
 ## 2022  
