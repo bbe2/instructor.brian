@@ -28,6 +28,8 @@ https://connect.mheducation.com/class/b-hogan-022761
 - Python using [Spyder IDE](https://www.anaconda.com/download)  
 - https://www.anaconda.com/download  
 
+## Weekly items    
+[syllabus.MCSC.3050.instructor.hogan.09.06.23.pdf](https://github.com/bbe2/instructor.brian/files/12571387/syllabus.MCSC.3050.instructor.hogan.09.06.23.pdf)  
 
 ![g clark 3050 syllabus](https://github.com/bbe2/instructor.brian/assets/59778456/8b55b9b6-fcb6-41b5-b372-4919d588a931)  
 ## Week.1  
