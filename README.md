@@ -8,7 +8,9 @@ A profound understanding of system engineering is essential for creating robust 
 
 Dr. Roger S. Pressman's seminal text, "Software Engineering: A Practitioner's Approach," provides the framework for our exploration. The course curriculum elucidates foundational concepts such as software process models, requirements engineering, and design methodologies. Subsequent modules focus on software testing, quality assurance, and maintenance strategies. In-depth discussions on traditional and agile methods ensure students can apply these approaches in varied software development environments. Additionally, contemporary challenges in software engineering, including security and cloud-based application development, are critically examined to prepare students for the evolving technological landscape.  
 
-Course knowledge and skills are imperative for the modern software ecosystem, and this work prepares students for advanced system design, project management, and quality assurance roles. With a curriculum informed by industry best practices and rigorous academic insights, students are educated and instilled with a problem-solving acumen crucial for future endeavors in software engineering. In summary, this course represents a significant academic investment to help ensure your competence as a leader in the software engineering domain.  
+Course knowledge and skills are imperative for the modern software ecosystem, and this work prepares students for advanced system design, project management, and quality assurance roles. With a curriculum informed by industry best practices and rigorous academic insights, students are educated and instilled with a problem-solving acumen crucial for future endeavors in software engineering. 
+ 
+In closing, investing time and energy into this course will help ensure your competence as a leader in the software engineering domain.  
 
 Thank you for your time!  ~instructor.brian  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
