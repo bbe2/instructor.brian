@@ -9,10 +9,6 @@ B) ICARUS-AI E-Learning
 • >_7.Pillars.of.Python____________https://github.com/bbe2/professor/tree/7.py.pillars  
 
 # data.transformations   
-
- 
-
-
-
+[7.pillars.of.python.cheatsheet.pdf](https://github.com/bbe2/instructor.brian/files/12794859/7.pillars.of.python.cheatsheet.pdf)
 
 ![indexing](https://user-images.githubusercontent.com/59778456/225663333-9f61f355-bf15-48b0-8aa5-1eb0a4864340.PNG)  
