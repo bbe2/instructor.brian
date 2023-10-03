@@ -2,7 +2,7 @@
 
 [syllabus.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)  
 [it.304.re-engineering.paradigms.pdf](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
-[zion.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
+[zipper.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
 [hive](https://drive.google.com/drive/folders/1daLZsYcS_3Myezd8MJm_ybcF8oY_Ly4h?usp=sharing)
 
 **Learning Moments valuable to your future**  
