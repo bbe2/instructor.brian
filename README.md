@@ -25,8 +25,8 @@ Engineering, A Practioner’s Approach. 9th edition
 https://connect.mheducation.com/class/b-hogan-022761  
 
 ## Software  
-- Python using [Spyder IDE](https://www.anaconda.com/download)  
-- https://www.anaconda.com/download  
+➢ Python using [Spyder IDE](https://www.anaconda.com/download)  
+➢ https://www.anaconda.com/download  
 
 ## Weekly items    
 [syllabus.MCSC.3050.instructor.hogan.09.06.23.pdf](https://github.com/bbe2/instructor.brian/files/12571387/syllabus.MCSC.3050.instructor.hogan.09.06.23.pdf)  
