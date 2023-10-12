@@ -75,6 +75,7 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 >>> 
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
