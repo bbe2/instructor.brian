@@ -1,5 +1,5 @@
 ## university.instruction  
-Thank you for visiting and let me know if can help. best instructor.[brian](bhogan@clarku.edu)   
+Thank you for visiting and let me know if can help. best [instructor.brian.email](bhogan@clarku.edu)   
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12851208/a.brian.hogan.cv.pdf)  
 
 
@@ -19,52 +19,51 @@ Thank you for visiting and let me know if can help. best instructor.[brian](bhog
 
 
 ```
-Hello! I focus on equipping students
-with system and data skills and expert
-coding abilities for information synthesis.
+=> portfolio.summary
+I equip students with fierce skills
+in data wrangling, machine learning,
+stats, and systems thinking.
 
-At present, I instruct foundational computer
-science topics, ranging from machine and
-assembly to C++ via  patt/patel. My expertise
-spans theoretical system design, practical
-re-engineering, data transformation in Python
-and R, STEM communication, and curriculum
-development. I'm grateful for my quality
-master's in applied data science which enhanced
-my ability to develop quality graduate courses like
-COSC-526 Data Mining with Spark, at www.utk.edu.
+My expertise includes industrial re-engineering,
+theoretical system design, Python and R programming,
+and STEM communication. I’m grateful for my
+Syracuse University data science professors who
+provided quality theoretical knowledge and practical
+skills to perform pipeline machine learning and
+authoring courses like Data Mining and
+Get Started with Python at Google.
 
-My teaching philosophy emphasizes active
-learning through tools like Colab, Google
-Sheets, and Github. Students engage in weekly
-JAMs, connecting fundamental concepts, such
-as converting physical books into Python
-data objects. I provide codebooks in every
-class to expose students to algorithms,
-statistical analysis, and machine learning,
-similar to work performed in the Coursera
-module  Get Started with Python in Google’s
-advanced data analytics course.
+My pedagogical approach is anchored in mnemonics and
+interactive JAMs, fostering active student collaboration
+using Colab, Google Sheets, and GitHub.
+My >_7.pillars.of.python initiative democratizes access
+to programming essential tools and data transformation
+with pillars like data.objects^3, functions^4, iterators^5,
+libraries^6, and transformers^7. The framework encourages
+students to employ information science ontology principles
+and to process, interpret, and reshape information.
 
-I transform course materials into interactive
-workspaces, integrating theory, methods, and
-programming into workable learning objects and
-codebooks. Students actively reshape information
-into actionable Baudrillard commodities, preparing
-them for relationships with generative pretrained
-transformer (GPT) bots and AI agents focused on the
-ontological formation and advanced solving.
-The Krokeresque new.REAL may lead to unprecedented
-job elimination through the democratization of GPT.
-To facilitate upskilling and recall mnemonics,
-my teaching infrastructure includes
+=> who.survives? 
+I deeply value each classroom learning experience because
+our Lacanian REAL is skill replacement by large
+language models and generative pretrained transformer.
+In 2023, a study by Eloundou, Manning, Mishkin, and Rock (p.1,3)
+found that 80% of the US workforce have at least 10% of
+their work tasks affected by LLMs and 19% of all jobs 
+aving 50% skill replacement exposure. According to Manning et al.,
+in 2022, GPTs generated functional code 28.8% of the time.
+It’s a fantastic opportunity for struggling coders and
+neuro-diverse learners to build deep coding skills with AI
+assistance learning. I’m tooling myself to make this happen
+to help students realize their future sustainability and
+the necessity of continuous skilling and focus.
 
-a)	Converting lecture audio to text and integrating it into the class corpus.
-b)	Employing GPT tech to synthesize disparities, including lecture notes and textbooks.
-c)	Emailing the disparity index and aggregating media into a central repository.
-d)	Feeding the repository into a course-specific AI agent, further supporting student tasks.
-e)	Facilitating upskilling and recall mnemonics while immersing students in the tech/social fabric of a new.REAL 
-
+#=> what's.happening? -> ai.agents  
+To help student mnemonics at crucial moments, I’m tooling GPT AI agents to  
+1.	Convert lecture audio to text; integrating into a class corpus repository.  
+2.	Synthesize disparities across audio, lecture notes, and textbooks using GPT APIs.  
+3.	Email lecture summary and disparity index.  
+4.	Aggregate and feed repository media to AI agent for student interactive learning.  
 
 ```
 
