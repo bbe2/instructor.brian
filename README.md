@@ -1,7 +1,7 @@
 ## university.instruction  
-Thank you for visiting and let me know if can help. best [instructor.brian.email](bhogan@clarku.edu)   
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12851208/a.brian.hogan.cv.pdf)  
+Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12851208/a.brian.hogan.cv.pdf)  
 
 ## Fall 2023  
 [`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering) ->clarku  
