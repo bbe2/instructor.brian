@@ -2,6 +2,8 @@
 Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12851208/a.brian.hogan.cv.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12887266/brian.hogan.portfolio.links.pdf)  
+
 
 ## Course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
