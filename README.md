@@ -93,10 +93,7 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 
 ## fact.sheet    
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
-[b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
-[b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
-[b.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/instructor.brian/files/12529584/brian.hogan.statement.scholarly.activities.pdf)   
-[b.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529581/brian.hogan.committment.to.diversity.statement.pdf)  
+
 
 ## m.i.s.c.e.l.l.a.n.e.a.  
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
