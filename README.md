@@ -3,20 +3,25 @@ Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12851208/a.brian.hogan.cv.pdf)  
 
-## Fall 2023  
-[`MSCS.3050.software.engineering`](https://github.com/bbe2/instructor.brian/tree/mscs.3050.systems.engineering) ->clarku  
-[`MSCS.3070.survey.of.systems.and.programming.languages`](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarku  
-[`it.304.system.design.analysis`](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023) ->snhu    
+## Course links  
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
-## Spring 2023  
-[`cosc.526.introduction.to.data.mining.with.spark`](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu) ->via noodle for utk.edu  
-[`ct.144.intermediate.C++.Summer.I`](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B) ->ben.franklin.institute  
-[`it.226.technical.comm.w.AI`](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai) ->snhu  
+Fall 2023  
+➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
+➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
-## 2022  
-[`it.304.system.design.analysis`](https://github.com/bbe2/IT.304.Fall.2022) ->snhu     
-![g bjarne stroustrup](https://github.com/bbe2/professor/assets/59778456/8b4ddce9-6598-4f4a-b1d4-65291057900a) [youtube](https://www.youtube.com/watch?v=uTxRF5ag27A&t=1s)  
+Spring 2023   
+➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
+➢ [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
+➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
 
+2022  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
+➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)-> ICARUS-AI  
+
+2021  
+➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
 
 ```
 => portfolio.summary
