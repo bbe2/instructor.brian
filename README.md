@@ -41,7 +41,7 @@ to programming essential tools and data transformation
 with pillars like data.objects^3, functions^4, iterators^5,
 libraries^6, and transformers^7. The framework encourages
 students to employ information science ontology principles
-and to process, interpret, and reshape information.
+to process, interpret, and reshape information.
 
 => who.survives? 
 I deeply value each classroom learning experience because
@@ -50,13 +50,7 @@ language models and generative pretrained transformer.
 In 2023, a study by Eloundou, Manning, Mishkin, and Rock (p.1,3)
 found that 80% of the US workforce have at least 10% of
 their work tasks affected by LLMs and 19% of all jobs 
-aving 50% skill replacement exposure. According to Manning et al.,
-in 2022, GPTs generated functional code 28.8% of the time.
-It’s a fantastic opportunity for struggling coders and
-neuro-diverse learners to build deep coding skills with AI
-assistance learning. I’m tooling myself to make this happen
-to help students realize their future sustainability and
-the necessity of continuous skilling and focus.
+aving 50% skill replacement exposure. 
 
 #=> what's.happening? -> ai.agents  
 To help student mnemonics at crucial moments, I’m tooling GPT AI agents to  
