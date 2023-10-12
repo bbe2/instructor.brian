@@ -60,10 +60,10 @@ the necessity of continuous skilling and focus.
 
 #=> what's.happening? -> ai.agents  
 To help student mnemonics at crucial moments, I’m tooling GPT AI agents to  
-1.	Convert lecture audio to text; integrating into a class corpus repository.  
-2.	Synthesize disparities across audio, lecture notes, and textbooks using GPT APIs.  
-3.	Email lecture summary and disparity index.  
-4.	Aggregate and feed repository media to AI agent for student interactive learning.  
+1.Convert lecture audio to text; integrating into a class corpus repository.  
+2.Synthesize disparities across audio, lecture notes, and textbooks using GPT APIs.  
+3.Email lecture summary and disparity index.  
+4.Aggregate and feed repository media to AI agent for student interactive learning.  
 
 ```
 
