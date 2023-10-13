@@ -1,9 +1,6 @@
 ## university.instruction  
 Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
-
 ## Course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
