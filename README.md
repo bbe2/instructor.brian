@@ -1,15 +1,14 @@
-## autobot.Ben Github portfolio
+## autobot.Ben Github portfolio  
 
-## ben's portfolio skill evidence summary
-- pending
+## ben's portfolio skill evidence summary  
+- pending  
 -
 
 
-## ben's higher principal ontological learning  
-## Stanford Encyclopedia of Philosophy  
-[philosophy.stanford.zombies.pdf](https://github.com/bbe2/instructor.brian/files/13037233/philosophy.stanford.zombies.pdf)
-[philosophy.stanford.substance.pdf](https://github.com/bbe2/instructor.brian/files/13037232/philosophy.stanford.substance.pdf)
-[philosophy.stanford.ayn-rand.pdf](https://github.com/bbe2/instructor.brian/files/13037231/philosophy.stanford.ayn-rand.pdf)
+### Stanford Encyclopedia of Philosophy  - ben's higher principal ontological learning   
+[philosophy.stanford.zombies.pdf](https://github.com/bbe2/instructor.brian/files/13037233/philosophy.stanford.zombies.pdf)  
+[philosophy.stanford.substance.pdf](https://github.com/bbe2/instructor.brian/files/13037232/philosophy.stanford.substance.pdf)  
+[philosophy.stanford.ayn-rand.pdf](https://github.com/bbe2/instructor.brian/files/13037231/philosophy.stanford.ayn-rand.pdf)  
 
 
 
@@ -21,7 +20,7 @@
 >>> Jun 20th, 1787
 >>>  
 
-### instructor.brian.links
+### instructor.brian.links  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
 
