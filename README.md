@@ -3,7 +3,8 @@
 [syllabus.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)  
 [it.304.re-engineering.paradigms.pdf](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
 [zipper.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
-[hive](https://drive.google.com/drive/folders/1daLZsYcS_3Myezd8MJm_ybcF8oY_Ly4h?usp=sharing)
+[hive](https://drive.google.com/drive/folders/1daLZsYcS_3Myezd8MJm_ybcF8oY_Ly4h?usp=sharing)  
+[Grading.Rules.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/13059849/Grading.Rules.it.304.fall.2023.pdf)  
 
 **Learning Moments valuable to your future**  
 [Dr. Ng - DeepLearning.AI opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE)  
