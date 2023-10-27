@@ -4,6 +4,7 @@ Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
 
 ## Course links  
+how.To.machine.learning (new)
 
 Fall 2023  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
