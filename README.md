@@ -1,3 +1,5 @@
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+
 # Welcome to MSCS.3070!  
 ## Survey of Systems and Programming Languages  
 [syllabus.MCSC.3070.instructor.hogan.09.06.23.pdf](https://github.com/bbe2/instructor.brian/files/12571395/syllabus.MCSC.3070.instructor.hogan.09.06.23.pdf)  
@@ -10,7 +12,7 @@ This course's skills and insights are directly relevant to today's computational
 
 In brief, investing time and energy into this course will help ensure your competence toward a sustainable practitioner career in computing.   
 
-Thank you for your time!  ~instructor.brian  
+Thank you for your time!  ~[instructor.brian](bhogan@clarku.edu)  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)
 
 ## Textbook  
