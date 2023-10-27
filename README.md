@@ -1,8 +1,8 @@
 
 ## university.instruction  
-Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
+Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
-- [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
 
 ## Course links  
 
