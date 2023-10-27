@@ -1,4 +1,6 @@
-![festooning](https://github.com/bbe2/instructor.brian/assets/59778456/52834799-fe5e-49ab-80fc-24191da1224d)
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+[instructor.brian](b.hhogan@snhu.edu)  
+![festooning](https://github.com/bbe2/instructor.brian/assets/59778456/52834799-fe5e-49ab-80fc-24191da1224d)  
 
 [syllabus.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)  
 [it.304.re-engineering.paradigms.pdf](https://github.com/bbe2/instructor.brian/files/12475703/it.304.re-engineering.paradigms.pdf)   
