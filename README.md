@@ -3,7 +3,9 @@
 Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
 
-[i.ii.iii.k.12.generative.ai.curriculum.assessment.pdf](https://github.com/bbe2/instructor.brian/files/13303408/i.ii.iii.k.12.generative.ai.curriculum.assessment.pdf)  
+[0.contents.i.ii.iii.k.12.generative.ai.curriculum.scholarly.analysis.pdf](https://github.com/bbe2/instructor.brian/files/13303423/0.contents.i.ii.iii.k.12.generative.ai.curriculum.scholarly.analysis.pdf)  
+
+[i.ii.iii.k.12.generative.ai.curriculum.scholarly.assessment.pdf](https://github.com/bbe2/instructor.brian/files/13303408/i.ii.iii.k.12.generative.ai.curriculum.assessment.pdf)  
 
 ![g k12 alabama 1 of 2](https://github.com/bbe2/instructor.brian/assets/59778456/9de362a5-58e2-4809-a666-1a3ade50b0e2)  
 ![g k12 alabama 2 of 2](https://github.com/bbe2/instructor.brian/assets/59778456/d24bba58-535c-4a89-a5f1-5821b91fb1e7)  
