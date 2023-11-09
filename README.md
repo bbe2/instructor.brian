@@ -7,6 +7,7 @@ Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 [how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
 Fall 2023  
+➢ [k-12.Generative.AI.state.of.alabama.via.quanthub]()
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
 ➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
