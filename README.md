@@ -15,6 +15,7 @@
 
 ![g JPL lab](https://github.com/bbe2/instructor.brian/assets/59778456/0a999b9c-e3c3-40f7-9b09-0d91b4df0537)  
 
+![g federalist like](https://github.com/bbe2/instructor.brian/assets/59778456/c9f42e71-dd4c-4a71-a71e-bca473f97d19)  
 
 ## Week.1  
 `code`  [none]
