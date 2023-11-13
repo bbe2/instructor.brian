@@ -101,4 +101,6 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 07.03.23=> ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
 06.01.23=> ![g grammarly 95 percent](https://github.com/bbe2/professor.full.brain/assets/59778456/ad5d8a3e-212d-43db-b0ed-3268f2f31e1a)  
 [=> Dr. Stanton great at this](https://scholar.google.com/citations?hl=en&user=0UPnd6oAAAAJ)  
-[reasoning with data - bayesian using R](https://www.amazon.com/Reasoning-Data-Introduction-Traditional-Statistics/dp/1462530265/ref=sr_1_1?crid=30HT063V488UM&keywords=stanton+statistics&qid=1694036862&sprefix=stanton+statistic%2Caps%2C125&sr=8-1)
+[reasoning with data - bayesian using R](https://www.amazon.com/Reasoning-Data-Introduction-Traditional-Statistics/dp/1462530265/ref=sr_1_1?crid=30HT063V488UM&keywords=stanton+statistics&qid=1694036862&sprefix=stanton+statistic%2Caps%2C125&sr=8-1)  
+
+![g grammarly bardic soul](https://github.com/bbe2/instructor.brian/assets/59778456/03517759-f9c7-4f26-b956-c9ce02aa8157)  
