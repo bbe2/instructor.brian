@@ -89,7 +89,8 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 
 ## fact.sheet    
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
-[c.brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/13191446/c.brian.hogan.portfolio.links.pdf)
+[c.brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/13191446/c.brian.hogan.portfolio.links.pdf)  
+[how.To._7.pillars.of.python.pdf](https://github.com/bbe2/instructor.brian/files/13370832/how.To._7.pillars.of.python.pdf)  
 
 
 ## m.i.s.c.e.l.l.a.n.e.a.  
