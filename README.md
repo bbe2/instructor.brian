@@ -7,6 +7,15 @@ Thank you for visiting and let me know if can help. best <b.hogan@snhu.edu>
 ## Course links  
 [how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
+**Spring 2024**
+Endicott College  
+➢ CSC265 Discrete Structures  
+➢ CSC285 Discrete Structures  
+➢ CSC160/160L Intro to Programming  
+> https://www.discoveringcs.net/  
+> https://www.codingrooms.com/
+
+-------------
 Fall 2023  
 ➢ [k-12.Generative.AI.state.of.alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
