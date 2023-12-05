@@ -7,11 +7,10 @@
 ### **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 ➢ CSC265 Discrete Structures via [Discrete Mathmathmatics](https://www.zybooks.com/catalog/discrete-mathematics/)  
-➢ CSC160/160L Introduction to Programming and Intro to Programming Laboratory  
-> [tectbook = Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
-> https://www.codingrooms.com/
-
-
+➢ CSC160/160L Introduction to Programming
+➢ CSC160L Introduction to Programming Lab
+> textbook => [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
+> https://www.codingrooms.com/  
 
 **`Fall 2023`**  
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
