@@ -2,7 +2,7 @@
 ## brian.hogan.university.instruction  
 ### Thank you! for visiting and let me know how I may help. ~best <b.hogan@snhu.edu>  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
-[portfolio.home](https://github.com/bbe2/portfolio)  
+[portfolio.home](https://github.com/bbe2/portfolio) [instructor.brian.how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
 ### **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
@@ -11,7 +11,7 @@
 > [tectbook = Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > https://www.codingrooms.com/
 
-[instructor.brian.how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+
 
 **`Fall 2023`**  
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
