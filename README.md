@@ -6,7 +6,7 @@
 
 ### **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
-➢ CSC265 Discrete Structures w [Discrete Mathmathmatic](https://www.zybooks.com/catalog/discrete-mathematics/)
+➢ CSC265 Discrete Structures w [Discrete Mathmathmatic](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Intro to Programming and Programming Laboratory  
 > [tectbook = Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > https://www.codingrooms.com/
