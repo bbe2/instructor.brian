@@ -4,17 +4,15 @@
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
 [portfolio.home](https://github.com/bbe2/portfolio)  
 
-## Course links  
-[how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
-
-**`Spring 2024`**  
+### **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
-➢ CSC265 Discrete Structures with learning resource [https://learn.zybooks.com/library  ](https://www.zybooks.com/catalog/discrete-mathematics/)
+➢ CSC265 Discrete Structures w Discrete Mathmathmatics at [https://learn.zybooks.com/library  ](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Intro to Programming and Programming Laboratory  
-> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
+> [tectbook = Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > https://www.codingrooms.com/
 
--------------  
+[instructor.brian.how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+
 **`Fall 2023`**  
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
@@ -32,7 +30,13 @@
 
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
-b.hogan@snhu.edu
+
+### jeffersonian reengineering essentials   
+> The whole and patch should be commensurate.  
+>> Thomas Jefferson to James Madison  
+>>> Jun 20th, 1787
+
+
 ```
 => portfolio.summary
 I equip students with fierce skills
@@ -74,16 +78,7 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 3.Email lecture summary and disparity index.  
 4.Aggregate and feed repository media to AI agent for student interactive learning.  
 
-```
-
-## portfolio  
-
-### jeffersonian reengineering essentials   
-> The whole and patch should be commensurate.  
->> Thomas Jefferson to James Madison  
->>> Jun 20th, 1787
->>> 
-
+```  
 ## portfolio links [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
