@@ -7,11 +7,11 @@
 ## Course links  
 [how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
-**`Spring 2024`**
-[Endicott College](https://www.endicott.edu/academics/schools/science-technology)
-➢ CSC265 Discrete Structures  
-➢ CSC160/160L Intro to Programming and Programming Laboratory
-> https://www.discoveringcs.net/  
+**`Spring 2024`**  
+[Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+➢ CSC265 Discrete Structures with learning resource [https://learn.zybooks.com/library  ](https://www.zybooks.com/catalog/discrete-mathematics/)
+➢ CSC160/160L Intro to Programming and Programming Laboratory  
+> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > https://www.codingrooms.com/
 
 -------------  
@@ -32,7 +32,7 @@
 
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
-
+b.hogan@snhu.edu
 ```
 => portfolio.summary
 I equip students with fierce skills
