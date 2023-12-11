@@ -29,6 +29,19 @@
 
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
+[portfolio.home](https://github.com/bbe2/portfolio)  
+
+---------
+
+### **`Quality student internship, research, and advanced training`**   
+[CIA fellowship](https://www.cia.gov/careers/student-programs/)  
+➢ quality challenges for advanced computer/information science students   
+[Harvard careers](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25240&siteid=5341#home)  
+➢ diverse positions; search = research assistant; quality training and unbeatable tuition benefit  
+[PREDOC - pathways top research and doctoral careers](https://predoc.org/)  
+➢ outstanding interface to research labs and experiencing research environments for discerning further PhD work  
+
 
 ### jeffersonian reengineering essentials   
 > The whole and patch should be commensurate.  
@@ -78,7 +91,7 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 4.Aggregate and feed repository media to AI agent for student interactive learning.  
 
 ```  
-## portfolio links [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
+##brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
@@ -88,7 +101,7 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit) [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
-[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
+[`master.of.science.portfolio`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 
 ## fact.sheet    
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
