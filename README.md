@@ -42,8 +42,10 @@
 [PREDOC - pathways top research and doctoral careers](https://predoc.org/)  
 ➢ outstanding interface to research labs and experiencing research environments for discerning further PhD work  
 
+![g intro stat learning](https://github.com/bbe2/instructor.brian/assets/59778456/48c1593c-efc1-4958-9785-73361e1c6b43)
 
-### jeffersonian reengineering essentials   
+
+### the essence of t.jefferson re-engineering    
 > The whole and patch should be commensurate.  
 >> Thomas Jefferson to James Madison  
 >>> Jun 20th, 1787
@@ -91,7 +93,7 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 4.Aggregate and feed repository media to AI agent for student interactive learning.  
 
 ```  
-##brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
