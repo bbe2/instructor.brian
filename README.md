@@ -20,37 +20,11 @@
 ## Week.1  
 `code`  [none]
 
-`audio`  
+`audio` <moved to internal> 
 [08.30.23.day.1](https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/ESTlitFr8wZMriRoUIg5LUQBGmolCt4KVBuGVxoHu8PK9w?e=yjQa2E)  
 [09.01.23.day.2](https://snhu-my.sharepoint.com/:u:/g/personal/b_hogan_snhu_edu/EdLrrSoUKzhAkhN2qORwtHYBGoJWKza_TMIV942_M0l6VQ?e=uLdedq)  
 
 
-## Week.2  
-`code`  
-
-
-`audio`  
-09.06.23.day.1  
-09.08.23.day.2  
-
-## Week.3  
-`code`  
-`audio`  
-09.13.23.day.1  
-09.15.23.day.2  
-
-## Week.4  
-`code`  
-`audio`  
-09.20.23.day.1  
-09.22.23.day.2  
-
-
-## Week.5  
-`code`  
-`audio`  
-09.27.23.day.1  
-09.29.23.day.2  
 
 
 
