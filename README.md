@@ -2,7 +2,8 @@
 ## brian.hogan.university.instruction  
 ### Thank you! for visiting and let me know how I may help. ~best <b.hogan@snhu.edu>  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
-[portfolio.home](https://github.com/bbe2/portfolio) [instructor.brian.how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+[portfolio.home](https://github.com/bbe2/portfolio)  
+[instructor.brian.how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
 ### **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
