@@ -13,6 +13,8 @@
 **Learning Moments valuable to your future**  
 [Dr. Ng - DeepLearning.AI opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE)  
 
+
+## note=> ther class media moved internally  
 ![g JPL lab](https://github.com/bbe2/instructor.brian/assets/59778456/0a999b9c-e3c3-40f7-9b09-0d91b4df0537)  
 
 ![g federalist like](https://github.com/bbe2/instructor.brian/assets/59778456/c9f42e71-dd4c-4a71-a71e-bca473f97d19)  
