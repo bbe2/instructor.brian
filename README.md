@@ -2,7 +2,7 @@
 [instructor.brian.email](b.hhogan@snhu.edu)  
 
 ## it.304.fall.2023 - Systems analysis and requirements planning
-## Why perform [re-engineering?]([Why perform Re-engineering.pdf](https://github.com/bbe2/instructor.brian/files/13774185/Why.perform.Re-engineering.pdf))  
+## [Why perform Re-engineering.pdf](https://github.com/bbe2/instructor.brian/files/13774186/Why.perform.Re-engineering.pdf)  
 
 ![festooning](https://github.com/bbe2/instructor.brian/assets/59778456/52834799-fe5e-49ab-80fc-24191da1224d)  
 
