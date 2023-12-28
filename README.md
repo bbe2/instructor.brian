@@ -1,5 +1,7 @@
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 [instructor.brian.email](b.hhogan@snhu.edu)  
+[hive](https://drive.google.com/drive/folders/1daLZsYcS_3Myezd8MJm_ybcF8oY_Ly4h?usp=sharing)  
+
 
 ## it.304.fall.2023 - Systems analysis and requirements planning
 ## [Why perform Re-engineering.pdf](https://github.com/bbe2/instructor.brian/files/13774186/Why.perform.Re-engineering.pdf)  
@@ -9,12 +11,16 @@
 [syllabus.it.304.fall.2023.pdf](https://github.com/bbe2/instructor.brian/files/12490135/syllabus.it.304.fall.2023.pdf)  
 [it304.analysis.paradigms.of..system.knowledge.ontology.and.representations.pdf](https://github.com/bbe2/instructor.brian/files/13774138/it304.analysis.paradigms.of.system.knowledge.ontology.and.representations.pdf)  
 [zipper.pdf](https://github.com/bbe2/instructor.brian/files/12494131/zion.pdf)  
-[hive](https://drive.google.com/drive/folders/1daLZsYcS_3Myezd8MJm_ybcF8oY_Ly4h?usp=sharing)  
+
+-> [article.theory.Xeno.Patterning.L.Parisi.2019.pdf](https://github.com/bbe2/instructor.brian/files/13782258/article.theory.Xeno.Patterning.L.Parisi.2019.pdf)
+
+
 
 
 **Learning Moments valuable to your future**  
 -> [Dr. Ng - DeepLearning.AI opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE)  
--> 
+-> [article.theory.Xeno.Patterning.L.Parisi.2019.pdf](https://github.com/bbe2/instructor.brian/files/13782258/article.theory.Xeno.Patterning.L.Parisi.2019.pdf)
+
 
 ## note=> ther class media moved internally  
 ![g JPL lab](https://github.com/bbe2/instructor.brian/assets/59778456/0a999b9c-e3c3-40f7-9b09-0d91b4df0537)  
