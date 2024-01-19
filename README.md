@@ -30,7 +30,7 @@
 
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
+
 [portfolio.home](https://github.com/bbe2/portfolio)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)  
 ---------
