@@ -32,7 +32,8 @@
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
 
 [portfolio.home](https://github.com/bbe2/portfolio)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)   
+
 ---------
 
 ### **`Quality student internship, research, and advanced training`**   
