@@ -1,11 +1,15 @@
+## instructor.brian ~ university.instruction  
+### Thank you! for visiting and let me know how I may help. ~best <bhogan@clarku.edu>  
+[`my,portfolio.links`](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  [`portfolio.home`](https://github.com/bbe2/portfolio)  
 
-## brian.hogan.university.instruction  
-### Thank you! for visiting and let me know how I may help. ~best <b.hogan@snhu.edu>  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  
-[portfolio.home](https://github.com/bbe2/portfolio)  
-[instructor.brian.how.To.machine.learning](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+#=>new **`how.To templates`**  
+methodology and tools to perform high quality information exchanges  
+➢ [apply and get BIG positions, like Google: how.To: gen AI + ASCII tree info synthesis](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
+➢ [write a reccommendation, like LinkedIN: how.To: characteristic ontological analysis](https://docs.google.com/document/d/1gVZly9zVFWxxOmcIwKO6oCs99IYZ5HwDoLg-YzCfadE/edit?usp=sharing)  
+➢ [machine.learning: how.To - what i find essential](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
-### **`Spring 2024`**  
+--------
+## **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 ➢ CSC265 Discrete Structures with textbook=> [Discrete Mathmathmatics](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Introduction to Programming
