@@ -1,6 +1,6 @@
 ## instructor.brian ~ university.instruction  
 ### Thank you! for visiting and let me know how I may help. ~best <bhogan@clarku.edu>  
-[`my,portfolio.links`](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  [`portfolio.home`](https://github.com/bbe2/portfolio)  
+[`my.portfolio.links.download.pdf`](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  [`portfolio.home`](https://github.com/bbe2/portfolio)  
 
 #=>new **`how.To templates`**  
 methodology and tools to perform high quality information exchanges  
@@ -9,6 +9,7 @@ methodology and tools to perform high quality information exchanges
 ➢ [machine.learning: how.To - what i find essential](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
 --------
+
 ## **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 ➢ CSC265 Discrete Structures with textbook=> [Discrete Mathmathmatics](https://www.zybooks.com/catalog/discrete-mathematics/)  
@@ -16,6 +17,12 @@ methodology and tools to perform high quality information exchanges
 ➢ CSC160L Introduction to Programming Lab
 > text.book=> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > cloud.IDE=> https://www.codingrooms.com/  
+
+**`Fall 2023`**  
+➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
+➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
+➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
 **`Fall 2023`**  
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
