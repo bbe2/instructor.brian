@@ -7,7 +7,7 @@
 #=>new **`how.To templates`**  
 methodology and tools to perform high quality information exchanges  
 ➢ [how.To.INformation.Synthesis-->prepare.and.Apply.to.BIG.posoitions.l](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
-➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)
+➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)  
 ➢ [how.To.machine.learning--> my essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
 --------
