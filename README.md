@@ -1,12 +1,14 @@
-## instructor.brian ~ university.instruction  
-### Thank you! for visiting and let me know how I may help. ~best <bhogan@clarku.edu>  
-[`my.portfolio.links.download.pdf`](https://github.com/bbe2/instructor.brian/files/12888895/brian.hogan.portfolio.links.pdf)  [`portfolio.home`](https://github.com/bbe2/portfolio)  
+### This page => university.instruction  
+### Thank you! for visiting and let me know how I may help.  
+~best <bhogan@clarku.edu>   
+[`instructor.brian.evidence.portfolio`](https://github.com/bbe2/portfolio)  
 
+-------------
 #=>new **`how.To templates`**  
 methodology and tools to perform high quality information exchanges  
-➢ [apply and get BIG positions, like Google: how.To: gen AI + ASCII tree info synthesis](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
-➢ [write a reccommendation, like LinkedIN: how.To: characteristic ontological analysis](https://docs.google.com/document/d/1gVZly9zVFWxxOmcIwKO6oCs99IYZ5HwDoLg-YzCfadE/edit?usp=sharing)  
-➢ [machine.learning: how.To - what i find essential](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+➢ [how.To.INformation.Synthesis-->prepare.and.Apply.to.BIG.posoitions.l](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
+➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gVZly9zVFWxxOmcIwKO6oCs99IYZ5HwDoLg-YzCfadE/edit?usp=sharing)  
+➢ [how.To.machine.learning--> my essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
 --------
 
