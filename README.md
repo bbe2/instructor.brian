@@ -13,7 +13,7 @@
 
 --------
 
-## **`Spring 2024`**  
+**`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 ➢ CSC265 Discrete Structures => [Zybook.Discrete.Math](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Introduction to Programming  
@@ -22,6 +22,7 @@
 > cloud.IDE=> https://www.codingrooms.com/  
 
 **`Fall 2023`**  
+Clark University and SNHU  
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
 ➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
