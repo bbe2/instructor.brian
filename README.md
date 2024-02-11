@@ -1,7 +1,7 @@
 ### This page => university.instruction  
 ### Thank you! for visiting and let me know how I may help. Best regards!
-- <bhogan@clarku.edu>   
-- [instructor.brian.evidence.portfolio](https://github.com/bbe2/portfolio)  
+- <bhogan@clarku.edu>, [CV](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)   
+- [evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 -------------
 ### => **new** **`how.To templates`**  
@@ -50,9 +50,6 @@
 
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  / salesforce  
-
-[portfolio.home](https://github.com/bbe2/portfolio)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)   
 
 ---------
 
