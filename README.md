@@ -35,8 +35,8 @@ UTK, Ben Franklin Tech, SNHU
 ➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
 
 `2022`  
-Google, ICARUS-ai, SNHU
-➢ [Google, lead writrer, Get Started with Python]()https://www.coursera.org/learn/get-started-with-python)  
+Google, ICARUS-ai, SNHU  
+➢ [Google, lead writrer, Get Started with Python](https://www.coursera.org/learn/get-started-with-python)  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
 ➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)-> ICARUS-AI  
 
