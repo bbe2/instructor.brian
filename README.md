@@ -1,7 +1,7 @@
 ### This page => university.instruction  
 ### Thank you! for visiting and let me know how I may help. Best regards!
-- <bhogan@clarku.edu>   
-- [instructor.brian.evidence.portfolio](https://github.com/bbe2/portfolio)  
+<bhogan@clarku.edu>   
+[instructor.brian.evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 -------------
 ### => **new** **`how.To templates`**  
@@ -11,35 +11,47 @@
 ➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)   
 ➢ [how.To.machine.learning_______--> essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
 
+### **`Quality student internship, research, and advanced training`**   
+[CIA fellowship](https://www.cia.gov/careers/student-programs/) - quality challenges for advanced information science students   
+[Harvard careers](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25240&siteid=5341#home) - diverse positions + great class benefit; search = research assistant  
+[PREDOC - pathways top research and doctoral careers](https://predoc.org/) - start your PhD today   
+
 --------
 
 **`Spring 2024`**  
 [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+
 ➢ CSC265 Discrete Structures => [Zybook.Discrete.Math](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Introduction to Programming  
 ➢ CSC160L Introduction to Programming Lab  
 > text.book=> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > cloud.IDE=> https://www.codingrooms.com/  
 
+--------
 **`Fall 2023`**  
 Clark University, Quanthub, SNHU  
+
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
 ➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
+--------
 `Spring 2023`     
 UTK, Ben Franklin Tech, SNHU  
+
 ➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
 ➢ [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
 ➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
 
+--------
 `2022`  
 Google, ICARUS-ai, SNHU  
 ➢ [Google, lead writrer, Get Started with Python](https://www.coursera.org/learn/get-started-with-python)  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
 ➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)-> ICARUS-AI  
 
+--------  
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  / salesforce  
 
@@ -48,22 +60,15 @@ Google, ICARUS-ai, SNHU
 
 ---------
 
-### **`Quality student internship, research, and advanced training`**   
-[CIA fellowship](https://www.cia.gov/careers/student-programs/)  
-➢ quality challenges for advanced computer/information science students   
-[Harvard careers](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25240&siteid=5341#home)  
-➢ diverse positions; search = research assistant; quality training and unbeatable tuition benefit  
-[PREDOC - pathways top research and doctoral careers](https://predoc.org/)  
-➢ outstanding interface to research labs and experiencing research environments for discerning further PhD work  
+# Thomas jefferson re-engineering
+## ➢ The whole and patch should be commensurate
+#### (06/20/1787 to Madison)
+
+---
 
 ![g intro stat learning](https://github.com/bbe2/instructor.brian/assets/59778456/48c1593c-efc1-4958-9785-73361e1c6b43)
 
-
-### the essence of t.jefferson re-engineering    
-> The whole and patch should be commensurate.  
->> Thomas Jefferson to James Madison  
->>> Jun 20th, 1787
-
+---
 
 ```
 => portfolio.summary
