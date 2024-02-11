@@ -1,6 +1,6 @@
 ### This page => university.instruction  
-### Thank you! for visiting and let me know how I may help.  
-- best <bhogan@clarku.edu>   
+### Thank you! for visiting and let me know how I may help. Best regards!
+- <bhogan@clarku.edu>   
 - [instructor.brian.evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 -------------
