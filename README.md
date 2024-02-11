@@ -1,6 +1,7 @@
 ### This page => university.instruction  
-### Thank you! for visiting and let me know how I may help.  ~best <bhogan@clarku.edu>   
-[instructor.brian.evidence.portfolio](https://github.com/bbe2/portfolio)  
+### Thank you! for visiting and let me know how I may help.  
+- best <bhogan@clarku.edu>   
+- [instructor.brian.evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 -------------
 ### => **new** **`how.To templates`**  
