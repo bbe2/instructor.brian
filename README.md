@@ -13,32 +13,40 @@
 
 --------
 
-**`Spring 2024`**  
-[Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+**`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+
 ➢ CSC265 Discrete Structures => [Zybook.Discrete.Math](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Introduction to Programming  
 ➢ CSC160L Introduction to Programming Lab  
 > text.book=> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
 > cloud.IDE=> https://www.codingrooms.com/  
 
-**`Fall 2023`**  
-Clark University, Quanthub, SNHU  
+--------
+
+**`Fall 2023`**  - Clark University, Quanthub, SNHU 
+
 ➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
 ➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
-`Spring 2023`     
-UTK, Ben Franklin Tech, SNHU  
+--------
+
+`Spring 2023` - UTK, Ben Franklin Tech, SNHU  
+
 ➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
 ➢ [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
 ➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
 
-`2022`  
-Google, ICARUS-ai, SNHU  
+--------
+
+`2022` - Google, ICARUS-ai, SNHU  
+
 ➢ [Google, lead writrer, Get Started with Python](https://www.coursera.org/learn/get-started-with-python)  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
 ➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)-> ICARUS-AI  
+
+--------
 
 `2021`   
 ➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  / salesforce  
