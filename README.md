@@ -1,8 +1,11 @@
 ### This page => university.instruction  
 ### Thank you! for visiting and let me know how I may help. best instructor.brian
 - <bhogan@clarku.edu>, <bhogan@endicott.edu>
-=> [brian.hogan.CV.pdf](https://github.com/bbe2/instructor.brian/files/14578668/a.brian.hogan.cv.pdf)  
-- [evidence.portfolio.summary.and.links](https://github.com/bbe2/portfolio)  
+
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/14578689/a.brian.hogan.cv.pdf)
+
+
+- [page:: evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 -------------
 ### => **new** **`how.To templates`**  
