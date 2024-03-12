@@ -2,8 +2,7 @@
 ### Thank you! for visiting and let me know how I may help. best instructor.brian
 - <bhogan@clarku.edu>, <bhogan@endicott.edu>
 
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/14578689/a.brian.hogan.cv.pdf)
-
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/14578699/a.brian.hogan.cv.pdf)
 
 - [page:: evidence.portfolio](https://github.com/bbe2/portfolio)  
 
