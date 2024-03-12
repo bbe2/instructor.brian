@@ -64,9 +64,9 @@
 ![g intro stat learning](https://github.com/bbe2/instructor.brian/assets/59778456/48c1593c-efc1-4958-9785-73361e1c6b43)
 
 
-### the essence of t.jefferson re-engineering    
+### the essence of Thomas Jefferson re-engineering    
 > The whole and patch should be commensurate.  
->> Thomas Jefferson to James Madison  
+>> t.jefferson to James Madison  
 >>> Jun 20th, 1787
 
 
