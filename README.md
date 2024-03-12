@@ -1,7 +1,7 @@
 ### This page => university.instruction  
-### Thank you! for visiting and let me know how I may help. Best regards!
-- <bhogan@clarku.edu>, [CV](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)   
-- [evidence.portfolio](https://github.com/bbe2/portfolio)  
+### Thank you! for visiting and let me know how I may help. best instructor.brian
+- <bhogan@clarku.edu>, <bhogan@endicott.edu>, [CV](https://github.com/bbe2/instructor.brian/files/13992918/a.brian.hogan.cv.pdf)   
+- [evidence.portfolio.summary.and.links](https://github.com/bbe2/portfolio)  
 
 -------------
 ### => **new** **`how.To templates`**  
