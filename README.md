@@ -9,14 +9,14 @@ B) ICARUS-AI E-Learning
 • >_7.Pillars.of.Python____https://github.com/bbe2/professor/tree/7.py.pillars  
 
 # data.transformations  
-              T↓B
-               ▼         ▲
-              ┌┴─────────┴┐
-              ├─→ R →L    ├─→
-              │           │
-            <─┤         <─┤ L← R
-              └┬─────────┬┘
-               ▼         ▲
-                        B↑T
+             T ↓ B
+               ▼       ▲
+              ┌┴───────┴┐
+              ├─>       ├─> R→ L
+              │         │
+       L ←R <─┤       <─┤
+              └┬───────┬┘
+               ▼       ▲
+                     B ↑ T
                         
 ![indexing](https://user-images.githubusercontent.com/59778456/225663333-9f61f355-bf15-48b0-8aa5-1eb0a4864340.PNG)  
