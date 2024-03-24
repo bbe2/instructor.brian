@@ -1,8 +1,13 @@
-### This page => university.instruction  
-### Thank you! for visiting and let me know how I may help. best instructor.brian
-- <bhogan@clarku.edu>, <bhogan@endicott.edu>
-- 
-- [page:: evidence.portfolio](https://github.com/bbe2/portfolio)  
+This page => university.instruction  or [evidence.portfolio](https://github.com/bbe2/portfolio)  
+### > Thank you! for visiting and let me know  
+### >> if interested in my AI ASCII trees!  
+~ best instructor.brian  
+- <bhogan@clarku.edu>, <bhogan@endicott.edu>  
+
+## jeffersonian reengineering 101  
+> "The whole and patch should be commensurate."  
+>>  Thomas Jefferson to James Madison (20th June 1787)  
+
 
 -------------
 ### => **new** **`how.To templates`**  
@@ -10,11 +15,15 @@
 ➢ **PLEASE** make a copy and use as your own and.or make comments  
 ➢ [how.To.INformation.Synthesis___--> prepare.and.Apply.to.BIG.posoitions.l](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
 ➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)   
-➢ [how.To.machine.learning_______--> essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+➢ [how.To.machine.learning_______--> instructor.brian.essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+➢ machine.learn essetial Colab notebook - 10 key supervised and unsupervised algorithms {brian to add}  
 
 --------
 
 **`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+
+Built my own AI agent for students to self learn discrete mathmatics
+why:: equity and sustainability  
 
 ➢ CSC265 Discrete Structures => [Zybook.Discrete.Math](https://www.zybooks.com/catalog/discrete-mathematics/)  
 ➢ CSC160/160L Introduction to Programming  
