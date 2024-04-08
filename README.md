@@ -114,7 +114,8 @@ To help student mnemonics at crucial moments, I’m tooling GPT AI agents to
 
 ```  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/14899845/a.brian.hogan.cv.pdf)  
+
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
