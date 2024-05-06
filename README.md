@@ -1,6 +1,6 @@
 ### This page => university.instruction  
 ### - Thank you for visiting!
-- i get work done and let me nmow if need a hand
+- everything is for student preparedness and grit
 - - best instructor.brian
 - <bhogan@clarku.edu>, <bhogan@endicott.edu>
 - 
@@ -8,8 +8,7 @@
 
 -------------
 ### => ** **`how.To templates`**  
-➢ tooling for perform high quality info exchanges  
-➢ **add comments for reinforcement learning**
+➢ foe quality, and fast, information exchange
 ➢ [how.To.INformation.Synthesis___--> prepare.and.Apply.to.BIG.posoitions.l](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
 ➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)   
 ➢ [how.To.machine.learning_______--> essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
@@ -18,7 +17,7 @@
 
 **`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 
-➢ CSC265 Discrete Structures => [Zybook.Discrete.Math](https://www.zybooks.com/catalog/discrete-mathematics/)  
+➢ CSC265 Discrete Structures; built custom ai lesrning agent 
 ➢ CSC160/160L Introduction to Programming  
 ➢ CSC160L Introduction to Programming Lab  
 > text.book=> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
