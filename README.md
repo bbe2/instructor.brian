@@ -1,5 +1,7 @@
 ### This page => university.instruction  
-### Thank you! for visiting and let me know how I may help. best instructor.brian
+### - Thank you for visiting!
+- i get work done and let me nmow if need a hand
+- - best instructor.brian
 - <bhogan@clarku.edu>, <bhogan@endicott.edu>
 - 
 - [page:: evidence.portfolio](https://github.com/bbe2/portfolio)  
