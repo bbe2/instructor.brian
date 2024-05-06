@@ -4,12 +4,12 @@
 - - best instructor.brian
 - <bhogan@clarku.edu>, <bhogan@endicott.edu>
 - 
-- [page:: evidence.portfolio](https://github.com/bbe2/portfolio)  
+- [my:: evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 -------------
-### => **new** **`how.To templates`**  
-➢ methodology and tools to perform high quality information exchanges  
-➢ **PLEASE** make a copy and use as your own and.or make comments  
+### => ** **`how.To templates`**  
+➢ tooling for perform high quality info exchanges  
+➢ **add comments for reinforcement learning**
 ➢ [how.To.INformation.Synthesis___--> prepare.and.Apply.to.BIG.posoitions.l](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
 ➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)   
 ➢ [how.To.machine.learning_______--> essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
