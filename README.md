@@ -17,11 +17,12 @@
 
 **`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 
-➢ CSC265 Discrete Structures; built custom ai lesrning agent 
-➢ CSC160/160L Introduction to Programming  
-➢ CSC160L Introduction to Programming Lab  
+**`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+➢ [CSC265 Discrete Structures](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
+--> [gen.AI teaching assistant - discrete.structures](https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing)  
+➢ [CSC160/160L Introduction to Programming](https://drive.google.com/drive/folders/14iVp-KP-7vL2SS2eZ-ho_uMepw9YgfW2?usp=sharing)  
+➢ [CSC160L Introduction to Programming Lab](https://drive.google.com/drive/folders/1MpfQ4lKIrIoMSWMPgjIkC9nE3mdwAQxj?usp=sharing)  
 > text.book=> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
-> cloud.IDE=> https://www.codingrooms.com/  
 
 --------
 
