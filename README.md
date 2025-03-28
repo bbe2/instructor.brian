@@ -10,9 +10,10 @@
 ### => ** **`how.To templates`**  
 ➢ quality, and fast, information exchange  
 ➢ [how.To.INformation.Synthesis](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
-➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis] 
- (https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)   
+➢ [how.To.Write.Reccommendation-LinkedIn w characteristic ontology analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)    
 ➢ [how.To.machine.learning_______--> essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+
+➢ example using my engine to convert technical into steps for employees to [get work done](https://drive.google.com/file/d/1_yyuWXKUQwwM5hoeTA07e8lKYz4olCEN/view?usp=sharing)  
 
 --------
 
