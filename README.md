@@ -2,7 +2,7 @@
 ### - Thank you for visiting!
 - everything is for student preparedness and grit
 - - best instructor.brian
-- <bhogan@clarku.edu>, <bhogan@endicott.edu>
+- <instructor.b.hogan@gmail.com>, <bhogan@endicott.edu>
 - 
 - [my::evidence.portfolio](https://github.com/bbe2/portfolio)  
 
@@ -16,7 +16,7 @@
 ➢ example using my engine to convert technical into steps for employees to [get work done](https://drive.google.com/file/d/1_yyuWXKUQwwM5hoeTA07e8lKYz4olCEN/view?usp=sharing)  
 
 --------
-**`Juuly 2025`**  - [Immerse Education](https://www.immerse.education/)  
+**`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
 
 ➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
 --> [codebook](https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
