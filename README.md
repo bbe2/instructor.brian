@@ -8,12 +8,11 @@
 
 
 --------
-**`Fall 2025`**  - [Regis College CY105 ](https://catalog.regiscollege.edu/courses/CS105)  
+<img width="250" height="250" alt="g logo regis college" src="https://github.com/user-attachments/assets/6544cb3c-ccfa-4935-ab92-421551327a20" />  
 
+**`Fall 2025`**    
+➢ [Regis College CY105 ](https://catalog.regiscollege.edu/courses/CS105)  
 ➢ cybersecurity with indepth programming construct skilling & data structures  
-
---------
-
 
 --------
 **`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
