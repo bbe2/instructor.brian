@@ -14,7 +14,10 @@
 ➢ [Regis College CY105 ](https://catalog.regiscollege.edu/courses/CS105)  
 ➢ cybersecurity with indepth programming construct skilling & data structures  
 
+➢ Full-time City of Peabody Veterans Memorial High-school English & computer science substitute teacher  
 --------
+
+
 **`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
 
 ➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
