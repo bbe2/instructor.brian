@@ -2,8 +2,7 @@
 ### - Thank you for visiting!
 - everything is for student preparedness and grit
 - - best instructor.brian
-- <instructor.b.hogan@gmail.com>, <bhogan@endicott.edu>
-- 
+- <instructor.b.hogan@gmail.com>, <bhogan@endicott.edu>, <brian.hogan@regiscollege.edu>  
 - [my::evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 
@@ -13,7 +12,6 @@
 **`Fall 2025`**    
 ➢ [Regis College CY105 ](https://catalog.regiscollege.edu/courses/CS105)  
 ➢ cybersecurity with indepth programming construct skilling & data structures  
-
 ➢ Full-time City of Peabody Veterans Memorial High-school English & computer science substitute teacher  
 --------
 
@@ -21,7 +19,8 @@
 **`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
 
 ➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
---> [codebook](https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
+--> [codebook](https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing)  
+--> [codebook](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
 
 --------
 
