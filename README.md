@@ -2,7 +2,7 @@
 ### - Thank you for visiting!
 - everything is for student preparedness and grit
 - - best instructor.brian
-- <instructor.b.hogan@gmail.com>, <bhogan@endicott.edu>, <brian.hogan@regiscollege.edu>  
+- <instructor.b.hogan@gmail.com>, <brian.hogan@regiscollege.edu>  
 - [my::evidence.portfolio](https://github.com/bbe2/portfolio)  
 
 
@@ -15,6 +15,14 @@
 ➢ Full-time City of Peabody Veterans Memorial High-school English & computer science substitute teacher  
 --------
 
+--------
+**`Fall 2025`**  - [Regis College - Intro to Programming II](https://www.immerse.education/)  
+
+➢ [syllabus](https://docs.google.com/document/d/1BmQRHBPMuwYC5jtXvDs4UqhiMhGWWyxC/edit?usp=sharing&ouid=102337878551539739303&rtpof=true&sd=true)  
+➢ [Coding project portfolio - non.student](https://drive.google.com/drive/folders/11T57U1_d_w0gu34fWEQ_r6mfrmz1RWUo?usp=sharing)  
+
+-------------
+
 
 **`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
 
@@ -23,8 +31,6 @@
 --> [codebook](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
 
 --------
-
-**`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 
 **`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 ➢ [CSC265 Discrete Structures](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
