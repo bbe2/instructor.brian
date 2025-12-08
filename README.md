@@ -15,7 +15,6 @@
 ➢ Full-time City of Peabody Veterans Memorial High-school English & computer science substitute teacher  
 --------
 
---------
 **`Fall 2025`**  - [Regis College - Intro to Programming II](https://www.immerse.education/)  
 
 ➢ [syllabus](https://docs.google.com/document/d/1BmQRHBPMuwYC5jtXvDs4UqhiMhGWWyxC/edit?usp=sharing&ouid=102337878551539739303&rtpof=true&sd=true)  
@@ -41,8 +40,6 @@
 
 --------
 
-
--------------
 ### => ** **`how.To templates`**  
 ➢ quality, and fast, information exchange  
 ➢ [how.To.INformation.Synthesis](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
@@ -51,6 +48,8 @@
 
 ➢ example using my engine to convert technical into steps for employees to [get work done](https://drive.google.com/file/d/1_yyuWXKUQwwM5hoeTA07e8lKYz4olCEN/view?usp=sharing)  
 
+
+-------
 
 **`Fall 2023`**  - Clark University, Quanthub, SNHU 
 
