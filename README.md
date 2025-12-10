@@ -1,11 +1,11 @@
-# This page => Regis College STEM Department/ Cybersecurity School of Arts and Sciences 
-## **`Problem Solving and Programming Fundamentals II/Lab, CS-105-01`**
+## Regis College, School of Arts and Sciences, STEM Department  
+### **`Problem Solving and Programming Fundamentals II/Lab, CS-105-01`**
 - Faculty:  Lecturer Brian Hogan, MS 
 - <instructor.b.hogan@gmail.com>, <brian.hogan@regiscollege.edu>
 - Semester/Year: 	fall.2025, Class Type:		Lecture/Lab  
 
 -------------
-# **`Essential course materials by week`**  
+### **`Essential course materials by week`**  
 ➢ see .ipynb by week as each contains all associated lesson materials
 - hint: use notepad+ for quick visualizaing whole codebook
 - https://notepad-plus-plus.org/downloads/v8.6.7/
