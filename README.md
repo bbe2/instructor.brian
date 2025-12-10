@@ -4,6 +4,10 @@
 - <instructor.b.hogan@gmail.com>, <brian.hogan@regiscollege.edu>
 - Semester/Year: 	fall.2025, Class Type:		Lecture/Lab  
 
+**`relevant instructor.brian links`** [`portfolio.home`](https://github.com/bbe2/portfolio); [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+[`master.of.science.portfolio`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
+
+
 -------------
 ### **`Essential course materials by week`**  
 ➢ see .ipynb by week as each contains all associated lesson materials
@@ -18,11 +22,3 @@
 ➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)
 
 --------
-
-```  
-
-[`portfolio.home`](https://github.com/bbe2/portfolio)  
-[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
-[`master.of.science.portfolio`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
-
-((
