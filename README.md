@@ -5,16 +5,15 @@
 - Semester/Year: 	fall.2025, Class Type:		Lecture/Lab  
 
 -------------
-# => **`Essential course materials by week`**  
-➢ all weekly materials and videos in a google colab codebook
-➢ files on this page are all the codebooks in .ipynb
-
-hint: use notepad+ for quick visualizaing whole codebook
+# **`Essential course materials by week`**  
+➢ see .ipynb by week as each contains all associated lesson materials
+- hint: use notepad+ for quick visualizaing whole codebook
 - https://notepad-plus-plus.org/downloads/v8.6.7/
+
+  
 --------
 
-`Misc BUT excellent Python coding resources`  
-
+### **`Misc excellent Python coding resources`**  
 ➢ [Google, lead writrer, Get Started with Python](https://www.coursera.org/learn/get-started-with-python)  
 ➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)
 
