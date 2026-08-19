@@ -9,14 +9,10 @@
 --------
 <img width="250" height="250" alt="g logo regis college" src="https://github.com/user-attachments/assets/6544cb3c-ccfa-4935-ab92-421551327a20" />  
 
-**`Fall 2025`**    
-➢ [Regis College CY105](https://catalog.regiscollege.edu/courses/CS105)
-➢ cybersecurity with indepth programming construct skilling & data structures  
-➢ Full-time City of Peabody Veterans Memorial High-school English & computer science substitute teacher  
---------
-
-**`Fall 2025`**  - [Regis College - Intro to Programming II](https://www.immerse.education/)  
-
+**Regis College - `Fall 2025`**    
+- Intro to programming II w construct & data structure skilling for cybersecurity  
+- [Regis Course catalog - CY105 - Intro to Programming II](https://catalog.regiscollege.edu/courses/CS105)  
+➢ [student course GitHub home](https://github.com/bbe2/instructor.brian/tree/CS105.01.cybersecurity.regis.college)  
 ➢ [syllabus](https://docs.google.com/document/d/1BmQRHBPMuwYC5jtXvDs4UqhiMhGWWyxC/edit?usp=sharing&ouid=102337878551539739303&rtpof=true&sd=true)  
 ➢ [Coding project portfolio - non.student](https://drive.google.com/drive/folders/11T57U1_d_w0gu34fWEQ_r6mfrmz1RWUo?usp=sharing)  
 
